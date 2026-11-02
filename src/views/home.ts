@@ -311,14 +311,21 @@ export default function render(route: Route, mount: HTMLElement) {
   const markerShift = Math.max(0, MARKER_TOP + (markerRows - 1) * MARKER_STEP + 10 - SERIES_GAP);
   applySeriesShift(showObjects ? markerShift : 0);
 
-  /* World bounds (room reserved for the shifted series side, so toggling never refits) */
-  const actorYs = actorNodes.flatMap((a) => [a.baseY - a.r, a.baseY + a.r]);
+  /*
+   * Content bounds: posters with their two-line titles, headshots with a label below,
+   * room at the top for the era names, and the series side's shift when the objects strip opens
+   * (reserved up front so toggling never refits). The frame takes this aspect ratio.
+   */
+  const titleH = 2 * LINE_H + 6;
+  const labelHalfW = 36;
   const bounds = {
-    x0: Math.min(-PW / 2, ...stations.map((s) => s.x - PW / 2)) - 24,
-    x1: Math.max(W + PW / 2, ...stations.map((s) => s.x + PW / 2)) + 24,
-    y0: Math.min(-(FILM_GAP + PH + 40), ...actorYs) - 44,
-    y1: Math.max(SERIES_GAP + PH + 40, ...actorYs) + 30 + markerShift,
+    x0: Math.min(...stations.map((s) => s.x - PW / 2), ...actorNodes.map((a) => a.x - a.r - labelHalfW)) - 12,
+    x1: Math.max(...stations.map((s) => s.x + PW / 2), ...actorNodes.map((a) => a.x + a.r + labelHalfW)) + 12,
+    y0: Math.min(-(FILM_GAP + PH + titleH), ...actorNodes.map((a) => a.baseY - a.r)) - 30,
+    y1: Math.max(SERIES_GAP + PH + titleH, ...actorNodes.map((a) => a.baseY + a.r + LINE_H + 4)) + markerShift + 10,
   };
+  frame.style.setProperty('--map-aspect', String((bounds.x1 - bounds.x0) / (bounds.y1 - bounds.y0)));
+  frame.style.setProperty('--map-bh', String(bounds.y1 - bounds.y0));
 
   /* SVG scaffold, back to front */
   const svg = select(svgEl);
@@ -642,7 +649,7 @@ export default function render(route: Route, mount: HTMLElement) {
     if (w >= 768 || fit >= 0.6) {
       return zoomIdentity.translate((w - bw * fit) / 2 - bounds.x0 * fit, (h - bh * fit) / 2 - bounds.y0 * fit).scale(fit);
     }
-    const k = clamp(h / bh, fit, 0.7);
+    const k = clamp(h / bh, fit, 1); // small screens: fill the frame's height and pan sideways
     const cx = (selected && centreOf(selected)?.x) || xOfYear(2020.5, W);
     const tx = clamp(w / 2 - cx * k, w - bounds.x1 * k, -bounds.x0 * k);
     return zoomIdentity.translate(tx, (h - bh * k) / 2 - bounds.y0 * k).scale(k);

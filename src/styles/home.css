@@ -45,7 +45,9 @@
 
 .home-map__frame {
   position: relative; isolation: isolate; overflow: hidden;
-  height: 70vh; min-height: 420px;
+  /* Sized to the map's content bounds (set by home.ts) so the map fills its box. */
+  aspect-ratio: var(--map-aspect, 3);
+  max-height: 75vh; min-height: 360px;
   border-top: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline);
   background: var(--ink);
 }
@@ -157,6 +159,7 @@
   .home-card { padding: var(--s-2); justify-items: center; }
   .home-card__title { font-size: var(--text-xs); gap: var(--s-1); white-space: nowrap; }
   .home-card__text { display: none; }
-  .home-map__frame { height: 62vh; min-height: 340px; margin: 0 calc(var(--gutter) * -1); border-left: 0; border-right: 0; }
+  /* Small screens: the whole map's height at 0.75 scale, panned sideways. */
+  .home-map__frame { aspect-ratio: auto; height: min(calc(var(--map-bh, 460) * 0.75px), 62vh); min-height: 300px; margin: 0 calc(var(--gutter) * -1); }
   .home-map__hint { flex-basis: 100%; }
 }

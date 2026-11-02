@@ -6,8 +6,8 @@
  * series below, nudged sideways only where two posters would overlap.
  * Recurring actors (acting credits in 2+ core works) are placed by a d3-force
  * simulation: pulled to the mean date of their works, pushed into the film or
- * series half where most of their work is, kept out of the poster band around
- * the axis, and spaced by radius plus label room. d3-force v3 uses a fixed-seed
+ * series half where most of their work is, clamped to a band 60-160px (series:
+ * 60-200px) from the axis, and kept off the posters, their titles and each other. d3-force v3 uses a fixed-seed
  * random source, so the same data always yields the same layout.
  *
  * Reads src/data/generated/{works,people}.json; writes
@@ -38,12 +38,14 @@ const POSTER_H = 66;
 const FILM_GAP = 24;          // axis to the bottom of a film poster (year labels sit here)
 const SERIES_GAP = 32;        // axis to the top of a series poster (props & eggs markers sit here)
 const POSTER_SPACING = POSTER_W + 8;
-const CLEAR_FILM = FILM_GAP + POSTER_H + 48;     // actors stay above this (room for two label rows)
-const CLEAR_SERIES = SERIES_GAP + POSTER_H + 48; // and below this
-const LABELLED_MIN_WORKS = 4; // matches home.ts: always-on labels
-const Y_SPREAD = 170;         // how far past the poster band actors settle
-const NODE_ROOM = 9;          // collide padding: unlabelled actors
-const LABEL_ROOM = 26;        // collide padding: always-labelled actors (label sits below)
+const BAND_MIN = 60;           // actor centres sit between BAND_MIN and the side's max distance from the axis
+const BAND_MAX_FILM = 160;     // films (above): 15 actors, plenty of room
+const BAND_MAX_SERIES = 200;   // series (below): ~50 actors in the Netflix years need a little more depth
+const LABELLED_MIN_WORKS = 4;  // matches home.ts: always-on labels
+const NODE_ROOM = 8;           // collide padding: unlabelled actors
+const LABEL_ROOM = 20;         // collide padding: always-labelled actors (label sits below)
+const POSTER_ROOM = Math.hypot(POSTER_W, POSTER_H) / 2 + 4; // a poster as a collide circle
+const LABEL_CHAR_W = 5.2;      // approx. width of one 11px condensed character, for work-label obstacles
 
 const radiusFor = (n) => 10 + (Math.min(n, 10) - 2) * (14 / 8);
 
@@ -88,13 +90,17 @@ const actors = people
   .filter((a) => a.slugs.length >= 2)
   .sort((a, b) => b.slugs.length - a.slugs.length || a.id - b.id);
 
+/* Fixed obstacles: each poster, plus its title label on the side away from the axis. */
 const nodes = [];
 const links = [];
-const workNodes = new Map();
 for (const [slug, s] of stations) {
-  const n = { id: `w:${slug}`, kind: 'work', x: s.x, y: s.y, fx: s.x, fy: s.y };
-  workNodes.set(slug, n);
-  nodes.push(n);
+  nodes.push({ id: `w:${slug}`, kind: 'work', x: s.x, y: s.y, fx: s.x, fy: s.y, room: POSTER_ROOM });
+  const title = coreBySlug.get(slug).title;
+  const lineChars = title.length > 17 ? Math.ceil(title.length / 2) : title.length; // home.ts wraps long titles
+  const room = Math.max(16, (lineChars * LABEL_CHAR_W) / 2);
+  const side = Math.sign(s.y);
+  const y = s.y + side * (POSTER_H / 2 + room * 0.6);
+  nodes.push({ id: `l:${slug}`, kind: 'label', x: s.x, y, fx: s.x, fy: y, room });
 }
 for (const a of actors) {
   const films = a.slugs.filter((s) => !isSeries(coreBySlug.get(s))).length;
@@ -102,24 +108,26 @@ for (const a of actors) {
   const meanX = a.slugs.reduce((t, s) => t + stations.get(s).ax, 0) / a.slugs.length;
   const r = radiusFor(a.slugs.length);
   const labelled = a.slugs.length >= LABELLED_MIN_WORKS;
-  const clear = side < 0 ? CLEAR_FILM : CLEAR_SERIES;
   const n = {
     id: `p:${a.id}`, kind: 'person', personId: a.id, side, r, meanX, labelled,
-    minAbsY: clear + r,
-    // A stable, readable start: at the mean date, just outside the poster band.
-    x: meanX, y: side * (clear + r + 20),
+    minAbsY: BAND_MIN + r, maxAbsY: side < 0 ? BAND_MAX_FILM : BAND_MAX_SERIES,
+    // A stable start: at the mean date, in the middle of the band.
+    x: meanX, y: side * ((BAND_MIN + (side < 0 ? BAND_MAX_FILM : BAND_MAX_SERIES)) / 2),
   };
   nodes.push(n);
   for (const s of a.slugs) links.push({ source: n.id, target: `w:${s}` });
 }
 
-/** Keeps actors out of the poster band around the axis. */
-function forceClearBand() {
+/** Clamps each actor into its side's band: clear of the axis strip, never far from the posters. */
+function forceBand() {
   let ns = [];
   const force = () => {
     for (const n of ns) {
       if (n.kind !== 'person') continue;
-      if (n.side * n.y < n.minAbsY) { n.y = n.side * n.minAbsY; if (n.vy * n.side < 0) n.vy = 0; }
+      // Clamp where the node will land this tick (position + velocity), not where it is now.
+      const d = n.side * (n.y + n.vy);
+      if (d < n.minAbsY) { n.y = n.side * n.minAbsY; n.vy = 0; }
+      else if (d > n.maxAbsY) { n.y = n.side * n.maxAbsY; n.vy = 0; }
     }
   };
   force.initialize = (all) => { ns = all; };
@@ -128,15 +136,33 @@ function forceClearBand() {
 
 const isPerson = (n) => n.kind === 'person';
 const sim = forceSimulation(nodes)
-  .force('x', forceX((n) => (isPerson(n) ? n.meanX : n.x)).strength((n) => (isPerson(n) ? 0.25 : 0)))
-  .force('y', forceY((n) => (isPerson(n) ? n.side * (n.minAbsY + Y_SPREAD) : n.y)).strength((n) => (isPerson(n) ? 0.04 : 0)))
-  .force('link', forceLink(links).id((n) => n.id).strength(0.015).distance(60))
-  // Labels sit below the node, so labelled actors claim more room.
-  .force('collide', forceCollide((n) => (isPerson(n) ? n.r + (n.labelled ? LABEL_ROOM : NODE_ROOM) : 0)).strength(0.9).iterations(3))
-  .force('band', forceClearBand())
+  .force('x', forceX((n) => (isPerson(n) ? n.meanX : n.x)).strength((n) => (isPerson(n) ? 0.12 : 0)))
+  .force('y', forceY((n) => (isPerson(n) ? n.side * (n.minAbsY + n.maxAbsY) / 2 : n.y)).strength((n) => (isPerson(n) ? 0.15 : 0)))
+  .force('link', forceLink(links).id((n) => n.id).strength(0.01).distance(60))
+  // Labels sit below the node, so labelled actors claim more room; posters and titles are fixed obstacles.
+  .force('collide', forceCollide((n) => (isPerson(n) ? n.r + (n.labelled ? LABEL_ROOM : NODE_ROOM) : n.room)).strength(0.9).iterations(4))
+  .force('band', forceBand())
   .stop();
 
-for (let i = 0; i < 600; i++) sim.tick();
+for (let i = 0; i < 800; i++) sim.tick();
+
+/* Report anything still overlapping (headshot vs headshot, headshot vs poster). */
+const people_ = nodes.filter(isPerson);
+let clashes = 0;
+for (let i = 0; i < people_.length; i++) {
+  const a = people_[i];
+  for (let j = i + 1; j < people_.length; j++) {
+    const b = people_[j];
+    if (Math.hypot(a.x - b.x, a.y - b.y) < a.r + b.r + 2) clashes++;
+  }
+  for (const s of stations.values()) {
+    const dx = Math.max(Math.abs(a.x - s.x) - POSTER_W / 2, 0), dy = Math.max(Math.abs(a.y - s.y) - POSTER_H / 2, 0);
+    if (Math.hypot(dx, dy) < a.r + 2) clashes++;
+  }
+}
+if (clashes) console.warn(`layout: ${clashes} overlapping node pair(s); loosen BAND_MAX_* or the collide padding.`);
+const absY = people_.map((n) => Math.abs(n.y));
+console.log(`actor |y| range ${Math.round(Math.min(...absY))}-${Math.round(Math.max(...absY))}`);
 
 const out = {
   meta: {
