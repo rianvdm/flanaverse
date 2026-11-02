@@ -62,7 +62,7 @@ export function closePeek(): void {
   host.hidden = true;
   document.body.classList.remove('has-peek');
   closeListeners.forEach((fn) => fn());
-  if (lastFocus instanceof HTMLElement) lastFocus.focus({ preventScroll: true });
+  if (lastFocus instanceof HTMLElement || lastFocus instanceof SVGElement) (lastFocus as HTMLElement).focus({ preventScroll: true });
 }
 
 export function isPeekOpen(): boolean { return !!host && !host.hidden; }

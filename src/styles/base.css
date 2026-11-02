@@ -38,6 +38,7 @@ h1, h2, h3 {
   letter-spacing: -0.01em;
   margin: 0;
   color: var(--bone);
+  font-variant-numeric: lining-nums;
 }
 h1 { font-size: clamp(var(--text-2xl), 5vw, var(--text-4xl)); }
 h2 { font-size: clamp(var(--text-xl), 3.5vw, var(--text-3xl)); }
@@ -95,6 +96,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .seg { display: inline-flex; border: 1px solid var(--hairline); border-radius: var(--r-sm); overflow: hidden; }
 .seg .btn { border: 0; border-radius: 0; background: transparent; }
 .seg .btn + .btn { border-left: 1px solid var(--hairline); }
+.seg .btn[aria-pressed="true"], .seg .btn.is-active { background: var(--brass-20); color: var(--candle); box-shadow: inset 0 -2px 0 var(--brass); }
 
 /* Backdrop bleed: a page-level background still, desaturated and faded */
 .bleed { position: relative; isolation: isolate; }
