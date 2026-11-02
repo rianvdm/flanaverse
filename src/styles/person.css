@@ -1,0 +1,172 @@
+/* #/person/:slug */
+
+/* ---------- unknown slug */
+.person-missing h1 { margin: var(--s-2) 0 var(--s-4); }
+
+/* ---------- hero */
+.person-hero { border-bottom: 1px solid var(--hairline); }
+.person-hero .bleed__img { background-position: center 30%; }
+.person-hero__inner {
+  display: grid; grid-template-columns: auto minmax(0, 1fr); gap: var(--s-6);
+  align-items: start; padding-top: var(--s-7); padding-bottom: var(--s-6);
+}
+.person-hero__shot .headshot { border-color: var(--bone-10); box-shadow: 0 0 0 6px var(--ink-80), 0 0 0 7px var(--brass-40); }
+.person-hero__shot .headshot img { filter: grayscale(0.15); }
+.person-hero__text { max-width: 72ch; }
+.person-hero__kicker { margin-bottom: var(--s-2); line-height: 1.7; }
+.person-hero__kicker > span { white-space: nowrap; }
+.person-hero__sep { color: var(--dust); }
+.person-hero__kicker a { color: var(--brass); }
+.person-hero__name { font-size: clamp(var(--text-3xl), 6vw, 4.5rem); font-weight: 500; margin-bottom: var(--s-4); }
+.person-hero__bio { font-size: var(--text-lg); line-height: 1.6; }
+.person-hero__bio p { margin-bottom: var(--s-3); }
+.person-hero__more summary {
+  display: inline-block; cursor: pointer; list-style: none;
+  font-family: var(--font-ui); font-size: var(--text-sm); color: var(--brass);
+  margin-bottom: var(--s-3);
+}
+.person-hero__more summary::-webkit-details-marker { display: none; }
+.person-hero__more summary::after { content: ' ↓'; }
+.person-hero__more[open] summary::after { content: ' ↑'; }
+.person-hero__more summary:hover { color: var(--candle); }
+.person-hero__more[open] summary { margin-bottom: var(--s-3); }
+.person-hero__credit { font-family: var(--font-ui); font-size: var(--text-xs); color: var(--dust); }
+.person-hero__fact { color: var(--ash); font-size: var(--text-md); }
+.person-hero__fact .kicker { color: var(--brass); margin-right: var(--s-1); }
+.person-hero__facts { font-family: var(--font-ui); font-size: var(--text-sm); color: var(--ash); margin-bottom: var(--s-3); }
+.person-hero__links { display: flex; flex-wrap: wrap; gap: var(--s-2); margin: 0; }
+.person-hero__sources { margin: var(--s-3) 0 0; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--dust); }
+.person-hero__sources a { color: var(--ash); }
+.person-hero__sources a:hover { color: var(--candle); }
+.person-hero__links .btn { font-size: var(--text-xs); padding: var(--s-1) var(--s-3); background: transparent; }
+
+.person__body { padding-top: 0; }
+/* The shared strip centres thumbs on their dates; inset it so the first and last stay on the page. */
+.person__strip { padding: 0 24px; }
+
+/* ---------- ego map */
+.ego__caption {
+  min-height: 3em; margin: 0 auto var(--s-2); max-width: 62ch; text-align: center;
+  font-family: var(--font-ui); font-size: var(--text-sm); color: var(--ash);
+}
+.ego__canvas { max-width: 960px; margin: 0 auto; }
+.ego__canvas.is-solo { max-width: 460px; }
+.ego__svg { display: block; width: 100%; height: auto; overflow: visible; font-family: var(--font-ui); }
+.ego__note { text-align: center; font-family: var(--font-ui); font-size: var(--text-xs); margin: var(--s-2) 0 0; }
+
+.ego__guides circle { fill: none; stroke: var(--hairline); stroke-width: 1; stroke-dasharray: 2 5; }
+.ego__guides .ego__guide--outer { stroke-dasharray: 1 7; opacity: 0.7; }
+
+.ego-link { fill: none; stroke: var(--bone); stroke-opacity: 0.09; stroke-width: 1; transition: stroke-opacity var(--dur) var(--ease), stroke var(--dur) var(--ease); }
+.ego__svg.is-focus .ego-link { stroke-opacity: 0.03; }
+.ego__svg.is-focus .ego-link.is-lit { stroke: var(--candle); stroke-opacity: 0.85; stroke-width: 1.5; }
+
+.ego-centre__bg { fill: var(--vault); }
+.ego-centre__ring { fill: none; stroke: var(--bone); stroke-width: 2; }
+.ego-initials { fill: var(--ash); text-anchor: middle; font-family: var(--font-display); font-size: 28px; }
+
+.ego-node { cursor: pointer; outline: none; transition: opacity var(--dur) var(--ease); }
+.ego__svg.is-focus .ego-node:not(.is-lit) { opacity: 0.28; }
+
+.ego-work__bg { fill: var(--vault); }
+.ego-work__frame { fill: none; stroke: var(--brass); stroke-width: 1.25; transition: stroke var(--dur) var(--ease), stroke-width var(--dur) var(--ease); }
+.ego-work.is-lit .ego-work__frame, .ego-work:hover .ego-work__frame { stroke: var(--candle); stroke-width: 2.5; }
+.ego-work:focus-visible .ego-work__frame { stroke: var(--candle); stroke-width: 3.5; }
+.ego-work__label {
+  fill: var(--bone); font-stretch: 85%; font-weight: 450;
+  paint-order: stroke; stroke: var(--ink); stroke-width: 4px; stroke-linejoin: round;
+}
+.ego-work__year { fill: var(--dust); font-size: 0.85em; font-variant-numeric: tabular-nums; }
+.ego-work.is-lit .ego-work__label { fill: var(--candle); }
+
+.ego-star__bg { fill: var(--vault); }
+.ego-star image { filter: grayscale(0.4); transition: filter var(--dur) var(--ease); }
+.ego-star.is-lit image, .ego-star:hover image { filter: none; }
+.ego-star__ring { fill: none; stroke: var(--bone); stroke-opacity: 0.35; stroke-width: 1.25; transition: stroke var(--dur) var(--ease), stroke-opacity var(--dur) var(--ease); }
+.ego-star.is-lit .ego-star__ring, .ego-star:hover .ego-star__ring { stroke: var(--candle); stroke-opacity: 1; stroke-width: 2; }
+.ego-star:focus-visible .ego-star__ring { stroke: var(--candle); stroke-opacity: 1; stroke-width: 3.5; }
+.ego-star__label {
+  fill: var(--ash); font-stretch: 85%;
+  paint-order: stroke; stroke: var(--ink); stroke-width: 3px; stroke-linejoin: round;
+}
+.ego-star__count { fill: var(--dust); font-variant-numeric: tabular-nums; }
+.ego-star.is-lit .ego-star__label, .ego-star:hover .ego-star__label { fill: var(--candle); }
+
+.ego__list { margin: var(--s-5) auto 0; max-width: 960px; font-family: var(--font-ui); font-size: var(--text-sm); }
+.ego__list summary { cursor: pointer; color: var(--brass); width: max-content; }
+.ego__list summary:hover { color: var(--candle); }
+.ego__list-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s-5); margin-top: var(--s-4); }
+.ego__list h3 { font-family: var(--font-ui); font-size: var(--text-xs); letter-spacing: 0.1em; text-transform: uppercase; color: var(--ash); margin-bottom: var(--s-2); }
+.ego__list li { padding: var(--s-1) 0; border-bottom: 1px solid var(--bone-10); }
+
+/* ---------- role cards */
+.roles { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--s-3); counter-reset: none; }
+.role {
+  display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: var(--s-4); align-items: start;
+  padding: var(--s-3); background: var(--night); border: 1px solid var(--hairline); border-radius: var(--r-sm);
+  transition: border-color var(--dur) var(--ease);
+}
+.role:hover { border-color: var(--brass-40); }
+.role__poster { display: block; aspect-ratio: 2 / 3; overflow: hidden; border: 1px solid var(--brass-40); background: var(--vault); }
+.role__poster img { width: 100%; height: 100%; object-fit: cover; }
+.role__poster span { display: flex; align-items: center; justify-content: center; height: 100%; padding: var(--s-1); text-align: center; font-family: var(--font-display); font-size: var(--text-sm); color: var(--ash); }
+.role:hover .role__poster { border-color: var(--brass); }
+.role__body { display: flex; flex-direction: column; gap: 2px; min-width: 0; padding-top: 2px; }
+.role__meta { margin: 0; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); letter-spacing: 0.04em; }
+.role__tier { color: var(--brass); }
+.role__work { font-family: var(--font-ui); font-size: var(--text-sm); font-weight: 500; letter-spacing: 0; line-height: 1.3; }
+.role__work a { color: var(--bone); }
+.role__work a:hover { color: var(--candle); }
+.role__as { margin: var(--s-1) 0 0; line-height: 1.15; }
+.role__as-word { font-family: var(--font-reading); font-style: italic; font-size: var(--text-sm); color: var(--ash); }
+.role__char { font-family: var(--font-display); font-size: var(--text-xl); font-weight: 600; color: var(--bone); }
+.role__eps { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-1) var(--s-2); margin: var(--s-2) 0 0; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); }
+.role__dots { display: inline-flex; gap: 3px; }
+.role__dots i { width: 7px; height: 7px; border-radius: 50%; border: 1px solid var(--brass-40); }
+.role__dots i.is-on { background: var(--brass); border-color: var(--brass); }
+.role__also { margin: var(--s-1) 0 0; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--dust); }
+
+/* ---------- most often with */
+.pairs { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: var(--s-2) var(--s-5); }
+.pair {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: 'chip link' 'works works';
+  gap: var(--s-1) var(--s-3); align-items: center; padding: var(--s-2) 0 var(--s-3); border-bottom: 1px solid var(--bone-10);
+}
+.pair .chip { grid-area: chip; justify-self: start; }
+.pair .chip__meta { color: var(--brass); }
+.pair__works { grid-area: works; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); font-stretch: 90%; }
+.pair__link { grid-area: link; font-family: var(--font-ui); font-size: var(--text-xs); white-space: nowrap; }
+
+/* ---------- behind the camera */
+.crew { display: grid; gap: 0; font-family: var(--font-ui); font-size: var(--text-sm); max-width: 900px; }
+.crew__row {
+  display: grid; grid-template-columns: 3.5rem minmax(0, 16rem) minmax(0, 1fr); gap: var(--s-3);
+  padding: var(--s-2) 0; border-bottom: 1px solid var(--bone-10); align-items: baseline;
+}
+.crew__year { color: var(--dust); }
+.crew__work { color: var(--bone); }
+.crew__work:hover { color: var(--candle); }
+.crew__jobs { color: var(--ash); }
+
+/* ---------- peek bodies (the panel lives on <body>) */
+.pk-roles { display: grid; gap: var(--s-2); }
+.pk-roles li { line-height: 1.35; }
+.pk-roles__as { display: block; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--bone); }
+.pk-lead { font-size: var(--text-md); }
+.pk-lead strong { font-family: var(--font-display); font-size: var(--text-xl); font-weight: 600; }
+.pk-connect { margin: var(--s-3) 0 0; font-family: var(--font-ui); }
+
+/* ---------- small screens */
+@media (max-width: 719.98px) {
+  .person-hero__inner { grid-template-columns: minmax(0, 1fr); gap: var(--s-4); padding-top: var(--s-5); }
+  .person-hero__shot .headshot--xl { width: 132px; height: 132px; }
+  .person-hero__name { font-size: var(--text-3xl); margin-bottom: var(--s-3); }
+  .person-hero__bio { font-size: var(--text-md); }
+  .roles, .pairs { grid-template-columns: minmax(0, 1fr); }
+  .role { grid-template-columns: 64px minmax(0, 1fr); gap: var(--s-3); }
+  .crew__row { grid-template-columns: 3rem minmax(0, 1fr); row-gap: 2px; }
+  .crew__jobs { font-size: var(--text-xs); }
+  .crew__jobs { grid-column: 2; }
+  .ego__caption { min-height: 4.5em; }
+  .ego .section__head .kicker { display: none; }
+}

@@ -1,0 +1,41 @@
+/* #/people: the repertory index. */
+.people__head { margin-bottom: var(--s-5); }
+.people__head h1 { margin: var(--s-1) 0 var(--s-3); }
+.people__lede { font-size: var(--text-lg); color: var(--ash); margin: 0; max-width: 60ch; }
+.people__lede .num { color: var(--bone); }
+.people__grid-link { display: inline-block; white-space: nowrap; font-family: var(--font-ui); font-size: var(--text-sm); }
+
+.people__filters {
+  position: sticky; top: var(--header-h); z-index: 5;
+  padding: var(--s-3) 0;
+  margin-bottom: var(--s-2);
+  background: var(--ink-80);
+  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--hairline);
+}
+.people__min { display: inline-flex; align-items: center; gap: var(--s-2); }
+.people__min .btn { min-width: 2.25rem; justify-content: center; padding-inline: var(--s-2); }
+/* base .seg .btn resets the background after .btn[aria-pressed]; restore the pressed look */
+.people__min .seg .btn[aria-pressed="true"] { background: var(--brass-20); color: var(--candle); box-shadow: inset 0 -2px 0 var(--brass); }
+.people__search { flex: 1 1 220px; max-width: 340px; }
+.people__filters .people__search input { width: 100%; padding: var(--s-2) var(--s-3); }
+.people__search input::placeholder { color: var(--dust); }
+.people__filters .people__search input:focus { outline: none; border-color: var(--brass); }
+
+.people__status { min-height: 1.4em; margin: var(--s-2) 0 var(--s-4); font-family: var(--font-ui); font-size: var(--text-sm); }
+.people__status:empty { margin-bottom: var(--s-3); }
+
+.people__grid .person-card { padding: var(--s-2) var(--s-1); border-radius: var(--r-md); }
+.people__grid .person-card__meta { display: flex; flex-direction: column; gap: 1px; }
+.people-card__count { color: var(--ash); }
+.people-card__jobs { color: var(--brass); font-stretch: 85%; }
+.people-card__era { color: var(--dust); font-stretch: 85%; letter-spacing: 0.01em; }
+
+@media (max-width: 559.98px) {
+  .people__filters { position: static; gap: var(--s-2) var(--s-3); backdrop-filter: none; -webkit-backdrop-filter: none; background: none; }
+  .people__search { flex: 1 1 140px; max-width: none; }
+  .people__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s-4) var(--s-2); }
+  .people__grid .headshot--lg { width: 84px; height: 84px; }
+  .people__grid .person-card__name { font-size: var(--text-xs); }
+  .people__grid .person-card__meta { font-size: 0.6875rem; }
+}
