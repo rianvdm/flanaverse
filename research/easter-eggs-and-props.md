@@ -331,6 +331,12 @@ All from [NME](https://www.nme.com/features/tv-features/33-secret-ghosts-hauntin
 - **Appears in:** *Hush* (Samantha Sloyan plays Sarah Greene, Maddie's neighbour); *Midnight Mass* (Erin Greene, played by Kate Siegel, who played Maddie).
 - **Status:** CONFIRMED in credits; meaning is FAN THEORY. [Wikipedia: Hush](https://en.wikipedia.org/wiki/Hush_(2016_feature_film)); [TV Insider](https://www.tvinsider.com/gallery/midnight-mass-netflix-easter-eggs-mike-flanagan-cameo-carla-gugino-x-files/)
 
+### 3.2a The Riley name, Absentia to Midnight Mass
+
+- **What:** Courtney Bell's character in *Absentia* is Tricia Riley; *Midnight Mass*'s lead is Riley Flynn, a name already on the *Hush* novel prop.
+- **Status:** FAN THEORY (our own observation from the cast list; no outlet or Flanagan statement links them).
+- **Source:** [Wikipedia: Absentia](https://en.wikipedia.org/wiki/Absentia_(film))
+
 ### 3.3 Hill House dialogue reused in Bly Manor
 
 Bly is a separate story with "no dramatic link" to Hill House (Flanagan, per Wikipedia). The writers still threaded in lines. All from [TV Guide](https://www.tvguide.com/news/haunting-bly-manor-hill-house-easter-eggs/); status WIDELY REPORTED (also [Screen Rant](https://screenrant.com/haunting-bly-manor-easter-eggs-hill-house-references/), [Capital](https://www.capitalfm.com/news/tv-film/hill-house-references-easter-eggs/)).
@@ -433,7 +439,7 @@ CONFIRMED from credits. Sources: [Netflix Tudum](https://www.netflix.com/tudum/a
 
 ### 3.14 Recurring monologue structure
 
-- **What:** Most works build to a long speech, often about death: Nell's "confetti" (Hill House Ep. 10), Erin's "whose dream is this" and Riley's boat speech (Midnight Mass Eps. 7 and 6), Jamie's ghost-memory speech (Bly Ep. 9), Ilonka's "stories" (Midnight Club), Roderick to Dupin (Usher, framing every episode), the Whitman "I contain multitudes" thread in *Life of Chuck*. Flanagan: he never sets out to write one; with Midnight Mass "there were monologues because I had a lot to say," calling it the line between "storytelling and confession." He gets "constant pushback" from executives about them.
+- **What:** Most works build to a long speech, often about death: Nell's "confetti" (Hill House Ep. 10), Erin's and Riley's speeches about what happens when we die (Midnight Mass), Jamie's ghost-memory speech (Bly Ep. 9), Ilonka's "stories" (Midnight Club), Roderick to Dupin (Usher, framing every episode), the Whitman "I contain multitudes" thread in *Life of Chuck*. Flanagan: he never sets out to write one; with Midnight Mass "there were monologues because I had a lot to say," calling it the line between "storytelling and confession." He gets "constant pushback" from executives about them.
 - **Status:** CONFIRMED (Flanagan quotes).
 - **Sources:** [SlashFilm](https://www.slashfilm.com/1069100/why-mike-flanagan-gets-constant-pushback-for-his-signature-monologues/); [Telltale TV (ATX 2024)](https://telltaletv.com/2024/06/mike-flanagan-talks-the-importance-of-monologue-helming-the-the-exorcist-remake-and-more-atx-tv-festival/); [Collider](https://collider.com/mike-flanagan-horror-monologues/)
 
@@ -453,7 +459,7 @@ All WIDELY REPORTED unless noted ([Nerdist](https://nerdist.com/article/haunting
 
 | Ref | Where | What |
 |---|---|---|
-| Opening and closing paragraphs | Ep. 1 and Ep. 10 | Steven's book quotes Jackson's famous opening; the finale bends its ending ("…and we who walk here, walk together") |
+| Opening and closing paragraphs | Ep. 1 and Ep. 10 | Steven's book quotes Jackson's famous opening; the finale flips the novel's "whatever walked there, walked alone" into "those who walk there, walk together" |
 | Character names | throughout | see 3.6 |
 | "Whose hand was I holding?" | Ep. 3 "Touch" | Theo holds a hand in the dark that isn't there; plus the greenhouse rock story, also from the book |
 | "Welcome home, Nell" / name on the walls | various | Red chalk and under-wallpaper messages |
@@ -708,7 +714,7 @@ Axelle Carolyn (Bly Ep. 8, Midnight Club Eps. 6–7, Carrie Ep. 4); Rebecca Leig
 
 | Work | Where it was shot | Status | Source |
 |---|---|---|---|
-| *Absentia* | Glendale, CA; Flanagan lived across from the tunnel | CONFIRMED | [Wikipedia](https://en.wikipedia.org/wiki/Absentia_(film)) |
+| *Absentia* | California; set in a Glendale neighbourhood, and Flanagan lived across the street from the real tunnel. Kickstarter-funded. | CONFIRMED | [Wikipedia](https://en.wikipedia.org/wiki/Absentia_(film)) |
 | *Hush* | Alabama; the script was blocked out in Flanagan and Siegel's own house, then rewritten when no match was found | CONFIRMED | [Wikipedia](https://en.wikipedia.org/wiki/Hush_(2016_feature_film)) |
 | *Hill House* | Exterior: Bisham Manor (now Alta Vista), LaGrange, Georgia, heavily altered with CGI. Interiors built at EUE/Screen Gems, Atlanta. The only Netflix show not shot in Vancouver. | WIDELY REPORTED | [KFTV](https://www.kftv.com/news/2018/10/29/hill-house-built-on-atlanta-stage-for-netflix-drama); [Atlas of Wonders](https://atlasofwonders.com/2018/10/haunting-hill-house-location.html) |
 | *Doctor Sleep* | Atlanta area, Georgia; Overlook rebuilt from Kubrick's drawings | CONFIRMED | [Wikipedia](https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)) |
@@ -727,7 +733,7 @@ Flanagan has said Hill House is *Oculus* stretched to ten hours: two braided tim
 
 ### 6.8 The Absentia scare came from a dream
 
-The film's central scare reworks a dream Flanagan had about an uncle who died shortly before he made it. CONFIRMED (per the IndieWire/Yahoo coverage of the same talk).
+The film's central scare reworks a dream Flanagan had about an uncle who died shortly before he made it. WIDELY REPORTED (surfaced in search coverage of the same 2024 talk; verify the quote in the [IndieWire](https://www.indiewire.com/news/events/mike-flanagan-says-haunting-of-hill-house-is-just-10-hour-oculus-1235029678/) piece, which blocks automated fetches). He has also said *Absentia* was subconsciously inspired by the 1983 *Fraggle Rock* episode "The Terrible Tunnel" (Scream Dreams podcast, January 2024; CONFIRMED via [Wikipedia](https://en.wikipedia.org/wiki/Absentia_(film))).
 
 ### 6.9 Carrie: music and writers' room
 

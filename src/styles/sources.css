@@ -1,0 +1,80 @@
+/* #/sources: adapted authors. */
+
+.src-head { display: grid; gap: var(--s-3); margin-bottom: var(--s-6); }
+.src-lede { font-size: var(--text-lg); color: var(--ash); max-width: 60ch; margin: 0; }
+.src-subhead { font-family: var(--font-ui); font-size: var(--text-xs); font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ash); margin: 0 0 var(--s-3); }
+
+/* ---- summary ---- */
+.src-summary { display: grid; gap: var(--s-6); padding-bottom: var(--s-6); border-bottom: 1px solid var(--hairline); }
+@media (min-width: 900px) { .src-summary { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: var(--s-7); } }
+
+.src-table { width: 100%; border-collapse: collapse; font-family: var(--font-ui); font-size: var(--text-sm); }
+.src-table th, .src-table td { padding: var(--s-2) var(--s-3); text-align: left; border-bottom: 1px solid var(--hairline); }
+.src-table thead th { font-size: var(--text-xs); font-weight: 400; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dust); }
+.src-table th:first-child, .src-table td:first-child { padding-left: 0; }
+.src-table .src-count { text-align: right; width: 4rem; padding-right: var(--s-5); }
+.src-table td:last-child { color: var(--ash); width: 8rem; }
+.src-table tbody th { font-weight: 400; }
+.src-table tbody tr:hover { background: var(--vault); }
+.src-jump { display: inline-flex; align-items: center; gap: 0.5em; color: var(--bone); }
+.src-jump:hover { color: var(--candle); }
+.src-jump .glyph { width: 1em; height: 1em; }
+
+.src-originals { border-left: 1px solid var(--hairline); padding-left: var(--s-5); }
+.src-originals p { font-size: var(--text-md); color: var(--ash); max-width: 48ch; }
+.src-originals .num { color: var(--bone); }
+@media (max-width: 899.98px) { .src-originals { border-left: 0; padding-left: 0; } }
+
+/* ---- per author ---- */
+.src-author {
+  display: grid; gap: var(--s-4) var(--s-7);
+  padding: var(--s-7) 0 var(--s-6);
+  border-bottom: 1px solid var(--hairline);
+  scroll-margin-top: calc(var(--header-h) + var(--s-4));
+  outline: none;
+}
+@media (min-width: 900px) {
+  .src-author { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); grid-template-areas: 'head works' 'body works' 'refs works'; align-content: start; }
+  .src-author__head { grid-area: head; }
+  .src-author__body { grid-area: body; }
+  .src-works { grid-area: works; align-self: start; }
+  .src-author__refs { grid-area: refs; }
+}
+.src-author:focus-visible .src-author__head h2 { color: var(--candle); }
+.src-author__head h2 { display: flex; align-items: center; gap: 0.35em; font-size: clamp(var(--text-2xl), 4vw, var(--text-3xl)); }
+.src-author__head h2 .glyph { width: 0.7em; height: 0.7em; stroke-width: 1.4; }
+.src-author__meta { margin: var(--s-2) 0 0; font-size: var(--text-xs); letter-spacing: 0.08em; text-transform: uppercase; color: var(--dust); }
+.src-author__blurb { font-size: var(--text-lg); max-width: 56ch; }
+.src-author__strip { margin-top: var(--s-4); }
+
+.src-works { display: flex; flex-wrap: wrap; gap: var(--s-5) var(--s-4); }
+.src-works .poster--sm { width: 120px; }
+@media (max-width: 599.98px) {
+  .src-works { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: var(--s-4) var(--s-3); }
+  .src-works .poster--sm { width: 100%; }
+}
+.src-works__orig { display: block; color: var(--wisteria); }
+.src-works__orig em { font-style: italic; }
+.src-works__note { display: block; margin-top: 2px; color: var(--ash); line-height: 1.35; }
+
+.src-unmade { display: flex; flex-direction: column; gap: var(--s-2); width: 120px; }
+@media (max-width: 599.98px) { .src-unmade { width: 100%; } }
+.src-unmade__img {
+  aspect-ratio: 2 / 3; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: var(--s-2);
+  padding: var(--s-3); text-align: center;
+  border: 1px dashed color-mix(in srgb, var(--wisteria) 50%, transparent);
+  font-family: var(--font-display); font-size: var(--text-lg); line-height: 1.1; color: var(--ash);
+}
+.src-unmade__img .glyph { width: 20px; height: 20px; }
+
+/* One adaptation: poster beside its caption so the long original-title notes get room. */
+.src-works--single { display: block; }
+.src-works--single .poster--sm { width: auto; flex-direction: row; align-items: flex-start; gap: var(--s-4); }
+.src-works--single .poster--sm img, .src-works--single .poster--sm .poster__empty { width: 140px; flex: none; }
+.src-works--single .poster__caption { max-width: 40ch; padding-top: var(--s-1); }
+.src-works--single .poster__title { font-size: var(--text-md); }
+.src-works--single .poster__extra { font-size: var(--text-sm); }
+.src-works--single .src-works__note { margin-top: var(--s-2); }
+@media (max-width: 599.98px) {
+  .src-works--single .poster--sm img { width: 96px; }
+}
