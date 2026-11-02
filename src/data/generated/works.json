@@ -8306,5 +8306,623 @@
     "episodes": []
    }
   ]
+ },
+ {
+  "slug": "clayface",
+  "title": "Clayface",
+  "tmdb": {
+   "type": "movie",
+   "id": 1400940
+  },
+  "year": 2026,
+  "tier": "written",
+  "kind": "feature",
+  "tmdbTitle": "Clayface",
+  "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+  "tagline": "Look fear in the face.",
+  "releaseDate": "2026-10-19",
+  "runtime": 109,
+  "genres": [
+   "Horror",
+   "Thriller",
+   "Science Fiction"
+  ],
+  "certification": "R",
+  "voteAverage": 7.45,
+  "poster": "/img/poster/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+  "backdrop": "/img/backdrop/w1280/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+  "backdrops": [
+   "/img/backdrop/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+   "/img/backdrop/w1280/VnT9D7NogVWrmN2UuT30exIYPh.jpg",
+   "/img/backdrop/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
+   "/img/backdrop/w1280/mEVNRsP4csNzB9vv9JGmQlW7rNB.jpg",
+   "/img/backdrop/w1280/7tqNQlkGpmV6t5xhZkcmhF2325T.jpg",
+   "/img/backdrop/w1280/pwWR1DRjoFxwdH0jI2elBdXTF1F.jpg",
+   "/img/backdrop/w1280/e1iAjnhQsM6Z9bYTOxNFxFY6CfG.jpg",
+   "/img/backdrop/w1280/wAES08OKL0C9d1hkkNRhQrmpxY5.jpg"
+  ],
+  "cast": [
+   {
+    "personId": 1327945,
+    "character": "Matt Hagen / Clayface",
+    "order": 0
+   },
+   {
+    "personId": 1537686,
+    "character": "Caitlyn Corr",
+    "order": 1
+   },
+   {
+    "personId": 1665,
+    "character": "Frank Fitzpatrick",
+    "order": 2
+   },
+   {
+    "personId": 2978,
+    "character": "John Borrelli",
+    "order": 3
+   },
+   {
+    "personId": 93236,
+    "character": "Markos Szabo",
+    "order": 4
+   },
+   {
+    "personId": 3286781,
+    "character": "Rosie",
+    "order": 5
+   },
+   {
+    "personId": 4577931,
+    "character": "Theresa",
+    "order": 6
+   },
+   {
+    "personId": 1815694,
+    "character": "Bones",
+    "order": 7
+   },
+   {
+    "personId": 1344715,
+    "character": "Corey Bowery",
+    "order": 8
+   },
+   {
+    "personId": 3551,
+    "character": "Patches",
+    "order": 9
+   },
+   {
+    "personId": 983749,
+    "character": "Hildie Love",
+    "order": 10
+   },
+   {
+    "personId": 2723390,
+    "character": "Niki",
+    "order": 11
+   },
+   {
+    "personId": 963257,
+    "character": "",
+    "order": 12
+   },
+   {
+    "personId": 1542283,
+    "character": "",
+    "order": 13
+   },
+   {
+    "personId": 47632,
+    "character": "Vic Chissler",
+    "order": 14
+   },
+   {
+    "personId": 1686493,
+    "character": "Mia Torrez",
+    "order": 15
+   },
+   {
+    "personId": 6542631,
+    "character": "",
+    "order": 16
+   },
+   {
+    "personId": 30323,
+    "character": "Limo Driver",
+    "order": 17
+   },
+   {
+    "personId": 31427,
+    "character": "Holly",
+    "order": 18
+   },
+   {
+    "personId": 84497,
+    "character": "Jimmy 'One Nut' Hagen",
+    "order": 19
+   },
+   {
+    "personId": 6571969,
+    "character": "Bobby Showbiz",
+    "order": 20
+   },
+   {
+    "personId": 17199,
+    "character": "Cadillac Sal",
+    "order": 21
+   },
+   {
+    "personId": 107733,
+    "character": "",
+    "order": 22
+   },
+   {
+    "personId": 563559,
+    "character": "",
+    "order": 23
+   },
+   {
+    "personId": 990278,
+    "character": "",
+    "order": 24
+   },
+   {
+    "personId": 1563431,
+    "character": "",
+    "order": 25
+   },
+   {
+    "personId": 2733504,
+    "character": "",
+    "order": 26
+   },
+   {
+    "personId": 4103828,
+    "character": "",
+    "order": 27
+   },
+   {
+    "personId": 1233161,
+    "character": "",
+    "order": 28
+   },
+   {
+    "personId": 2992036,
+    "character": "",
+    "order": 29
+   },
+   {
+    "personId": 3617568,
+    "character": "",
+    "order": 30
+   },
+   {
+    "personId": 3188262,
+    "character": "",
+    "order": 31
+   },
+   {
+    "personId": 71073,
+    "character": "",
+    "order": 32
+   },
+   {
+    "personId": 1647129,
+    "character": "",
+    "order": 33
+   },
+   {
+    "personId": 2397665,
+    "character": "",
+    "order": 34
+   },
+   {
+    "personId": 1510559,
+    "character": "",
+    "order": 35
+   },
+   {
+    "personId": 6025651,
+    "character": "",
+    "order": 36
+   },
+   {
+    "personId": 6324404,
+    "character": "",
+    "order": 37
+   },
+   {
+    "personId": 4849407,
+    "character": "",
+    "order": 38
+   },
+   {
+    "personId": 6473010,
+    "character": "",
+    "order": 39
+   },
+   {
+    "personId": 1316057,
+    "character": "",
+    "order": 40
+   },
+   {
+    "personId": 2928090,
+    "character": "",
+    "order": 41
+   },
+   {
+    "personId": 5339025,
+    "character": "",
+    "order": 42
+   },
+   {
+    "personId": 3782978,
+    "character": "",
+    "order": 43
+   },
+   {
+    "personId": 5662789,
+    "character": "",
+    "order": 44
+   },
+   {
+    "personId": 5432345,
+    "character": "Gangster 1",
+    "order": 45
+   },
+   {
+    "personId": 4022682,
+    "character": "Gangster 2",
+    "order": 46
+   },
+   {
+    "personId": 1503075,
+    "character": "Gangster 3",
+    "order": 47
+   }
+  ],
+  "crew": [
+   {
+    "personId": 15218,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 52259,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 32278,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 4768,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 1828173,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 63306,
+    "job": "Director",
+    "department": "Directing"
+   },
+   {
+    "personId": 1162217,
+    "job": "Director of Photography",
+    "department": "Camera"
+   },
+   {
+    "personId": 1372903,
+    "job": "Production Design",
+    "department": "Art"
+   },
+   {
+    "personId": 979474,
+    "job": "Costume Design",
+    "department": "Costume & Make-Up"
+   },
+   {
+    "personId": 1349452,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 10949,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 1985603,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 6227,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 1114,
+    "job": "Editor",
+    "department": "Editing"
+   },
+   {
+    "personId": 551463,
+    "job": "Story",
+    "department": "Writing"
+   },
+   {
+    "personId": 551463,
+    "job": "Screenplay",
+    "department": "Writing"
+   },
+   {
+    "personId": 56960,
+    "job": "Screenplay",
+    "department": "Writing"
+   },
+   {
+    "personId": 15883,
+    "job": "Visual Effects Supervisor",
+    "department": "Visual Effects"
+   },
+   {
+    "personId": 23424,
+    "job": "Casting",
+    "department": "Production"
+   },
+   {
+    "personId": 1023809,
+    "job": "Original Music Composer",
+    "department": "Sound"
+   },
+   {
+    "personId": 60472,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 2701286,
+    "job": "Visual Effects Supervisor",
+    "department": "Visual Effects"
+   },
+   {
+    "personId": 2056078,
+    "job": "Special Effects Makeup Artist",
+    "department": "Costume & Make-Up"
+   }
+  ],
+  "seasons": []
+ },
+ {
+  "slug": "the-exorcist-martyrs",
+  "title": "The Exorcist: Martyrs",
+  "tmdb": {
+   "type": "movie",
+   "id": 1297467
+  },
+  "year": 2027,
+  "tier": "upcoming",
+  "kind": "feature",
+  "tmdbTitle": "The Exorcist: Martyrs",
+  "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+  "tagline": "Darkness must be hunted.",
+  "releaseDate": "2027-03-10",
+  "runtime": 0,
+  "genres": [
+   "Horror"
+  ],
+  "certification": null,
+  "voteAverage": 0,
+  "poster": "/img/poster/w500/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+  "backdrop": "/img/backdrop/w1280/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
+  "backdrops": [
+   "/img/backdrop/w1280/98RcEku3XyvPzmuFmJUrPa5u83f.jpg",
+   "/img/backdrop/w1280/zdc2FBYjzHhkF1aFzHEjMPw1Ctj.jpg",
+   "/img/backdrop/w1280/ePIY6b8TlIjqFzK1JKANPhxUIPn.jpg",
+   "/img/backdrop/w1280/va1vNiakj4HcSH9phVGz1VxOQIs.jpg",
+   "/img/backdrop/w1280/1Vx5TrrA0AbJEbsaXXVHBzmgtXi.jpg",
+   "/img/backdrop/w1280/kcmXLAahPlunmKKBW9zhGuvjC6u.jpg",
+   "/img/backdrop/w1280/bn5a4WhmKePJNrhj0jiRXGywcHb.jpg",
+   "/img/backdrop/w1280/bPloSnj7hOfO4ixTsqUvIj4iGAK.jpg"
+  ],
+  "cast": [
+   {
+    "personId": 1245,
+    "character": "Det. Julie Miller",
+    "order": 0
+   },
+   {
+    "personId": 2542319,
+    "character": "Det. Gina Restrepo",
+    "order": 1
+   },
+   {
+    "personId": 5294,
+    "character": "Father William",
+    "order": 2
+   },
+   {
+    "personId": 5723,
+    "character": "Father Sunday",
+    "order": 3
+   },
+   {
+    "personId": 2975,
+    "character": "Father Nichol",
+    "order": 4
+   },
+   {
+    "personId": 2882,
+    "character": "Mary Miller",
+    "order": 5
+   },
+   {
+    "personId": 3115247,
+    "character": "Max Miller",
+    "order": 6
+   },
+   {
+    "personId": 59233,
+    "character": "Clay Silver",
+    "order": 7
+   },
+   {
+    "personId": 1416505,
+    "character": "",
+    "order": 8
+   },
+   {
+    "personId": 6575,
+    "character": "Peter Nicks",
+    "order": 9
+   },
+   {
+    "personId": 17487,
+    "character": "",
+    "order": 10
+   },
+   {
+    "personId": 184581,
+    "character": "",
+    "order": 11
+   },
+   {
+    "personId": 29382,
+    "character": "",
+    "order": 12
+   },
+   {
+    "personId": 932076,
+    "character": "",
+    "order": 13
+   },
+   {
+    "personId": 79416,
+    "character": "",
+    "order": 14
+   },
+   {
+    "personId": 588335,
+    "character": "",
+    "order": 15
+   },
+   {
+    "personId": 1331981,
+    "character": "",
+    "order": 16
+   },
+   {
+    "personId": 3356007,
+    "character": "",
+    "order": 17
+   },
+   {
+    "personId": 17832,
+    "character": "",
+    "order": 18
+   }
+  ],
+  "crew": [
+   {
+    "personId": 551463,
+    "job": "Director",
+    "department": "Directing"
+   },
+   {
+    "personId": 551463,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 551463,
+    "job": "Writer",
+    "department": "Writing"
+   },
+   {
+    "personId": 1203317,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 84348,
+    "job": "Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 3603716,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 1453475,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 494,
+    "job": "Casting",
+    "department": "Production"
+   },
+   {
+    "personId": 1758349,
+    "job": "Casting",
+    "department": "Production"
+   },
+   {
+    "personId": 1533529,
+    "job": "Casting",
+    "department": "Production"
+   },
+   {
+    "personId": 551463,
+    "job": "Editor",
+    "department": "Editing"
+   },
+   {
+    "personId": 63099,
+    "job": "Director of Photography",
+    "department": "Camera"
+   },
+   {
+    "personId": 1149912,
+    "job": "Production Design",
+    "department": "Art"
+   },
+   {
+    "personId": 1085030,
+    "job": "Costume Design",
+    "department": "Costume & Make-Up"
+   },
+   {
+    "personId": 6544810,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 6544811,
+    "job": "Executive Producer",
+    "department": "Production"
+   },
+   {
+    "personId": 1770856,
+    "job": "Original Music Composer",
+    "department": "Sound"
+   },
+   {
+    "personId": 989610,
+    "job": "Original Music Composer",
+    "department": "Sound"
+   }
+  ],
+  "seasons": []
  }
 ]

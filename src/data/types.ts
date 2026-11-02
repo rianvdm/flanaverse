@@ -1,6 +1,6 @@
 /** Shapes of the generated TMDB data (src/data/generated/*.json). */
 
-export type WorkTier = 'core' | 'early';
+export type WorkTier = 'core' | 'early' | 'written' | 'upcoming';
 export type WorkKind = 'feature' | 'series' | 'short';
 
 export interface Episode {

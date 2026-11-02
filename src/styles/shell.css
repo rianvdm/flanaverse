@@ -1,0 +1,32 @@
+.skip-link { position: absolute; left: -999px; top: 0; z-index: 100; padding: var(--s-2) var(--s-3); background: var(--brass); color: var(--ink); font-family: var(--font-ui); }
+.skip-link:focus { left: var(--s-2); top: var(--s-2); }
+
+.shell-header {
+  position: sticky; top: 0; z-index: 30;
+  display: flex; align-items: center; gap: var(--s-4);
+  height: var(--header-h); padding: 0 var(--gutter);
+  background: var(--ink-80); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--hairline);
+}
+.brand { display: inline-flex; align-items: center; gap: var(--s-2); color: var(--bone); flex: none; }
+.brand:hover { color: var(--candle); }
+.brand__mark { width: 18px; height: 24px; border: 1.5px solid var(--brass); border-radius: 50% / 50%; position: relative; }
+.brand__mark::after { content: ''; position: absolute; inset: 7px 4px; border-radius: 50%; background: var(--candle); }
+.brand__name { font-family: var(--font-display); font-size: var(--text-xl); font-weight: 600; letter-spacing: 0.01em; }
+.shell-nav { display: flex; gap: var(--s-1); overflow-x: auto; flex: 1; min-width: 0; -ms-overflow-style: none; scrollbar-width: none; }
+.shell-nav::-webkit-scrollbar { display: none; }
+.shell-nav a { flex: none; padding: var(--s-2) var(--s-3); color: var(--ash); font-size: var(--text-sm); border-radius: var(--r-sm); white-space: nowrap; }
+.shell-nav a:hover { color: var(--bone); background: var(--vault); }
+.shell-nav a.is-active { color: var(--candle); box-shadow: inset 0 -2px 0 var(--brass); border-radius: 0; }
+.shell-search { flex: none; gap: var(--s-3); color: var(--ash); }
+.shell-search kbd { font-family: var(--font-ui); font-size: var(--text-xs); padding: 0 5px; border: 1px solid var(--hairline); border-radius: var(--r-sm); color: var(--dust); }
+@media (max-width: 767.98px) { .shell-search span { display: none; } .brand__name { display: none; } }
+
+.shell-main { min-height: calc(100dvh - var(--header-h) - 80px); outline: none; }
+body.has-peek .shell-main { padding-right: 0; }
+@media (min-width: 1100px) { body.has-peek .shell-main { padding-right: var(--peek-w); } }
+
+.shell-footer { padding: var(--s-6) var(--gutter); border-top: 1px solid var(--hairline); font-family: var(--font-ui); font-size: var(--text-xs); color: var(--dust); }
+.shell-footer p { max-width: 80ch; margin: 0; }
+.shell-footer a { color: var(--ash); }
+.shell-footer a:hover { color: var(--candle); }

@@ -1,0 +1,69 @@
+/* Design tokens. Dark is the only theme. See docs/SPEC.md. */
+:root {
+  color-scheme: dark;
+
+  /* surfaces */
+  --ink: #0a0d14;
+  --night: #111725;
+  --vault: #1a2232;
+  --hairline: #2c3649;
+
+  /* text */
+  --bone: #eae3d2;
+  --ash: #a8a08f;
+  --dust: #7d7768;
+
+  /* accents (one per entity type, never mixed) */
+  --brass: #c9a45c;      /* works, links, selection */
+  --candle: #f0c878;     /* hover, the lit thread */
+  --verdigris: #6e9e8f;  /* props, locations */
+  --sanguine: #cf6252;   /* eggs, callbacks, cameos */
+  --wisteria: #9c8dbe;   /* authors, references */
+
+  /* alpha helpers */
+  --brass-20: rgb(201 164 92 / 0.2);
+  --brass-40: rgb(201 164 92 / 0.4);
+  --candle-08: rgb(240 200 120 / 0.08);
+  --bone-10: rgb(234 227 210 / 0.1);
+  --ink-80: rgb(10 13 20 / 0.8);
+
+  /* type */
+  --font-display: 'Cormorant Garamond Variable', 'Cormorant Garamond', Georgia, serif;
+  --font-reading: 'Spectral', Georgia, 'Times New Roman', serif;
+  --font-ui: 'IBM Plex Sans Variable', 'IBM Plex Sans', system-ui, sans-serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 2.75rem;
+  --text-4xl: 3.75rem;
+
+  /* spacing scale (rem) */
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 0.75rem;
+  --s-4: 1rem;
+  --s-5: 1.5rem;
+  --s-6: 2rem;
+  --s-7: 3rem;
+  --s-8: 4rem;
+
+  /* radii: small for chips, 0 for posters, full for headshots */
+  --r-sm: 3px;
+  --r-md: 6px;
+  --r-full: 999px;
+
+  --page-max: 1280px;
+  --gutter: var(--s-4);
+  --header-h: 56px;
+  --peek-w: 380px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --dur: 180ms;
+}
+
+@media (min-width: 768px) {
+  :root { --gutter: var(--s-6); }
+}

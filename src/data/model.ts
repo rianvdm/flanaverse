@@ -18,11 +18,24 @@ export interface Edge {
   actors: number[];      // shared actors only
 }
 
+export interface Era { id: string; name: string; from: number; to: number; blurb: string }
+
+export const ERAS: Era[] = [
+  { id: 'early', name: 'Early work', from: 2000, to: 2010, blurb: 'Student films and the short that became Oculus.' },
+  { id: 'independent', name: 'Independent & Intrepid films', from: 2011, to: 2017, blurb: 'Absentia to Gerald\'s Game: the Intrepid Pictures years and the first Stephen King adaptation.' },
+  { id: 'netflix', name: 'The Netflix years', from: 2018, to: 2023, blurb: 'Hill House to Usher: five series that built the repertory company.' },
+  { id: 'amazon', name: 'Amazon & beyond', from: 2024, to: 2030, blurb: 'The Life of Chuck, Carrie, and the projects still to come.' },
+];
+
+export const eraFor = (year: number): Era => ERAS.find((e) => year >= e.from && year <= e.to) ?? ERAS[ERAS.length - 1];
+
 export interface Model {
   works: Work[];                              // chronological
-  coreWorks: Work[];
+  coreWorks: Work[];                          // tier 'core': the map, grid and stats use these
   workBySlug: Map<string, Work>;
   people: Map<number, Person>;
+  personSlug: Map<number, string>;
+  personBySlug: Map<string, Person>;
   actors: Person[];                           // people with at least one acting credit, by appearance count desc
   repertory: Person[];                        // actors in 2+ works
   edges: Edge[];
@@ -62,9 +75,26 @@ function buildEdges(works: Work[], people: Map<number, Person>): Edge[] {
   return [...edges.values()].sort((x, y) => (order.get(x.source)! - order.get(y.source)!) || (order.get(x.target)! - order.get(y.target)!));
 }
 
+export function slugify(s: string): string {
+  return s.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function buildPersonSlugs(people: Map<number, Person>): Map<number, string> {
+  const taken = new Map<string, number>();
+  const out = new Map<number, string>();
+  for (const p of [...people.values()].sort((a, b) => b.appearances.length - a.appearances.length || a.id - b.id)) {
+    const base = slugify(p.name) || `person-${p.id}`;
+    const slug = taken.has(base) ? `${base}-${p.id}` : base;
+    taken.set(base, p.id);
+    out.set(p.id, slug);
+  }
+  return out;
+}
+
 export function buildModel(): Model {
   const works = (worksJson as Work[]).slice().sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
   const people = new Map<number, Person>(Object.values(peopleJson as Record<string, Person>).map((p) => [p.id, p]));
+  const personSlug = buildPersonSlugs(people);
   const actors = [...people.values()]
     .filter((p) => p.appearances.some(isActing))
     .sort((a, b) => b.appearances.filter(isActing).length - a.appearances.filter(isActing).length || a.name.localeCompare(b.name));
@@ -82,6 +112,8 @@ export function buildModel(): Model {
     coreWorks: works.filter((w) => w.tier === 'core'),
     workBySlug: new Map(works.map((w) => [w.slug, w])),
     people,
+    personSlug,
+    personBySlug: new Map([...personSlug].map(([id, slug]) => [slug, people.get(id)!])),
     actors,
     repertory: actors.filter((p) => p.appearances.filter(isActing).length >= 2),
     edges: buildEdges(works, people),
@@ -95,3 +127,37 @@ export function buildModel(): Model {
 }
 
 export const model: Model = buildModel();
+
+/* Route helpers: slugs in URLs, never TMDB ids. */
+export const workHref = (slug: string) => `#/work/${slug}`;
+export const personHref = (id: number) => `#/person/${model.personSlug.get(id) ?? id}`;
+export const connectionHref = (id: string) => `#/connection/${id}`;
+
+/** Core works a person acts in, chronological. */
+export function actingWorks(p: Person): Work[] {
+  return p.appearances.filter(isActing).map((a) => model.workBySlug.get(a.work)).filter((w): w is Work => !!w && w.tier === 'core')
+    .sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
+}
+
+/** Cast of a work who also act in at least one other core work, most-travelled first. */
+export function recurringCast(work: Work): { person: Person; character: string; others: Work[] }[] {
+  return work.cast
+    .map((c) => ({ person: model.people.get(c.personId)!, character: c.character }))
+    .filter((x) => x.person)
+    .map((x) => ({ ...x, others: actingWorks(x.person).filter((w) => w.slug !== work.slug) }))
+    .filter((x) => x.others.length > 0)
+    .sort((a, b) => b.others.length - a.others.length);
+}
+
+/** Core works two people both act in. */
+export function sharedWorks(a: Person, b: Person): Work[] {
+  const bs = new Set(actingWorks(b).map((w) => w.slug));
+  return actingWorks(a).filter((w) => bs.has(w.slug));
+}
+
+/** The character(s) a person plays in a work, or their job if crew only. */
+export function roleIn(p: Person, slug: string): string {
+  const a = p.appearances.find((x) => x.work === slug);
+  if (!a) return '';
+  return a.characters.length ? a.characters.join(' / ') : a.jobs.join(', ');
+}

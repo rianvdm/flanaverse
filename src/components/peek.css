@@ -1,0 +1,27 @@
+.peek {
+  position: fixed; z-index: 40;
+  background: var(--night); border-left: 1px solid var(--hairline);
+  box-shadow: -12px 0 32px rgb(0 0 0 / 0.35);
+  overflow-y: auto;
+}
+@media (min-width: 768px) {
+  .peek { top: var(--header-h); right: 0; bottom: 0; width: var(--peek-w); }
+}
+@media (max-width: 767.98px) {
+  .peek { left: 0; right: 0; bottom: 0; max-height: 60dvh; border-left: 0; border-top: 1px solid var(--hairline); border-radius: var(--r-md) var(--r-md) 0 0; }
+}
+.peek__inner { padding: var(--s-5) var(--s-5) var(--s-6); display: flex; flex-direction: column; gap: var(--s-4); }
+.peek__close { position: absolute; top: var(--s-3); right: var(--s-3); width: 32px; height: 32px; font-size: 22px; line-height: 1; color: var(--ash); border-radius: var(--r-sm); }
+.peek__close:hover { color: var(--bone); background: var(--vault); }
+.peek__head { display: flex; gap: var(--s-4); align-items: center; padding-right: var(--s-6); }
+.peek__img { flex: none; object-fit: cover; background: var(--vault); border: 1px solid var(--hairline); }
+.peek__head--circle .peek__img { width: 72px; height: 72px; border-radius: 50%; object-position: center 20%; }
+.peek__head--poster .peek__img { width: 64px; height: 96px; }
+.peek__img--empty { display: inline-flex; align-items: center; justify-content: center; font-size: 28px; }
+.peek__title { font-size: var(--text-xl); line-height: 1.15; }
+.peek__title a { color: var(--bone); }
+.peek__title a:hover { color: var(--candle); }
+.peek__sub { font-family: var(--font-ui); font-size: var(--text-sm); color: var(--ash); margin: var(--s-1) 0 0; }
+.peek__body { font-size: var(--text-sm); }
+.peek__body h3 { font-family: var(--font-ui); font-size: var(--text-xs); letter-spacing: 0.1em; text-transform: uppercase; color: var(--ash); margin: var(--s-4) 0 var(--s-2); }
+.peek__open { align-self: flex-start; }

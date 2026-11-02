@@ -1,19 +1,211 @@
 [
-  { "slug": "makebelieve", "title": "Makebelieve", "tmdb": { "type": "movie", "id": 484346 }, "year": 2000, "tier": "early", "kind": "feature" },
-  { "slug": "ghosts-of-hamilton-street", "title": "Ghosts of Hamilton Street", "tmdb": { "type": "movie", "id": 430253 }, "year": 2003, "tier": "early", "kind": "feature" },
-  { "slug": "oculus-chapter-3", "title": "Oculus: Chapter 3 – The Man with the Plan", "tmdb": { "type": "movie", "id": 264833 }, "year": 2006, "tier": "early", "kind": "short" },
-  { "slug": "absentia", "title": "Absentia", "tmdb": { "type": "movie", "id": 74777 }, "year": 2011, "tier": "core", "kind": "feature" },
-  { "slug": "oculus", "title": "Oculus", "tmdb": { "type": "movie", "id": 157547 }, "year": 2013, "tier": "core", "kind": "feature" },
-  { "slug": "before-i-wake", "title": "Before I Wake", "tmdb": { "type": "movie", "id": 301804 }, "year": 2016, "tier": "core", "kind": "feature" },
-  { "slug": "hush", "title": "Hush", "tmdb": { "type": "movie", "id": 376570 }, "year": 2016, "tier": "core", "kind": "feature" },
-  { "slug": "ouija-origin-of-evil", "title": "Ouija: Origin of Evil", "tmdb": { "type": "movie", "id": 335796 }, "year": 2016, "tier": "core", "kind": "feature" },
-  { "slug": "geralds-game", "title": "Gerald's Game", "tmdb": { "type": "movie", "id": 343674 }, "year": 2017, "tier": "core", "kind": "feature" },
-  { "slug": "the-haunting-of-hill-house", "title": "The Haunting of Hill House", "tmdb": { "type": "tv", "id": 72844 }, "year": 2018, "tier": "core", "kind": "series" },
-  { "slug": "doctor-sleep", "title": "Doctor Sleep", "tmdb": { "type": "movie", "id": 501170 }, "year": 2019, "tier": "core", "kind": "feature" },
-  { "slug": "the-haunting-of-bly-manor", "title": "The Haunting of Bly Manor", "tmdb": { "type": "tv", "id": 109958 }, "year": 2020, "tier": "core", "kind": "series" },
-  { "slug": "midnight-mass", "title": "Midnight Mass", "tmdb": { "type": "tv", "id": 97400 }, "year": 2021, "tier": "core", "kind": "series" },
-  { "slug": "the-midnight-club", "title": "The Midnight Club", "tmdb": { "type": "tv", "id": 126254 }, "year": 2022, "tier": "core", "kind": "series" },
-  { "slug": "the-fall-of-the-house-of-usher", "title": "The Fall of the House of Usher", "tmdb": { "type": "tv", "id": 157065 }, "year": 2023, "tier": "core", "kind": "series" },
-  { "slug": "the-life-of-chuck", "title": "The Life of Chuck", "tmdb": { "type": "movie", "id": 842924 }, "year": 2025, "tier": "core", "kind": "feature" },
-  { "slug": "carrie", "title": "Carrie", "tmdb": { "type": "tv", "id": 288673 }, "year": 2026, "tier": "core", "kind": "series" }
+  {
+    "slug": "makebelieve",
+    "title": "Makebelieve",
+    "tmdb": {
+      "type": "movie",
+      "id": 484346
+    },
+    "year": 2000,
+    "tier": "early",
+    "kind": "feature"
+  },
+  {
+    "slug": "ghosts-of-hamilton-street",
+    "title": "Ghosts of Hamilton Street",
+    "tmdb": {
+      "type": "movie",
+      "id": 430253
+    },
+    "year": 2003,
+    "tier": "early",
+    "kind": "feature"
+  },
+  {
+    "slug": "oculus-chapter-3",
+    "title": "Oculus: Chapter 3 \u2013 The Man with the Plan",
+    "tmdb": {
+      "type": "movie",
+      "id": 264833
+    },
+    "year": 2006,
+    "tier": "early",
+    "kind": "short"
+  },
+  {
+    "slug": "absentia",
+    "title": "Absentia",
+    "tmdb": {
+      "type": "movie",
+      "id": 74777
+    },
+    "year": 2011,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "oculus",
+    "title": "Oculus",
+    "tmdb": {
+      "type": "movie",
+      "id": 157547
+    },
+    "year": 2013,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "before-i-wake",
+    "title": "Before I Wake",
+    "tmdb": {
+      "type": "movie",
+      "id": 301804
+    },
+    "year": 2016,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "hush",
+    "title": "Hush",
+    "tmdb": {
+      "type": "movie",
+      "id": 376570
+    },
+    "year": 2016,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "ouija-origin-of-evil",
+    "title": "Ouija: Origin of Evil",
+    "tmdb": {
+      "type": "movie",
+      "id": 335796
+    },
+    "year": 2016,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "geralds-game",
+    "title": "Gerald's Game",
+    "tmdb": {
+      "type": "movie",
+      "id": 343674
+    },
+    "year": 2017,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "the-haunting-of-hill-house",
+    "title": "The Haunting of Hill House",
+    "tmdb": {
+      "type": "tv",
+      "id": 72844
+    },
+    "year": 2018,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "doctor-sleep",
+    "title": "Doctor Sleep",
+    "tmdb": {
+      "type": "movie",
+      "id": 501170
+    },
+    "year": 2019,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "the-haunting-of-bly-manor",
+    "title": "The Haunting of Bly Manor",
+    "tmdb": {
+      "type": "tv",
+      "id": 109958
+    },
+    "year": 2020,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "midnight-mass",
+    "title": "Midnight Mass",
+    "tmdb": {
+      "type": "tv",
+      "id": 97400
+    },
+    "year": 2021,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "the-midnight-club",
+    "title": "The Midnight Club",
+    "tmdb": {
+      "type": "tv",
+      "id": 126254
+    },
+    "year": 2022,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "the-fall-of-the-house-of-usher",
+    "title": "The Fall of the House of Usher",
+    "tmdb": {
+      "type": "tv",
+      "id": 157065
+    },
+    "year": 2023,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "the-life-of-chuck",
+    "title": "The Life of Chuck",
+    "tmdb": {
+      "type": "movie",
+      "id": 842924
+    },
+    "year": 2025,
+    "tier": "core",
+    "kind": "feature"
+  },
+  {
+    "slug": "carrie",
+    "title": "Carrie",
+    "tmdb": {
+      "type": "tv",
+      "id": 288673
+    },
+    "year": 2026,
+    "tier": "core",
+    "kind": "series"
+  },
+  {
+    "slug": "clayface",
+    "title": "Clayface",
+    "tmdb": {
+      "type": "movie",
+      "id": 1400940
+    },
+    "year": 2026,
+    "tier": "written",
+    "kind": "feature"
+  },
+  {
+    "slug": "the-exorcist-martyrs",
+    "title": "The Exorcist: Martyrs",
+    "tmdb": {
+      "type": "movie",
+      "id": 1297467
+    },
+    "year": 2027,
+    "tier": "upcoming",
+    "kind": "feature"
+  }
 ]

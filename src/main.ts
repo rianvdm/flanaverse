@@ -1,2 +1,3 @@
-import { model } from './data/model';
-console.log(model);
+import { mountApp } from './app';
+
+mountApp(document.getElementById('app')!);

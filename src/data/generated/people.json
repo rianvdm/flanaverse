@@ -54,10 +54,25 @@
     ],
     "episodeCount": 0,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Casting"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
+  "biography": "Over the course of her extensive career in casting, Terri Taylor has worked on over 50 feature films. They’ve ranged from big studio releases to surprise gems from the independent film world. She has worked with acclaimed directors, such as Steven Spielberg, Jordan Peele, Damien Chazelle, and Jon M. Chu, among several others.",
+  "birthday": null,
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Production",
+  "imdbId": "nm0853247",
   "profile": "/img/profile/w185/jSpPyN8MYCNgUKmCUanuK3BtuZ5.jpg",
-  "profileLarge": null
+  "profileLarge": "/img/profile/h632/jSpPyN8MYCNgUKmCUanuK3BtuZ5.jpg"
  },
  "531": {
   "id": 531,
@@ -95,6 +110,48 @@
   "profile": "/img/profile/w185/8I9H9IKROECFEn7usvyChbRMhbI.jpg",
   "profileLarge": null
  },
+ "1114": {
+  "id": 1114,
+  "name": "Jon Harris",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Editor"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/danhYU2edlYBsCFfNhGVkFNB7yG.jpg",
+  "profileLarge": null
+ },
+ "1245": {
+  "id": 1245,
+  "name": "Scarlett Johansson",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Det. Julie Miller"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 0
+   }
+  ],
+  "biography": "Scarlett Ingrid Johansson (born November 22, 1984) is an American actress. The world's highest-paid actress in 2018 and 2019, she has featured multiple times on the Forbes Celebrity 100 list. Her films have grossed over $14.3 billion worldwide, making Johansson the ninth-highest-grossing box office star of all time. She has received various accolades, including a Tony Award and a British Academy Film Award, in addition to nominations for two Academy Awards and five Golden Globe Awards.\n\nJohansson aspired to be an actress from an early age and first appeared on stage in an Off-Broadway play as a child actor. She made her film debut in the fantasy comedy North (1994), and gained early recognition for her roles in Manny & Lo (1996), The Horse Whisperer (1998), and Ghost World (2001). Johansson shifted to adult roles in 2003 with her performances in Lost in Translation, which won her a BAFTA Award for Best Actress, and Girl with a Pearl Earring. She was nominated for Golden Globe Awards for these films, and for playing a troubled teenager in the drama A Love Song for Bobby Long (2004) and a seductress in psychological thriller Match Point (2005). The latter was her first collaboration with Woody Allen, who later directed her in Scoop (2006) and Vicky Cristina Barcelona (2008).\n\nJohansson's other works of this period include The Prestige (2006) and the albums Anywhere I Lay My Head (2008) and Break Up (2009), both of which charted on the Billboard 200. In 2010, Johansson debuted on Broadway in a revival of A View from the Bridge, which won her a Tony Award for Best Featured Actress, and began portraying Black Widow in the Marvel Cinematic Universe film Iron Man 2. She reprised the role in eight films, most recently in her solo feature Black Widow (2021), gaining global recognition for her performances. During this period, Johansson starred in the science fiction films Her (2013), Under the Skin (2013) and Lucy (2014).\n\nShe received two simultaneous Academy Award nominations—Best Actress and Best Supporting Actress—for the respective roles of an actress going through a divorce in the drama Marriage Story (2019) and a single mother in Nazi Germany in the satire Jojo Rabbit (2019). Labeled a sex symbol, Johansson has been referred to as one of the world's most attractive women by various media outlets. She is a prominent brand endorser and supports several charitable causes. Divorced from actor Ryan Reynolds and businessman Romain Dauriac, Johansson has been married to comedian Colin Jost since 2020. She has two children, one with Dauriac and another with Jost.",
+  "birthday": "1984-11-22",
+  "deathday": null,
+  "placeOfBirth": "New York City, New York, USA",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0424060",
+  "profile": "/img/profile/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
+  "profileLarge": null
+ },
  "1581": {
   "id": 1581,
   "name": "Mary McDonnell",
@@ -117,6 +174,102 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm0001521",
   "profile": "/img/profile/w185/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg",
+  "profileLarge": null
+ },
+ "1665": {
+  "id": 1665,
+  "name": "Eddie Marsan",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Frank Fitzpatrick"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 2
+   }
+  ],
+  "biography": "Edward Maurice Charles Marsan OBE (born 9 June 1968) is an English actor. He won the London Film Critics Circle Award and the National Society of Film Critics Award for Best Supporting Actor for the film Happy-Go-Lucky (2008).",
+  "birthday": "1968-06-09",
+  "deathday": null,
+  "placeOfBirth": "Stepney, East London, England, UK",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0550371",
+  "profile": "/img/profile/w185/9atfOgIxhfOKvv2be8HEp6SzOct.jpg",
+  "profileLarge": null
+ },
+ "2882": {
+  "id": 2882,
+  "name": "Diane Lane",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Mary Miller"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 5
+   }
+  ],
+  "biography": "Diane Colleen Lane (born January 22, 1965) is an American actress and producer. Born and raised in New York City, Lane made her screen debut at age 14 in George Roy Hill's 1979 film A Little Romance. Laurence Olivier, who played a major supporting role in the film, called her \"the new Grace Kelly\".\n\nThe two films that could have catapulted her to star status, Streets of Fire and The Cotton Club, were both commercial and critical failures, and her career languished as a result. After taking a break, Lane returned to acting to appear in The Big Town and Lady Beware, but did not make another big impression on a sizable audience until 1989's popular and critically acclaimed TV miniseries Lonesome Dove, for which she was nominated for an Emmy Award. It was not until 1999 that Lane earned further recognition for her role in A Walk on the Moon, and that was followed by her performance alongside George Clooney and Mark Wahlberg in the 2000 blockbuster The Perfect Storm.\n\nShe was especially lauded and honored for the 2002 film Unfaithful, which earned her Satellite, New York Film Critics Circle, and National Society of Film Critics awards for Best Actress in a Motion Picture (Drama). Her performance in Unfaithful also garnered her Academy Award, Golden Globe, and Screen Actors Guild Award nominations for Best Actress. She was also highly lauded by critics for her performance in the immediately subsequent film Under the Tuscan Sun. For much of the rest of the decade, she alternately appeared as a lead actress in romantic films such as Must Love Dogs (2005) and Nights in Rodanthe (2008), and thrillers such as Fierce People (2005), Hollywoodland (2006), and Untraceable (2008).\n\nShe has appeared in four films directed by Francis Ford Coppola: The Outsiders, Rumble Fish, The Cotton Club, and Jack. She has been in one film directed by his wife Eleanor Coppola: Paris Can Wait.\n\nShe also played the recurring role of Martha Kent, the adoptive mother of Superman, in Man of Steel (2013) and appeared in subsequent films of the DC Extended Universe. Her most recent film is the 2020 neo-western Let Him Go.",
+  "birthday": "1965-01-22",
+  "deathday": null,
+  "placeOfBirth": "New York City, New York, USA",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0000178",
+  "profile": "/img/profile/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg",
+  "profileLarge": null
+ },
+ "2975": {
+  "id": 2975,
+  "name": "Laurence Fishburne",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Father Nichol"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 4
+   }
+  ],
+  "biography": "Laurence John Fishburne III (born July 30, 1961) is an American actor. He is a three-time Emmy Award and Tony Award winner known for his roles on stage and screen. He has frequently portrayed forceful, militant, and authoritative characters. Some of Fishburne's best-known roles are Morpheus in The Matrix series (1999–2003), Jason \"Furious\" Styles in the John Singleton drama film Boyz n the Hood (1991), Tyrone \"Mr. Clean\" Miller in Francis Ford Coppola's war film Apocalypse Now (1979), and \"The Bowery King\" in the John Wick film series (2017–present).\n\nFor his portrayal of Ike Turner in What's Love Got to Do with It (1993), Fishburne was nominated for an Academy Award for Best Actor. He won a Tony Award for Best Featured Actor in a Play for his performance in Two Trains Running (1992) and an Emmy Award for Outstanding Guest Actor in a Drama Series for his performance in TriBeCa (1993). Fishburne became the first African American to portray Othello on film when he appeared in Oliver Parker's 1995 film adaptation of the Shakespeare play. He has also received five Screen Actors Guild Award nominations. He received an Independent Spirit Award for Best Male Lead nomination for his performance in Deep Cover (1992).\n\nOther film credits of Fishburne include Steven Spielberg's The Color Purple (1985), Spike Lee's School Daze (1988), Abel Ferrara's King of New York (1990), Clint Eastwood's Mystic River (2003), Steven Soderbergh's Contagion (2011), and Richard Linklater's Last Flag Flying (2017). He has also gained a wider audience with the blockbuster films Man of Steel (2013), Batman v Superman: Dawn of Justice (2016), and Ant-Man and the Wasp (2018). On television, he starred as Dr. Raymond Langston on the CBS crime drama CSI: Crime Scene Investigation (2008–2011) and as Special Agent Jack Crawford in the NBC thriller series Hannibal (2013–2015), and had a recurring role as Earl \"Pops\" Johnson in the ABC sitcom Black-ish (2014–2022).",
+  "birthday": "1961-07-30",
+  "deathday": null,
+  "placeOfBirth": "Augusta, Georgia, USA",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0000401",
+  "profile": "/img/profile/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg",
+  "profileLarge": null
+ },
+ "2978": {
+  "id": 2978,
+  "name": "Max Minghella",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "John Borrelli"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 3
+   }
+  ],
+  "biography": "Max Giorgio Choa Minghella (born 16 September 1985) is an English actor. He is known for his roles in the films Syriana (2005), Art School Confidential (2006), Elvis and Anabelle (2007), The Social Network (2010), The Darkest Hour (2011), The Ides of March (2011), The Internship (2013), Horns (2013), and Spiral (2021), as well as his role as Nick Blaine in the television series The Handmaid's Tale (2017–2025), which earned him a nomination for a Primetime Emmy Award.\n\nDescription above from the Wikipedia article Max Minghella, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1985-09-16",
+  "deathday": null,
+  "placeOfBirth": "Hampstead, London, England, UK",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm1540404",
+  "profile": "/img/profile/w185/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg",
   "profileLarge": null
  },
  "3027": {
@@ -196,6 +349,48 @@
   "profile": "/img/profile/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
   "profileLarge": null
  },
+ "3551": {
+  "id": 3551,
+  "name": "Jake Curran",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Patches"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 9
+   }
+  ],
+  "biography": "Jake Curran is a British actor whose career spans from 1978 to the present with over 50 credited roles. His date and place of birth are unconfirmed. His film credits include Stardust (2007), Robin Hood (2010), Fury (2014), Maze Runner: The Death Cure (2018), and Clayface (2026, post-production). On television he has appeared in Gangs of London (2022), The Salisbury Poisonings (2020), and Robin Hood (2025), and is currently filming as Ronan the Centaur in Harry Potter (2027). In theatre he appeared in The Play That Goes Wrong (West End, 2021). No major awards are on record.",
+  "birthday": null,
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0192838",
+  "profile": "/img/profile/w185/pC6ozticiOmovaPpwqKVOMhn0b9.jpg",
+  "profileLarge": null
+ },
+ "4768": {
+  "id": 4768,
+  "name": "Lynn Harris",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/gDR95fKQ8ZC6D7isveC7mXd0jgU.jpg",
+  "profileLarge": null
+ },
  "5141": {
   "id": 5141,
   "name": "Heather Langenkamp",
@@ -242,6 +437,15 @@
     "jobs": [],
     "episodeCount": 0,
     "order": 3
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Father William"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 2
    }
   ],
   "biography": "Chiwetel Umeadi Ejiofor CBE (/ˈtʃuːətɛlˈɛdʒioʊfɔːr/ CHOO-ə-tel EJ-ee-oh-for; born 10 July 1977) is a British actor. He is the recipient of various accolades, including a British Academy Film Award and a Laurence Olivier Award, in addition to nominations for an Academy Award, two Primetime Emmy Awards, and five Golden Globe Awards. In 2008, he was appointed Officer of the Order of the British Empire (OBE), and in 2015, he was appointed Commander (CBE) for his services to the arts.\n\nAfter enrolling at the National Youth Theatre in 1995 and attending the London Academy of Music and Dramatic Art, at age 19 and three months into his course, Ejiofor was cast by Steven Spielberg to play a supporting role in the film Amistad (1997) as James Covey. He later won the Laurence Olivier Award for Best Actor for Othello (2008). Ejiofor earned the BAFTA Award for Best Actor as well as a nomination for the Academy Award for Best Actor for his portrayal of Solomon Northup in 12 Years a Slave (2013).\n\nEjiofor's other films include Dirty Pretty Things (2002), Love Actually (2003), Kinky Boots (2005), Four Brothers (2005), Children of Men (2006), Endgame (2009), 2012 (2009), Salt (2010), and The Martian (2015). He joined the Marvel Cinematic Universe playing Karl Mordo in Doctor Strange (2016) and Doctor Strange in the Multiverse of Madness (2022). He also voiced Scar in The Lion King (2019). He directed, wrote, and starred in the film The Boy Who Harnessed the Wind (2019).\n\nOn television, he was nominated for a Primetime Emmy Award for Outstanding Lead Actor for his performance as a jazz band leader in the BBC Two miniseries Dancing on the Edge (2014). He also acted in the BBC drama series The Shadow Line (2011), the HBO television film Phil Spector (2013), and the Showtime science fiction series The Man Who Fell to Earth (2022).\n\nDescription above from the Wikipedia article Chiwetel Ejiofor, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -251,7 +455,7 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm0252230",
   "profile": "/img/profile/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg",
-  "profileLarge": null
+  "profileLarge": "/img/profile/h632/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
  },
  "5575": {
   "id": 5575,
@@ -269,6 +473,30 @@
    }
   ],
   "profile": "/img/profile/w185/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg",
+  "profileLarge": null
+ },
+ "5723": {
+  "id": 5723,
+  "name": "John Leguizamo",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Father Sunday"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 3
+   }
+  ],
+  "biography": "John Alberto Leguizamo Peláez (born July 22, 1960) is a Colombian-American stand-up comedian, actor, and film producer. He has appeared in over 100 films, produced over 20 films and documentaries, made over 30 television appearances, and has produced various television projects. He has also written and performed for the Broadway stage receiving four Tony Award nominations for Freak in 1998, Sexaholix in 2002, and Latin History for Moronsin in 2018. He received a Special Tony Award in 2018.\n\nLeguizamo began his career as a stand-up comedian in New York City. After several years of doing supporting roles in film and television, he rose to fame with significant roles in the fantasy adventure Super Mario Bros. portraying Luigi Mario and the crime drama Carlito's Way portraying Benny Blanco (both from 1993), followed by a role as drag queen Chi-Chi Rodriguez in the road comedy To Wong Foo, Thanks for Everything! Julie Newmar (1995), for which he received a Golden Globe Award for Best Supporting Actor nomination. Other films Leguizamo has since appeared in include Romeo + Juliet (1996), The Pest (1997), Summer of Sam (1999), Moulin Rouge! (2001), Empire (2002), Love in the Time of Cholera (2007), Righteous Kill (2008), The Lincoln Lawyer (2011), The Counselor (2013), John Wick (2014), John Wick 2 (2017), and The Menu (2022). As a voice actor, he narrated the sitcom The Brothers García (2000–2004). He played Sid the Sloth in the Ice Age franchise and Bruno Madrigal in Encanto (2021).\n\nLeguizamo is also known for his television roles including Freak (1998) for which he received the 1999 Primetime Emmy Award for Outstanding Individual Performance in a Variety or Music Program. This historic win made Leguizamo the first Latino to win this award in Emmy history. He received further Primetime Emmy Award nominations for the miniseries Waco (2018) and the Netflix limited series When They See Us (2019). He has also appeared on ER, The Kill Point, Bloodline, and The Mandalorian. In 2023, he hosted the MSNBC series Leguizamo Does America.",
+  "birthday": "1960-07-22",
+  "deathday": null,
+  "placeOfBirth": "Bogotá, Colombia",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0000491",
+  "profile": "/img/profile/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg",
   "profileLarge": null
  },
  "6066": {
@@ -295,6 +523,24 @@
   "profile": "/img/profile/w185/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg",
   "profileLarge": null
  },
+ "6227": {
+  "id": 6227,
+  "name": "Paul Ritchie",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "6575": {
   "id": 6575,
   "name": "Gil Bellows",
@@ -308,10 +554,25 @@
     "jobs": [],
     "episodeCount": 2,
     "order": 522
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Peter Nicks"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 9
    }
   ],
+  "biography": "Gil Bellows (born June 28, 1967) is a Canadian film and television actor. He is best known for the roles of Tommy Williams in The Shawshank Redemption, Billy Thomas in the television series Ally McBeal and as CIA agent Matt Callan in the television series The Agency.",
+  "birthday": "1967-06-28",
+  "deathday": null,
+  "placeOfBirth": "Vancouver, British Columbia, Canada",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0004743",
   "profile": "/img/profile/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg",
-  "profileLarge": null
+  "profileLarge": "/img/profile/h632/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
  },
  "6725": {
   "id": 6725,
@@ -640,6 +901,24 @@
   "profile": "/img/profile/w185/5pEmugZ6m25RB0cXbL4t5D4kZAO.jpg",
   "profileLarge": null
  },
+ "10949": {
+  "id": 10949,
+  "name": "Michael Uslan",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+  "profileLarge": null
+ },
  "11155": {
   "id": 11155,
   "name": "Thomas Jane",
@@ -752,6 +1031,42 @@
   "profile": "/img/profile/w185/ckiY9K7fwH5KRuTE3IM5kelwm0c.jpg",
   "profileLarge": null
  },
+ "15218": {
+  "id": 15218,
+  "name": "James Gunn",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+  "profileLarge": null
+ },
+ "15883": {
+  "id": 15883,
+  "name": "Angus Bickerton",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Visual Effects Supervisor"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "16327": {
   "id": 16327,
   "name": "Timothy Hutton",
@@ -833,6 +1148,24 @@
   "profile": "/img/profile/w185/f6z3mPVtaF40ewfdmZydprAjmYd.jpg",
   "profileLarge": null
  },
+ "17199": {
+  "id": 17199,
+  "name": "Corey Johnson",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Cadillac Sal"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 21
+   }
+  ],
+  "profile": "/img/profile/w185/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg",
+  "profileLarge": null
+ },
  "17487": {
   "id": 17487,
   "name": "John Gallagher Jr.",
@@ -846,6 +1179,13 @@
     "jobs": [],
     "episodeCount": 0,
     "order": 0
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 10
    }
   ],
   "biography": "John Howard Gallagher Jr. (born June 17, 1984) is an American actor and musician known for originating the role of Moritz Stiefel in Duncan Sheik and Steven Sater's rock musical Spring Awakening, which earned him a Tony Award for Best Featured Actor in a Musical. He also played Johnny in Green Day's Broadway musical, American Idiot, Lee in the 2011 Broadway production of Jerusalem, and Edmund in the 2016 Broadway revival of Long Day's Journey Into Night. He portrayed Jim Harper in Aaron Sorkin's drama series The Newsroom, starred in the HBO mini-series Olive Kitteridge, and played Emmett DeWitt in 10 Cloverfield Lane.",
@@ -855,7 +1195,7 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm0302330",
   "profile": "/img/profile/w185/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg",
-  "profileLarge": null
+  "profileLarge": "/img/profile/h632/e4eEg5lH6Yk0OkpieUoUYdzl2Ui.jpg"
  },
  "17832": {
   "id": 17832,
@@ -924,6 +1264,13 @@
     "jobs": [],
     "episodeCount": 1,
     "order": 518
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 18
    }
   ],
   "biography": "Carla Gugino (/ɡʊˈdʒiːnoʊ/ guu-JEE-noh; born August 29, 1971) is an American actress. After early roles in the films Troop Beverly Hills (1989), This Boy's Life (1993), Son in Law (1993), and Snake Eyes (1998), Gugino received wider recognition for her starring roles in the Spy Kidstrilogy (2001–2003), Sin City (2005), Night at the Museum (2006), American Gangster (2007), Righteous Kill (2008), Race to Witch Mountain (2009), Sally Jupiter in Watchmen (2009), Sucker Punch (2011), Mr. Popper's Penguins (2011), San Andreas (2015), Gerald's Game (2017), Gunpowder Milkshake (2021), and Lisa Frankenstein (2024).\n\nGugino also starred in the crime drama series Karen Sisco (2003), the science fiction series Threshold (2005–2006), the crime drama series Jett (2019), and the supernatural horror miniseries The Haunting of Hill House (2018), The Haunting of Bly Manor (2020), and The Fall of the House of Usher (2023).\n\nDescription above from the Wikipedia article Carla Gugino, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -1048,6 +1395,24 @@
   "imdbId": "nm0339304",
   "profile": "/img/profile/w185/AmfylDaijUHq8cHMq002xfkW7Vk.jpg",
   "profileLarge": "/img/profile/h632/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+ },
+ "23424": {
+  "id": 23424,
+  "name": "Lucy Bevan",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Casting"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+  "profileLarge": null
  },
  "23461": {
   "id": 23461,
@@ -1227,6 +1592,13 @@
     "jobs": [],
     "episodeCount": 0,
     "order": 18
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 12
    }
   ],
   "biography": "Carl Winston Lumbly (born August 14, 1951) is an American actor. He is known for his roles as television's first black superhero in M.A.N.T.I.S., Dick Hallorann in Doctor Sleep, NYPD detective Marcus Petrie on the CBS police drama Cagney & Lacey, CIA agent Marcus Dixon on the ABC espionage drama series Alias, and as the voice of J'onn J'onnz / Martian Manhunter in the animated series Justice League, Static Shock, and Justice League Unlimited, all part of the DC Animated Universe. As a reference to his voice work as J'onn, Lumbly portrayed J'onn J'onnz's father, M'yrnn, on The CW's Arrowverse on Supergirl from 2017 until 2019. He also plays Isaiah Bradley, the first Black super-soldier, in the Marvel Cinematic Universe (MCU) series The Falcon and the Winter Soldier (2021) and the film Captain America: Brave New World (2025).\n\nHe was married to Vonetta McGee from 1987 until her death in 2010.",
@@ -1237,6 +1609,24 @@
   "imdbId": "nm0525855",
   "profile": "/img/profile/w185/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg",
   "profileLarge": "/img/profile/h632/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+ },
+ "30323": {
+  "id": 30323,
+  "name": "Tim Faraday",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Limo Driver"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 17
+   }
+  ],
+  "profile": "/img/profile/w185/rsvGQ50FcCJg2yfcZV3mTbgXoYL.jpg",
+  "profileLarge": null
  },
  "30488": {
   "id": 30488,
@@ -1279,6 +1669,42 @@
    }
   ],
   "profile": "/img/profile/w185/klmeWImg34TiEia6c6ZkwHhaVoB.jpg",
+  "profileLarge": null
+ },
+ "31427": {
+  "id": 31427,
+  "name": "Tanya Moodie",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Holly"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 18
+   }
+  ],
+  "profile": "/img/profile/w185/zGGeWUCOXH5ktWnNcdSUUPyVbHv.jpg",
+  "profileLarge": null
+ },
+ "32278": {
+  "id": 32278,
+  "name": "Matt Reeves",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg",
   "profileLarge": null
  },
  "33834": {
@@ -1437,6 +1863,24 @@
   "profile": null,
   "profileLarge": null
  },
+ "47632": {
+  "id": 47632,
+  "name": "Rob Brydon",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Vic Chissler"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 14
+   }
+  ],
+  "profile": "/img/profile/w185/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg",
+  "profileLarge": null
+ },
  "49425": {
   "id": 49425,
   "name": "Annabeth Gish",
@@ -1561,6 +2005,24 @@
    }
   ],
   "profile": "/img/profile/w185/fB3XmJ4PRMGo28LxbvTHuYyL3gi.jpg",
+  "profileLarge": null
+ },
+ "52259": {
+  "id": 52259,
+  "name": "Peter Safran",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
   "profileLarge": null
  },
  "53249": {
@@ -1722,6 +2184,24 @@
   "profile": "/img/profile/w185/5gqQ1TWVRUwkdOK72Uh1LRZMFlZ.jpg",
   "profileLarge": null
  },
+ "56960": {
+  "id": 56960,
+  "name": "Hossein Amini",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Screenplay"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/rfZt5jKZfOOYgDmVaW6asFall9Z.jpg",
+  "profileLarge": null
+ },
  "57997": {
   "id": 57997,
   "name": "Malcolm Goodwin",
@@ -1774,6 +2254,30 @@
    }
   ],
   "profile": "/img/profile/w185/qhJ0QsKnZslUOCGLur4NS91BXgM.jpg",
+  "profileLarge": null
+ },
+ "59233": {
+  "id": 59233,
+  "name": "Scoot McNairy",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Clay Silver"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 7
+   }
+  ],
+  "biography": "John Marcus \"Scoot\" McNairy (born November 11, 1977) is an American actor and film producer. He is known for his roles in films such as Monsters (2010), Argo, Killing Them Softly (both 2012), Batman v Superman: Dawn of Justice (2016), Speak No Evil, and Nightbitch (both 2024).\n\nOn television, McNairy starred as Gordon Clark in the AMC period drama Halt and Catch Fire (2014–2017), Bill McNue in the Netflix miniseries Godless(2017), Walt Breslin on Netflix's Narcos: Mexico (2018–2021), Tom Purcell on the third season of True Detective (2019), and Rod Rosenstein in the Showtime miniseries The Comey Rule (2020). His accolades include an Independent Spirit Award and a Screen Actors Guild Award.\n\nDescription above from the Wikipedia article Scoot McNairy, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1977-11-11",
+  "deathday": null,
+  "placeOfBirth": "Dallas, Texas, USA",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm1058940",
+  "profile": "/img/profile/w185/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg",
   "profileLarge": null
  },
  "59642": {
@@ -1936,6 +2440,15 @@
      "Executive Producer"
     ],
     "episodeCount": 8,
+    "order": null
+   },
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
     "order": null
    }
   ],
@@ -2185,6 +2698,15 @@
     ],
     "episodeCount": 5,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Director of Photography"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
   "biography": "Michael Fimognari (born June 26, 1974) is an American cinematographer and director. He was born in Pittsburgh, Pennsylvania, and graduated from the USC School of Cinematic Arts in 2002 with a degree in cinematography.",
@@ -2195,6 +2717,24 @@
   "imdbId": "nm0277342",
   "profile": "/img/profile/w185/8ETxK0seKQDqvfHNzHwGcvl51B8.jpg",
   "profileLarge": "/img/profile/h632/8ETxK0seKQDqvfHNzHwGcvl51B8.jpg"
+ },
+ "63306": {
+  "id": 63306,
+  "name": "James Watkins",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Director"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/tZextIeFu04YIBBRjKOQuMyP2O9.jpg",
+  "profileLarge": null
  },
  "66821": {
   "id": 66821,
@@ -2310,6 +2850,22 @@
   "profile": "/img/profile/w185/z7PA2poYtjl9KSy4S0IgW6d5Y9.jpg",
   "profileLarge": "/img/profile/h632/z7PA2poYtjl9KSy4S0IgW6d5Y9.jpg"
  },
+ "71073": {
+  "id": 71073,
+  "name": "Enzo Squillino Jr.",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 32
+   }
+  ],
+  "profile": "/img/profile/w185/pXr0Vg3wrhyl32rFjCtYBojD2np.jpg",
+  "profileLarge": null
+ },
  "74423": {
   "id": 74423,
   "name": "Tricia Helfer",
@@ -2422,6 +2978,13 @@
     "jobs": [],
     "episodeCount": 2,
     "order": 501
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 14
    }
   ],
   "biography": "Robert Longstreet (born July 15, 1975) is an American actor. He portrays Horace Dudley on the Netflix horror show The Haunting of Hill House.",
@@ -2653,6 +3216,15 @@
     ],
     "episodeCount": 0,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
   "biography": "Jason Blum (born February 20, 1969) is an American film producer and the founder and CEO of Blumhouse Productions, the studio behind some of the most influential horror films of the 21st century. Under his leadership, Blumhouse produced the blockbuster franchises Paranormal Activity, Insidious, The Purge, and Halloween, helping redefine low-budget, high-impact genre filmmaking. Blum’s producing credits also include Sinister, Oculus, Whiplash, The Gallows, The Gift, Hush, Split, Ouija: Origin of Evil, Get Out, Happy Death Day, Upgrade, Us, The Invisible Man, Freaky, The Black Phone, M3GAN, Five Nights at Freddy’s, and Speak No Evil, spanning horror, thriller, and prestige drama.\n\nHe has received multiple Academy Awards Best Picture nominations for Whiplash, Get Out, and BlacKkKlansman. In television, Blum won the Primetime Emmy Award for Outstanding Television Movie for The Normal Heart and later earned an Emmy for Outstanding Documentary or Nonfiction Series for the acclaimed true-crime miniseries The Jinx.",
@@ -2663,6 +3235,24 @@
   "imdbId": "nm0089658",
   "profile": "/img/profile/w185/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
   "profileLarge": "/img/profile/h632/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg"
+ },
+ "84497": {
+  "id": 84497,
+  "name": "Aaron Paul",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Jimmy 'One Nut' Hagen"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 19
+   }
+  ],
+  "profile": "/img/profile/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg",
+  "profileLarge": null
  },
  "84697": {
   "id": 84697,
@@ -2770,6 +3360,30 @@
   "knownForDepartment": "Writing",
   "imdbId": "nm1462112",
   "profile": null,
+  "profileLarge": null
+ },
+ "93236": {
+  "id": 93236,
+  "name": "David Dencik",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Markos Szabo"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 4
+   }
+  ],
+  "biography": "Karl David Sebastian Dencik (born 31 October 1974) is a Swedish-Danish actor. He has acted in both Swedish and Danish films, and has also had major roles in English-language films and series including Tinker Tailor Soldier Spy (2011), The Girl with the Dragon Tattoo (2011), Top of the Lake (2017), McMafia (2018), Chernobyl (2019), and the James Bond film No Time to Die (2021).\n\nDencik is a two-time Robert Award winner, for Best Actor in a Leading Role for A Soap (2006) and Robert Award for Best Actor in a Supporting Television Role for The Chestnut Man (2021). He won a Guldbagge Award for Best Supporting Actor for The Perfect Patient (2019). He is also a seven-time Bodil Award nominee.\n\nDescription above from the Wikipedia article David Dencik, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1974-10-31",
+  "deathday": null,
+  "placeOfBirth": "Stockholm, Stockholms län, Sweden",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm1399770",
+  "profile": "/img/profile/w185/q5wLADc6yYd3owxSEG8VKbf7YWV.jpg",
   "profileLarge": null
  },
  "96349": {
@@ -2907,6 +3521,22 @@
    }
   ],
   "profile": "/img/profile/w185/has3BbqVWB9ZByFD0FXCCHEQ6Jc.jpg",
+  "profileLarge": null
+ },
+ "107733": {
+  "id": 107733,
+  "name": "Daniel Betts",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 22
+   }
+  ],
+  "profile": "/img/profile/w185/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg",
   "profileLarge": null
  },
  "109325": {
@@ -3330,6 +3960,13 @@
     "jobs": [],
     "episodeCount": 0,
     "order": 40
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 11
    }
   ],
   "biography": "Hamish Linklater (born July 7, 1976) is an American actor.  He is known for playing Matthew Kimble in The New Adventures of Old Christine, Porter Collins in The Big Short, and Clark Debussy in Legion. He is the son of dramatic vocal trainer Kristin Linklater. In 2021, he starred as Father Paul in the Netflix horror miniseries Midnight Mass, for which he received high critical acclaim.",
@@ -4174,6 +4811,28 @@
     ],
     "episodeCount": 8,
     "order": null
+   },
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Story",
+     "Screenplay"
+    ],
+    "episodeCount": 0,
+    "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Director",
+     "Producer",
+     "Writer",
+     "Editor"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
   "biography": "Mike Flanagan (born May 20, 1978) is an American filmmaker best known for his horror work. Flanagan wrote, directed, produced, and edited the horror films Absentia (2011), Oculus (2013), Hush, Before I Wake, Ouija: Origin of Evil (2016), Gerald's Game (2017), and Doctor Sleep (2019). He created, wrote, produced, and served as showrunner on the Netflix horror series The Haunting of Hill House (2018), The Haunting of Bly Manor (2020), Midnight Mass (2021), The Midnight Club (2022), and The Fall of the House of Usher (2023), also directing and editing some if not all episodes of each.\n\nFlanagan is married to actress Kate Siegel, who has been featured in most of his works since Oculus. They also wrote the screenplay of Hush together. Other frequent collaborators include Carla Gugino, Henry Thomas, Samantha Sloyan, Rahul Kohli, Bruce Greenwood, Zach Gilford, Michael Trucco, Annalise Basso, Lulu Wilson, Annabeth Gish, Katie Parker and Alex Essoe.\n\nDescription above from the Wikipedia article Mike Flanagan (filmmaker), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -4201,6 +4860,22 @@
    }
   ],
   "profile": "/img/profile/w185/kZ35qXAp37UvcFRS6uoLpVC8OXP.jpg",
+  "profileLarge": null
+ },
+ "563559": {
+  "id": 563559,
+  "name": "Sam Hazeldine",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 23
+   }
+  ],
+  "profile": "/img/profile/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg",
   "profileLarge": null
  },
  "572407": {
@@ -4602,6 +5277,13 @@
     "jobs": [],
     "episodeCount": 1,
     "order": 515
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 15
    }
   ],
   "biography": "Matt Biedel is an American actor known for his versatility in playing a wide range of characters. He has played Agent Daryl Pesky on Narcos:Mexico, Bill T. Wilson on The Fall of the House of Usher, Sgt. Dale Chedder on The Umbrella Academy, and Sturge on the acclaimed Netflix series Midnight Mass.",
@@ -4730,6 +5412,13 @@
     ],
     "episodeCount": 4,
     "order": 545
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 13
    }
   ],
   "biography": "Kate Siegel (born August 9, 1982) is an American actress and screenwriter. She made her film debut in The Curse of the Black Dahlia (2007). She made her television debut in Ghost Whisperer (2009). She is best known for her work in the horror-thriller film Hush (2016) which she also co-wrote with her husband Mike Flanagan.\n\nDescription above from the Wikipedia article Kate Siegel, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -4865,6 +5554,22 @@
   "profile": null,
   "profileLarge": null
  },
+ "963257": {
+  "id": 963257,
+  "name": "Sonita Henry",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 12
+   }
+  ],
+  "profile": "/img/profile/w185/oIBILFSVqHT2warKlXSPDML3llI.jpg",
+  "profileLarge": null
+ },
  "963547": {
   "id": 963547,
   "name": "Anna Enger Ritch",
@@ -4881,6 +5586,48 @@
    }
   ],
   "profile": "/img/profile/w185/zggeLj7KevpvTwhnFSqg2mgIFC1.jpg",
+  "profileLarge": null
+ },
+ "979474": {
+  "id": 979474,
+  "name": "Keith Madden",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Costume Design"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/4Ap09Ntwi0WXWh4eqsAJZQBFqbT.jpg",
+  "profileLarge": null
+ },
+ "983749": {
+  "id": 983749,
+  "name": "Nancy Carroll",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Hildie Love"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 10
+   }
+  ],
+  "biography": "From Wikipedia, the free encyclopedia\n\nNancy Carroll (born 1974) is an English actress. She has worked extensively in theatre productions, particularly with the Royal Shakespeare Company. She also has numerous film and television credits, including a long-running feature role as Lady Felicia in the BBC series Father Brown.",
+  "birthday": "1974-11-28",
+  "deathday": null,
+  "placeOfBirth": "Bristol, England, UK",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm0140943",
+  "profile": "/img/profile/w185/lXTNopDRBsDLTlXTREvuBT3KMIt.jpg",
   "profileLarge": null
  },
  "986505": {
@@ -5026,6 +5773,15 @@
     ],
     "episodeCount": 8,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Original Music Composer"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
   "biography": "John Andrew Grush and Taylor Newton Stewart, known collectively as The Newton Brothers, are American film score composers, record producers, and multi-instrumentalists. Their works include scores for several films with director Mike Flanagan, who has composed for every project since Oculus (2013) and various other films and television series. Despite the name, they are not related.\n\nEarly in their lives, Grush and Stewart were inspired to combine music and visuals and seek a career in film composition. They are both accomplished musicians and multi-instrumentalists who can play piano, guitar, bass, clarinet, flute, accordion, saxophone, harmonica, percussion, organ, kazoo and cello. Together they apprenticed under Hans Zimmer and co-scored the Mike Flanagan thriller Before I Wake with Danny Elfman.\n\nThe Newton Brothers have been scoring feature films together for over a decade, breaking into the mainstream with their work on Tony Kaye's film Detachment. In 2013, they began their work in horror films with Mike Flanagan and Blumhouse Productions including Oculus, which The Irish Times said, \"Andy and Taylor Newton's dynamic combination of simple melodic fragments, aleatory noise (broken glass, metal scrapes) and a solemn choir gradually inject the seriously spooky Oculus with nerve-shredding suspense and skin-crawling dread,\" and Ouija: Origin of Evil. They have since started scoring multiple horror genre projects for film and television.\n\nDescription above from the Wikipedia article The Newton Brothers, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -5036,6 +5792,22 @@
   "imdbId": "nm1332050",
   "profile": "/img/profile/w185/hGSZFzDJqLXchO7731gILeWdGpW.jpg",
   "profileLarge": "/img/profile/h632/hGSZFzDJqLXchO7731gILeWdGpW.jpg"
+ },
+ "990278": {
+  "id": 990278,
+  "name": "Gina Bramhill",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 24
+   }
+  ],
+  "profile": "/img/profile/w185/4szCYnbyuKoYedL6hU4YBKbfBIX.jpg",
+  "profileLarge": null
  },
  "1017347": {
   "id": 1017347,
@@ -5059,6 +5831,24 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm4154798",
   "profile": "/img/profile/w185/4jrtVjdIGJpmgevEPRuIIU9HWcO.jpg",
+  "profileLarge": null
+ },
+ "1023809": {
+  "id": 1023809,
+  "name": "Volker Bertelmann",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Original Music Composer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/6iZPE8RAh3twac8yHYPWRpWWPZ9.jpg",
   "profileLarge": null
  },
  "1024722": {
@@ -5190,6 +5980,24 @@
   "profile": null,
   "profileLarge": null
  },
+ "1085030": {
+  "id": 1085030,
+  "name": "Alexis Forte",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Costume Design"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/6g1gmfJmSWPmFyOGTBxhzf3jH5r.jpg",
+  "profileLarge": null
+ },
  "1099261": {
   "id": 1099261,
   "name": "David S. Greathouse",
@@ -5244,6 +6052,24 @@
   "profile": "/img/profile/w185/2bNBZayODycSZxjKu8IdFNlpJzk.jpg",
   "profileLarge": null
  },
+ "1149912": {
+  "id": 1149912,
+  "name": "Sara K. White",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Production Design"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "1152023": {
   "id": 1152023,
   "name": "Christine Horn",
@@ -5260,6 +6086,24 @@
    }
   ],
   "profile": "/img/profile/w185/vbb7lhZ3cZcVg3X5wr2wkV5NZYs.jpg",
+  "profileLarge": null
+ },
+ "1162217": {
+  "id": 1162217,
+  "name": "Rob Hardy",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Director of Photography"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/b4Fa1o108wsU8h9IZDHpZyHg2OX.jpg",
   "profileLarge": null
  },
  "1162828": {
@@ -5504,6 +6348,24 @@
   "profile": "/img/profile/w185/ltrTLKdYV8OdeYFKR6NPfRdYLli.jpg",
   "profileLarge": null
  },
+ "1203317": {
+  "id": 1203317,
+  "name": "David Robinson",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "1209168": {
   "id": 1209168,
   "name": "William D. Johnson",
@@ -5712,6 +6574,22 @@
   "imdbId": "nm1839689",
   "profile": "/img/profile/w185/8LchWLyEbBRPimCEB8vSOZtzxRM.jpg",
   "profileLarge": "/img/profile/h632/8LchWLyEbBRPimCEB8vSOZtzxRM.jpg"
+ },
+ "1233161": {
+  "id": 1233161,
+  "name": "Mark Holden",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 28
+   }
+  ],
+  "profile": "/img/profile/w185/oN9yICYsiimHE3lgV7nB2Bz3FE3.jpg",
+  "profileLarge": null
  },
  "1236642": {
   "id": 1236642,
@@ -6271,6 +7149,22 @@
   "profile": null,
   "profileLarge": null
  },
+ "1316057": {
+  "id": 1316057,
+  "name": "Chris Cutler",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 40
+   }
+  ],
+  "profile": "/img/profile/w185/vQ6ra8PkTCJiXCCh9TJSboL0LKE.jpg",
+  "profileLarge": null
+ },
  "1318650": {
   "id": 1318650,
   "name": "Willa Fitzgerald",
@@ -6327,6 +7221,30 @@
   "imdbId": "nm2250789",
   "profile": "/img/profile/w185/hI048XF1FEzccLfDrPIxOk5E3xS.jpg",
   "profileLarge": "/img/profile/h632/hI048XF1FEzccLfDrPIxOk5E3xS.jpg"
+ },
+ "1327945": {
+  "id": 1327945,
+  "name": "Tom Rhys Harries",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Matt Hagen / Clayface"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 0
+   }
+  ],
+  "biography": "Tom Rhys Harries (born 8 October 1990) is a Welsh actor best known for his roles as Manchester DJ Axel Collins in the Netflix series White Lines (2020) and Eddie Walker in the Apple TV+ series Suspicion (2022). Harries has also acted in recurring roles in the television series Jekyll and Hyde (2015), Unforgotten (2018), and Britannia (2019). In films, Harries has appeared in Hunky Dory (2011), Slaughterhouse Rulez (2018), The Gentlemen (2019), Sisi & I (2023), Kandahar (2023), and How Kids Roll (2024), and Clayface (2026). He had a guest lead role in the Doctor Who episode \"Dot and Bubble\" (2024).\n\nDescription above from the Wikipedia article Tom Rhys Harries, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1992-10-08",
+  "deathday": null,
+  "placeOfBirth": "Cardiff, Wales, UK",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm4151189",
+  "profile": "/img/profile/w185/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg",
+  "profileLarge": null
  },
  "1331981": {
   "id": 1331981,
@@ -6395,6 +7313,13 @@
     "jobs": [],
     "episodeCount": 8,
     "order": 1
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 16
    }
   ],
   "biography": "Samantha Sloyan (born January 4, 1979) is an American actress. Sloyan is best known for her frequent collaborations with filmmaker Mike Flanagan, including Hush, Midnight Mass, The Haunting of Hill House, and Carrie.",
@@ -6529,6 +7454,30 @@
   "profile": null,
   "profileLarge": null
  },
+ "1344715": {
+  "id": 1344715,
+  "name": "Joshua James",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Corey Bowery"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 8
+   }
+  ],
+  "biography": null,
+  "birthday": null,
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Acting",
+  "imdbId": "nm1685971",
+  "profile": "/img/profile/w185/jw1n2Pzi2LJvyu6OkXTHMXPV7Q4.jpg",
+  "profileLarge": null
+ },
  "1345610": {
   "id": 1345610,
   "name": "Chase Paris",
@@ -6563,6 +7512,24 @@
    }
   ],
   "profile": "/img/profile/w185/8Mtv58QeYereQ7OgkNjTxJDRrXg.jpg",
+  "profileLarge": null
+ },
+ "1349452": {
+  "id": 1349452,
+  "name": "Lars P. Winther",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/JYh9xcd3YdmCYcJ5TuFoo40vOU.jpg",
   "profileLarge": null
  },
  "1358021": {
@@ -6731,6 +7698,24 @@
    }
   ],
   "profile": "/img/profile/w185/uP09TRWVqSaDPZ2sqkbhZCHFbSm.jpg",
+  "profileLarge": null
+ },
+ "1372903": {
+  "id": 1372903,
+  "name": "James Price",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Production Design"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "1377410": {
@@ -6995,6 +7980,13 @@
     "jobs": [],
     "episodeCount": 5,
     "order": 500
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 8
    }
   ],
   "biography": "Rahul Kohli was born on 13th November 1985 in London. Rahul began acting in school plays at an early age, but it wasn't until he was 17 that drama became his main focus. After leaving college having studied Film, Rahul applied for drama schools with the hope to begin his career as a performer. Having been accepted at school, Rahul began to learn his trade on stage, performing in various productions from William Shakespeare's Henry V to Eduardo De Filippo's Sabato, domenica e lunedi. After leaving the theatre and acquiring an agent, Rahul has been working on British television ever since, performing in well known British dramas such as Eastenders and Holby City, to working on worldwide advertising campaigns for Heineken and Sony. While screen acting has always been his primary focus, Rahul has still enjoyed success on stage in his professional career, with a stint at The National Theatre working with acclaimed director Howard Davies.",
@@ -7115,6 +8107,24 @@
    }
   ],
   "profile": "/img/profile/w185/wSsMlShz5VAu5U3RSRiJse5XTgR.jpg",
+  "profileLarge": null
+ },
+ "1453475": {
+  "id": 1453475,
+  "name": "Ryan Turek",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/wg4gC4k106UUbZ0PVVIjs6lHc1X.jpg",
   "profileLarge": null
  },
  "1455812": {
@@ -7425,6 +8435,24 @@
   "profile": null,
   "profileLarge": null
  },
+ "1503075": {
+  "id": 1503075,
+  "name": "Daniel Tuite",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Gangster 3"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 47
+   }
+  ],
+  "profile": "/img/profile/w185/onbBMHNCxpsIWjXrHJYNzKoyIGV.jpg",
+  "profileLarge": null
+ },
  "1505505": {
   "id": 1505505,
   "name": "Alexis G. Zall",
@@ -7447,6 +8475,22 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm5359536",
   "profile": "/img/profile/w185/bTCFZUDmE01mg9Mix8TqlgH8GnQ.jpg",
+  "profileLarge": null
+ },
+ "1510559": {
+  "id": 1510559,
+  "name": "Jack Colgrave Hirst",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 35
+   }
+  ],
+  "profile": "/img/profile/w185/q9tEA7aIri6d8t5doaZgR2dZsxN.jpg",
   "profileLarge": null
  },
  "1513992": {
@@ -7677,6 +8721,24 @@
   "profile": null,
   "profileLarge": null
  },
+ "1533529": {
+  "id": 1533529,
+  "name": "Sarah Domeier Lindo",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Casting"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/vpvgNtUfZxLmbAq7SwxEcsb1gXW.jpg",
+  "profileLarge": null
+ },
  "1535243": {
   "id": 1535243,
   "name": "Callie McClincy",
@@ -7735,6 +8797,46 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm5566180",
   "profile": "/img/profile/w185/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg",
+  "profileLarge": null
+ },
+ "1537686": {
+  "id": 1537686,
+  "name": "Naomi Ackie",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Caitlyn Corr"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 1
+   }
+  ],
+  "biography": "Naomi Sarah Ackie (born 22 August 1991) is an English actress. She is known for her television roles in The End of the F***ing World (2019), for which she won the BAFTA TV Award for Best Supporting Actress, and Master of None (2021). Her film roles include Star Wars: The Rise of Skywalker (2019), I Wanna Dance with Somebody (2022), Blink Twice (2024), Sorry, Baby (2025), and Mickey 17 (2025).\n\nDescription above from the Wikipedia article Naomi Ackie, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+  "birthday": "1991-08-22",
+  "deathday": null,
+  "placeOfBirth": "Walthamstow, London, England, UK",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm7609875",
+  "profile": "/img/profile/w185/dijwuTAEZUzQtoJfK49S4X80fQw.jpg",
+  "profileLarge": null
+ },
+ "1542283": {
+  "id": 1542283,
+  "name": "Adam Silver",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 13
+   }
+  ],
+  "profile": "/img/profile/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg",
   "profileLarge": null
  },
  "1545498": {
@@ -7843,6 +8945,22 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "1563431": {
+  "id": 1563431,
+  "name": "Michael Shaeffer",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 25
+   }
+  ],
+  "profile": "/img/profile/w185/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg",
   "profileLarge": null
  },
  "1572103": {
@@ -8229,6 +9347,22 @@
   "profile": "/img/profile/w185/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg",
   "profileLarge": null
  },
+ "1647129": {
+  "id": 1647129,
+  "name": "Derek Siow",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 33
+   }
+  ],
+  "profile": "/img/profile/w185/qvgJitn5JRvyoEQEPqc3VcM7x1e.jpg",
+  "profileLarge": null
+ },
  "1648705": {
   "id": 1648705,
   "name": "Katie Carpenter",
@@ -8530,6 +9664,24 @@
    }
   ],
   "profile": "/img/profile/w185/slQHvpXPbkBGEen2T2pDsV3ebyR.jpg",
+  "profileLarge": null
+ },
+ "1686493": {
+  "id": 1686493,
+  "name": "Joana Ribeiro",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Mia Torrez"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 15
+   }
+  ],
+  "profile": "/img/profile/w185/ipukcmtTCQGJ7LPZuP3YLXbpEbm.jpg",
   "profileLarge": null
  },
  "1689478": {
@@ -9138,6 +10290,24 @@
   "profile": "/img/profile/w185/38JGIxV3to09Op0M0s2Pg1H0re4.jpg",
   "profileLarge": null
  },
+ "1758349": {
+  "id": 1758349,
+  "name": "Ally Conover",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Casting"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "1770856": {
   "id": 1770856,
   "name": "Taylor Stewart",
@@ -9259,6 +10429,15 @@
     ],
     "episodeCount": 8,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Original Music Composer"
+    ],
+    "episodeCount": 0,
+    "order": null
    }
   ],
   "biography": "John Andrew Grush and Taylor Newton Stewart, known collectively as The Newton Brothers, are American film score composers, record producers, and multi-instrumentalists. Their works include scores for several films with director Mike Flanagan, who has composed for every project since Oculus (2013) and various other films and television series. Despite the name, they are not related.\n\nEarly in their lives, Grush and Stewart were inspired to combine music and visuals and seek a career in film composition. They are both accomplished musicians and multi-instrumentalists who can play piano, guitar, bass, clarinet, flute, accordion, saxophone, harmonica, percussion, organ, kazoo and cello. Together they apprenticed under Hans Zimmer and co-scored the Mike Flanagan thriller Before I Wake with Danny Elfman.\n\nThe Newton Brothers have been scoring feature films together for over a decade, breaking into the mainstream with their work on Tony Kaye's film Detachment. In 2013, they began their work in horror films with Mike Flanagan and Blumhouse Productions including Oculus, which The Irish Times said, \"Andy and Taylor Newton's dynamic combination of simple melodic fragments, aleatory noise (broken glass, metal scrapes) and a solemn choir gradually inject the seriously spooky Oculus with nerve-shredding suspense and skin-crawling dread,\" and Ouija: Origin of Evil. They have since started scoring multiple horror genre projects for film and television.\n\nDescription above from the Wikipedia article The Newton Brothers, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
@@ -9348,6 +10527,30 @@
   "profile": null,
   "profileLarge": null
  },
+ "1815694": {
+  "id": 1815694,
+  "name": "Wil Coban",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Bones"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 7
+   }
+  ],
+  "biography": null,
+  "birthday": null,
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Acting",
+  "imdbId": "nm7690274",
+  "profile": "/img/profile/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg",
+  "profileLarge": null
+ },
  "1822278": {
   "id": 1822278,
   "name": "Leah Fong",
@@ -9382,6 +10585,24 @@
   "knownForDepartment": "Writing",
   "imdbId": "nm3743024",
   "profile": null,
+  "profileLarge": null
+ },
+ "1828173": {
+  "id": 1828173,
+  "name": "Chantal Nong Vo",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": "/img/profile/w185/zscpdONQxMypmH4tly56PUXj2Jy.jpg",
   "profileLarge": null
  },
  "1829735": {
@@ -10282,6 +11503,24 @@
   "profile": "/img/profile/w185/psOOkXWgnELCXdgkz3W9hc3qTOC.jpg",
   "profileLarge": null
  },
+ "1985603": {
+  "id": 1985603,
+  "name": "Rafi Crohn",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "1989316": {
   "id": 1989316,
   "name": "Chinaka Hodge",
@@ -10462,6 +11701,24 @@
    }
   ],
   "profile": "/img/profile/w185/pU1mvfa5f8k3qXT2rS3Xzy4KH6n.jpg",
+  "profileLarge": null
+ },
+ "2056078": {
+  "id": 2056078,
+  "name": "Clayton Martinez",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Special Effects Makeup Artist"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "2058126": {
@@ -11683,6 +12940,22 @@
   "profile": "/img/profile/w185/xZCPujHOieKHgKBSgPxtL8RvQUQ.jpg",
   "profileLarge": null
  },
+ "2397665": {
+  "id": 2397665,
+  "name": "Baba Oyejide",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 34
+   }
+  ],
+  "profile": "/img/profile/w185/yiuVdGkIWGi57F8ifinnsKsgPAf.jpg",
+  "profileLarge": null
+ },
  "2411114": {
   "id": 2411114,
   "name": "Jaren Moore",
@@ -11974,6 +13247,30 @@
   "profile": "/img/profile/w185/roIwd1bHRXhaEeOvWRGGfLGQA6A.jpg",
   "profileLarge": null
  },
+ "2542319": {
+  "id": 2542319,
+  "name": "Sasha Calle",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Det. Gina Restrepo"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 1
+   }
+  ],
+  "biography": "Sasha Calle (born August 7, 1995) is an American actress. She starred in the soap opera The Young and the Restless from 2018 to 2021, for which she received a nomination for a Daytime Emmy Award. She made her film debut as Supergirl in the superhero film The Flash (2023).",
+  "birthday": "1995-08-07",
+  "deathday": null,
+  "placeOfBirth": "Boston, Massachusetts, USA",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm8567338",
+  "profile": "/img/profile/w185/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg",
+  "profileLarge": null
+ },
  "2551839": {
   "id": 2551839,
   "name": "Elizabeth Padden",
@@ -12188,6 +13485,64 @@
    }
   ],
   "profile": "/img/profile/w185/28pyjtzP3uEUTiTBLMNZu9qBWLu.jpg",
+  "profileLarge": null
+ },
+ "2701286": {
+  "id": 2701286,
+  "name": "Robert Allman",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [
+     "Visual Effects Supervisor"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
+ "2723390": {
+  "id": 2723390,
+  "name": "Olivia-Mai Barrett",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Niki"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 11
+   }
+  ],
+  "biography": "Olivia-Mai Barrett is an English actress from London, United Kingdom. She began her career in music videos and the Disney series Penny on M.A.R.S. in which she played the title role and Alex & Co. on the Disney Channel.\n\nIn 2019, she was the sole actress in the last of eight episodes of the BBC mini-series, Soon Gone: A Windrush Chronicle, a series showing life in the UK for successive generations of people with Caribbean heritage, as Michaela Williams. In The Observer, Kwame Kwei-Armah was quoted as saying \"Her performance was incredible, I was amazed at how she brought such empathy and insight to the part\". Barrett shares the same background as her character in the series, as her father is mixed-race and her grandfather Jamaican; the Windrush story is part of her family background.\n\nIn 2020 she starred in the film My Dad's Christmas Date.",
+  "birthday": "1996-05-10",
+  "deathday": null,
+  "placeOfBirth": "London, England",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm9141389",
+  "profile": "/img/profile/w185/gWZRzvOnUxZmvdzHuxBvIS0BEJP.jpg",
+  "profileLarge": null
+ },
+ "2733504": {
+  "id": 2733504,
+  "name": "Ishtar Currie Wilson",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 26
+   }
+  ],
+  "profile": "/img/profile/w185/lGpk7yoJbx4v6ddqNnxy6qtje5g.jpg",
   "profileLarge": null
  },
  "2749590": {
@@ -12515,6 +13870,22 @@
   "profile": null,
   "profileLarge": null
  },
+ "2928090": {
+  "id": 2928090,
+  "name": "Liam Lau Fernandez",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 41
+   }
+  ],
+  "profile": "/img/profile/w185/lO1wkIN1mrVIjhtz7RvKCCxEVZT.jpg",
+  "profileLarge": null
+ },
  "2982416": {
   "id": 2982416,
   "name": "Igby Rigney",
@@ -12556,6 +13927,22 @@
   "imdbId": "nm9723807",
   "profile": "/img/profile/w185/iWrTtze4lRQ3t6LQL7UzneguPTo.jpg",
   "profileLarge": "/img/profile/h632/iWrTtze4lRQ3t6LQL7UzneguPTo.jpg"
+ },
+ "2992036": {
+  "id": 2992036,
+  "name": "Lorraine Tai",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 29
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
  },
  "3040062": {
   "id": 3040062,
@@ -12609,6 +13996,30 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "3115247": {
+  "id": 3115247,
+  "name": "Jacobi Jupe",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [
+     "Max Miller"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 6
+   }
+  ],
+  "biography": "Jacobi Jupe (born July 2013) is a British actor, best known for portraying Hamnet Shakespeare in Hamnet (2025) for which he won the Astra Film Award for Best Young Performer, and received nominations for the Critics' Choice Movie Award for Best Young Performer, and the Washington D.C. Area Film Critics Association Award for Best Breakthrough Performance. He is also the younger brother of actor Noah Jupe.",
+  "birthday": "2013-07-01",
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Acting",
+  "imdbId": "nm12408604",
+  "profile": "/img/profile/w185/wVpax8MOwdelnQILiDNoDkTzebU.jpg",
   "profileLarge": null
  },
  "3156647": {
@@ -12681,6 +14092,22 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "3188262": {
+  "id": 3188262,
+  "name": "Becky Bush",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 31
+   }
+  ],
+  "profile": "/img/profile/w185/ncZvHT4j1Lmwgmu6bKtIRbmBjrj.jpg",
   "profileLarge": null
  },
  "3194489": {
@@ -12830,6 +14257,30 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "3286781": {
+  "id": 3286781,
+  "name": "Francesca Corney",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Rosie"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 5
+   }
+  ],
+  "biography": "Francesca Ploypailin Corney (born 1993) was born and raised in Chatham, Kent to an English father and a Thai mother.",
+  "birthday": "1993-08-16",
+  "deathday": null,
+  "placeOfBirth": "Chatham, Kent, England",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm12584675",
+  "profile": "/img/profile/w185/p2B2dYAvl0TMUtbrZxzOdNgBbSE.jpg",
   "profileLarge": null
  },
  "3287129": {
@@ -13127,6 +14578,13 @@
     "jobs": [],
     "episodeCount": 0,
     "order": 1
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 17
    }
   ],
   "biography": "Benjamin Pajak is an American actor and singer known for his work in musical theater and film.",
@@ -13136,7 +14594,7 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm12253661",
   "profile": "/img/profile/w185/aHNPkMsHDmvlXLj5mSzS2ZcD4xK.jpg",
-  "profileLarge": null
+  "profileLarge": "/img/profile/h632/aHNPkMsHDmvlXLj5mSzS2ZcD4xK.jpg"
  },
  "3361846": {
   "id": 3361846,
@@ -13241,6 +14699,37 @@
     ],
     "episodeCount": 9,
     "order": null
+   },
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "biography": "Alexandra Magistro is an American filmmaker and producer.",
+  "birthday": null,
+  "deathday": null,
+  "placeOfBirth": null,
+  "knownForDepartment": "Production",
+  "imdbId": "nm7678522",
+  "profile": null,
+  "profileLarge": null
+ },
+ "3617568": {
+  "id": 3617568,
+  "name": "Jean-Pascal Heynemand",
+  "gender": 2,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 30
    }
   ],
   "profile": null,
@@ -13268,6 +14757,22 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm14057859",
   "profile": "/img/profile/w185/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg",
+  "profileLarge": null
+ },
+ "3782978": {
+  "id": 3782978,
+  "name": "Kandy Rohmann",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 43
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "3785074": {
@@ -13448,6 +14953,40 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "4022682": {
+  "id": 4022682,
+  "name": "Samson Ajewole",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Gangster 2"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 46
+   }
+  ],
+  "profile": "/img/profile/w185/39NhhoonOoIAraGg6Ga81CnT77r.jpg",
+  "profileLarge": null
+ },
+ "4103828": {
+  "id": 4103828,
+  "name": "Chloe Zeitounian",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 27
+   }
+  ],
+  "profile": "/img/profile/w185/3ej1IpWIJq4AeU5tUkF4UOn2wj7.jpg",
   "profileLarge": null
  },
  "4123579": {
@@ -13827,6 +15366,30 @@
   "profile": null,
   "profileLarge": null
  },
+ "4577931": {
+  "id": 4577931,
+  "name": "Ruby Sear",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Theresa"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 6
+   }
+  ],
+  "biography": null,
+  "birthday": "2000-09-11",
+  "deathday": null,
+  "placeOfBirth": "Islington, London, England",
+  "knownForDepartment": "Acting",
+  "imdbId": "nm7417888",
+  "profile": "/img/profile/w185/hNlLm6NaHPjakDJhPEY1suGcxKi.jpg",
+  "profileLarge": null
+ },
  "4631779": {
   "id": 4631779,
   "name": "Alozie LaRose",
@@ -13861,6 +15424,22 @@
    }
   ],
   "profile": "/img/profile/w185/s7xCENwMSwd1SMNooTL3a3YBrHt.jpg",
+  "profileLarge": null
+ },
+ "4849407": {
+  "id": 4849407,
+  "name": "Jessica Grundle",
+  "gender": 1,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 38
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "4929352": {
@@ -13972,6 +15551,40 @@
   "knownForDepartment": "Acting",
   "imdbId": "nm8720587",
   "profile": "/img/profile/w185/lmpaF8Yi0SfojtEwlY1CkEjzGU7.jpg",
+  "profileLarge": null
+ },
+ "5339025": {
+  "id": 5339025,
+  "name": "Nick Davison",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 42
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
+ "5432345": {
+  "id": 5432345,
+  "name": "Juan Hernandez",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Gangster 1"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 45
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "5482373": {
@@ -14136,6 +15749,38 @@
   "profile": null,
   "profileLarge": null
  },
+ "5662789": {
+  "id": 5662789,
+  "name": "Jennifer Drew Ememandu",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 44
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
+ "6025651": {
+  "id": 6025651,
+  "name": "R.A. Donnelly",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 36
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "6311946": {
   "id": 6311946,
   "name": "Breanne Wilson",
@@ -14154,6 +15799,22 @@
   "profile": "/img/profile/w185/w37SPzwWcG6VltxEZj6W4jnmiiE.jpg",
   "profileLarge": null
  },
+ "6324404": {
+  "id": 6324404,
+  "name": "Seth Isaac Thomas",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 37
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "6399650": {
   "id": 6399650,
   "name": "Ebony Booth",
@@ -14170,6 +15831,22 @@
    }
   ],
   "profile": "/img/profile/w185/sEgfrffGGteXHOxzcKUGVNrZvm2.jpg",
+  "profileLarge": null
+ },
+ "6473010": {
+  "id": 6473010,
+  "name": "Emma Monnickendam",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 39
+   }
+  ],
+  "profile": null,
   "profileLarge": null
  },
  "6533746": {
@@ -14226,6 +15903,58 @@
   "profile": null,
   "profileLarge": null
  },
+ "6542631": {
+  "id": 6542631,
+  "name": "Emily Florence",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 16
+   }
+  ],
+  "profile": "/img/profile/w185/h7X91zjx3jTIimn6PapkQrJpf1b.jpg",
+  "profileLarge": null
+ },
+ "6544810": {
+  "id": 6544810,
+  "name": "Topher Merrill",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
+ "6544811": {
+  "id": 6544811,
+  "name": "John Baden",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "the-exorcist-martyrs",
+    "characters": [],
+    "jobs": [
+     "Executive Producer"
+    ],
+    "episodeCount": 0,
+    "order": null
+   }
+  ],
+  "profile": null,
+  "profileLarge": null
+ },
  "6569611": {
   "id": 6569611,
   "name": "Juno Kim",
@@ -14242,6 +15971,24 @@
    }
   ],
   "profile": null,
+  "profileLarge": null
+ },
+ "6571969": {
+  "id": 6571969,
+  "name": "Yoav Besorai",
+  "gender": 0,
+  "appearances": [
+   {
+    "work": "clayface",
+    "characters": [
+     "Bobby Showbiz"
+    ],
+    "jobs": [],
+    "episodeCount": 0,
+    "order": 20
+   }
+  ],
+  "profile": "/img/profile/w185/veTaAZXSeoX814Mrz7NQ2Jodglz.jpg",
   "profileLarge": null
  }
 }

@@ -1,0 +1,7 @@
+.trail { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-2) var(--gutter); font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); border-bottom: 1px solid var(--hairline); overflow-x: auto; white-space: nowrap; }
+.trail__label { letter-spacing: 0.1em; text-transform: uppercase; color: var(--dust); flex: none; }
+.trail__list { display: flex; align-items: center; gap: var(--s-1); }
+.trail__list li + li::before { content: '→'; color: var(--dust); margin: 0 var(--s-1); }
+.trail__item { display: inline-flex; align-items: center; gap: 0.3em; color: var(--ash); }
+a.trail__item:hover { color: var(--candle); }
+.trail__item.is-current { color: var(--bone); }
