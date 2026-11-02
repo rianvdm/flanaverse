@@ -79,7 +79,7 @@ export default function render(route: Route, mount: HTMLElement) {
       <p class="wall__intro">${plural(core.length, 'core work')}: ${plural(films, 'film')} and ${plural(core.length - films, 'series', 'series')}, from Absentia to now. Each poster counts the actors it shares with the rest of the Flanaverse.</p>
       <div class="filters wall__filters">
         <span class="seg" role="group" aria-label="Show">
-          ${FILTERS.map((f) => html`<button class="btn" type="button" data-kind="${f.id}" aria-pressed="${f.id === filter}">${f.label}</button>`)}
+          ${FILTERS.map((f) => html`<button class="btn" type="button" data-kind="${f.id}" aria-pressed="${String(f.id === filter)}">${f.label}</button>`)}
         </span>
       </div>
     </header>

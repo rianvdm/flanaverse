@@ -151,8 +151,8 @@ export default function render(route: Route, mount: HTMLElement) {
 
     <div class="cx-filters" role="search" aria-label="Filter props and eggs">
       <div class="cx-cats" role="group" aria-label="Category">
-        <button type="button" class="btn" data-cat="" aria-pressed="${!f.cat}">All</button>
-        ${CATEGORIES.map((c) => html`<button type="button" class="btn" data-cat="${c.key}" aria-pressed="${f.cat === c.key}">${glyph(kindOf(c.key))}${c.label}</button>`)}
+        <button type="button" class="btn" data-cat="" aria-pressed="${String(!f.cat)}">All</button>
+        ${CATEGORIES.map((c) => html`<button type="button" class="btn" data-cat="${c.key}" aria-pressed="${String(f.cat === c.key)}">${glyph(kindOf(c.key))}${c.label}</button>`)}
       </div>
       <div class="filters cx-row">
         <label>Work
@@ -162,10 +162,10 @@ export default function render(route: Route, mount: HTMLElement) {
           </select>
         </label>
         <div class="seg" role="group" aria-label="Confidence">
-          <button type="button" class="btn" data-conf="" aria-pressed="${!f.conf}">All</button>
-          <button type="button" class="btn" data-conf="confirmed" aria-pressed="${f.conf === 'confirmed'}">Confirmed only</button>
+          <button type="button" class="btn" data-conf="" aria-pressed="${String(!f.conf)}">All</button>
+          <button type="button" class="btn" data-conf="confirmed" aria-pressed="${String(f.conf === 'confirmed')}">Confirmed only</button>
         </div>
-        <button type="button" class="btn cx-cross" aria-pressed="${f.cross}">Cross-work only</button>
+        <button type="button" class="btn cx-cross" aria-pressed="${String(f.cross)}">Cross-work only</button>
         <label class="cx-q"><span class="visually-hidden">Filter by text</span>
           <input type="search" name="q" placeholder="Filter by text…" value="${f.q}" autocomplete="off">
         </label>

@@ -7,9 +7,9 @@
 .strip__line { stroke: var(--hairline); stroke-width: 1; }
 .strip__tick { stroke: var(--hairline); stroke-width: 1; }
 .strip__stem { stroke: var(--brass-40); stroke-width: 1; }
-.strip__ticks { position: absolute; left: 0; right: 0; bottom: 0; height: 12px; font-family: var(--font-ui); font-size: 10px; color: var(--dust); }
+.strip__ticks { position: absolute; bottom: 0; height: 12px; font-family: var(--font-ui); font-size: 10px; color: var(--dust); }
 .strip__ticks span { position: absolute; transform: translateX(-50%); }
-.strip__items { position: absolute; left: 0; right: 0; bottom: 18px; height: calc(100% - 18px); }
+.strip__items { position: absolute; bottom: 18px; height: calc(100% - 18px); }
 .strip__item { position: absolute; bottom: 12px; transform: translateX(-50%); }
 .strip__item a { display: block; overflow: hidden; border: 1px solid var(--brass-40); background: var(--vault); font-size: 8px; line-height: 1.1; color: var(--ash); }
 .strip__item a:hover { border-color: var(--candle); }

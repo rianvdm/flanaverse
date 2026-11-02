@@ -3,7 +3,7 @@
  * Views are lazy modules in src/views/ (see docs/SPEC.md).
  */
 import { html, mountHtml } from './lib/html';
-import { register, registerNotFound, start, onRoute } from './lib/router';
+import { register, registerNotFound, start, onRoute, beforeRender } from './lib/router';
 import { installPaletteShortcuts, openPalette } from './components/palette';
 import { mountTrail, renderTrail } from './components/trail';
 import { closePeek } from './components/peek';
@@ -39,12 +39,16 @@ export function mountApp(root: HTMLElement): void {
     </footer>`);
 
   root.querySelector('.shell-search')!.addEventListener('click', () => openPalette());
+  root.querySelector<HTMLAnchorElement>('.skip-link')!.addEventListener('click', (e) => {
+    e.preventDefault();                                   // a plain #main would hit the hash router
+    root.querySelector<HTMLElement>('#main')!.focus();
+  });
+  beforeRender(closePeek);
   installPaletteShortcuts();
   mountTrail(root.querySelector<HTMLElement>('#trail')!);
 
   const navLinks = [...root.querySelectorAll<HTMLAnchorElement>('.shell-nav a')];
   onRoute((route) => {
-    closePeek();
     renderTrail();
     for (const a of navLinks) {
       const active = new RegExp(a.dataset.match!).test(route.path);

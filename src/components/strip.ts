@@ -8,7 +8,7 @@ import './strip.css';
 
 export const AXIS_FROM = 2011;
 export const AXIS_TO = 2027;
-export const xOfYear = (year: number, width: number) => ((year - AXIS_FROM) / (AXIS_TO - AXIS_FROM)) * width;
+export const xOfYear = (year: number, width: number) => ((Math.min(Math.max(year, AXIS_FROM), AXIS_TO) - AXIS_FROM) / (AXIS_TO - AXIS_FROM)) * width;
 export const yearOf = (date: string) => Number(date.slice(0, 4)) + (Number(date.slice(5, 7) || 1) - 1) / 12;
 
 export function appearsInStrip(slugs: string[], opts: { notes?: Record<string, string>; compact?: boolean } = {}): Raw {

@@ -20,6 +20,8 @@ let current: { route: Route; cleanup: Cleanup } | null = null;
 let mountEl: HTMLElement;
 let notFound: ViewLoader | null = null;
 const listeners = new Set<(r: Route) => void>();
+const beforeListeners = new Set<() => void>();
+let seq = 0;
 
 function compile(pattern: string): { regex: RegExp; keys: string[] } {
   const keys: string[] = [];
@@ -57,25 +59,42 @@ export function setQuery(query: Record<string, string | number | undefined>): vo
 
 export function currentRoute(): Route | null { return current?.route ?? null; }
 export function onRoute(fn: (r: Route) => void): () => void { listeners.add(fn); return () => listeners.delete(fn); }
+/** Runs after the old view is cleaned up and before the new one mounts (e.g. close the peek panel). */
+export function beforeRender(fn: () => void): () => void { beforeListeners.add(fn); return () => beforeListeners.delete(fn); }
+
+function safeDecode(s: string): string | null {
+  try { return decodeURIComponent(s); } catch { return null; }
+}
 
 async function resolve(): Promise<void> {
+  const token = ++seq;
   const { path, query } = parseHash();
   let match: Entry | undefined;
   let params: Record<string, string> = {};
   for (const e of entries) {
     const m = e.regex.exec(path);
-    if (m) { match = e; params = Object.fromEntries(e.keys.map((k, i) => [k, decodeURIComponent(m[i + 1])])); break; }
+    if (!m) continue;
+    const decoded = e.keys.map((k, i) => [k, safeDecode(m[i + 1])] as const);
+    if (decoded.some(([, v]) => v == null)) break;           // malformed escape: fall through to not-found
+    match = e;
+    params = Object.fromEntries(decoded as [string, string][]);
+    break;
   }
   const route: Route = { path, pattern: match?.pattern ?? '*', params, query };
   if (current?.cleanup) current.cleanup();
+  current = null;
+  beforeListeners.forEach((fn) => fn());
   mountEl.replaceChildren();
   mountEl.scrollTop = 0;
   window.scrollTo({ top: 0 });
   const loader = match?.load ?? notFound;
   if (!loader) { mountEl.textContent = 'Not found'; return; }
   const mod = await loader();
+  if (token !== seq) return;                                 // a newer navigation won
   const cleanup = await mod.default(route, mountEl);
+  if (token !== seq) { if (typeof cleanup === 'function') cleanup(); return; }
   current = { route, cleanup };
+  mountEl.focus({ preventScroll: true });
   listeners.forEach((fn) => fn(route));
 }
 

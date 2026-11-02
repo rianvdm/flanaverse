@@ -188,9 +188,9 @@ function renderControls(s: State): Raw {
     <label>Sort
       <select class="cg-sort">${SORTS.map((o) => html`<option value="${o.id}" ${o.id === s.sort ? 'selected' : ''}>${o.label}</option>`)}</select>
     </label>
-    <span class="seg" role="group" aria-label="Format">${FORMATS.map((f) => html`<button type="button" class="btn" data-format="${f.id}" aria-pressed="${f.id === s.format}">${f.label}</button>`)}</span>
-    <button type="button" class="btn" data-toggle="chars" aria-pressed="${s.chars}">Show characters</button>
-    <button type="button" class="btn" data-toggle="crew" aria-pressed="${s.crew}">Include crew</button>
+    <span class="seg" role="group" aria-label="Format">${FORMATS.map((f) => html`<button type="button" class="btn" data-format="${f.id}" aria-pressed="${String(f.id === s.format)}">${f.label}</button>`)}</span>
+    <button type="button" class="btn" data-toggle="chars" aria-pressed="${String(s.chars)}">Show characters</button>
+    <button type="button" class="btn" data-toggle="crew" aria-pressed="${String(s.crew)}">Include crew</button>
   </div>`;
 }
 

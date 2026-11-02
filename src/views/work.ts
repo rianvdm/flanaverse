@@ -82,8 +82,8 @@ function hero(w: Work, meta: WorkMeta | undefined): Raw {
   // Source: curated author first; else TMDB "Novel" credits (e.g. Stephen King on Doctor Sleep).
   const novelists = w.crew.filter((c) => c.job === 'Novel').map((c) => person(c.personId)).filter((p): p is Person => !!p);
   const source: Raw | null = meta?.sourceMaterial
-    ? html`${authorChip(slugify(meta.sourceMaterial.author), meta.sourceMaterial.author)} <span class="work-hero__source-title">${meta.sourceMaterial.title}</span>${meta.sourceMaterial.note ? html`<span class="work-hero__source-note">${meta.sourceMaterial.note}</span>` : ''}`
-    : novelists.length ? html`${novelists.map((p) => authorChip(slugify(p.name), p.name))}` : null;
+    ? html`${authorOrText(meta.sourceMaterial.author)} <span class="work-hero__source-title">${meta.sourceMaterial.title}</span>${meta.sourceMaterial.note ? html`<span class="work-hero__source-note">${meta.sourceMaterial.note}</span>` : ''}`
+    : novelists.length ? html`${novelists.map((p) => authorOrText(p.name))}` : null;
 
   return html`<section class="work-hero bleed">
     ${w.backdrop ? html`<div class="bleed__img work-hero__bleed" style="background-image:url('${w.backdrop}')"></div>` : ''}
@@ -301,6 +301,12 @@ function fillJumps(mount: HTMLElement): void {
 }
 
 /* ---------- view ---------- */
+
+/** An author chip when the author has a section on #/sources, otherwise plain text. */
+function authorOrText(name: string) {
+  const id = slugify(name);
+  return model.authors.some((a) => a.id === id) ? authorChip(id, name) : html`<span class="work-hero__source-author">${name}</span>`;
+}
 
 export default function render(route: Route, mount: HTMLElement) {
   const w = model.workBySlug.get(route.params.slug);

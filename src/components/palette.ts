@@ -37,8 +37,10 @@ export function search(q: string, limit = 24): SearchDoc[] {
 }
 
 let overlay: HTMLElement | null = null;
+let paletteOpener: Element | null = null;
 
 export function openPalette(initial = ''): void {
+  paletteOpener = document.activeElement;
   if (!overlay) {
     overlay = document.createElement('div');
     overlay.className = 'palette';
@@ -59,7 +61,7 @@ export function openPalette(initial = ''): void {
   const render = () => {
     const results = search(input.value, 16);
     active = Math.min(active, Math.max(results.length - 1, 0));
-    mountHtml(list, results.length ? html`${results.map((r, i) => html`<li role="option" aria-selected="${i === active}" class="palette__item ${i === active ? 'is-active' : ''}">
+    mountHtml(list, results.length ? html`${results.map((r, i) => html`<li role="option" aria-selected="${String(i === active)}" class="palette__item ${i === active ? 'is-active' : ''}">
       <a href="${r.href}">${r.image ? html`<img src="${r.image}" alt="" class="palette__img palette__img--${r.kind}">` : html`<span class="palette__img palette__img--${r.kind} palette__img--empty">${glyph(r.kind)}</span>`}<span class="palette__text"><span>${r.title}</span><span class="palette__sub">${glyph(r.kind)} ${r.sub}</span></span></a></li>`)}` : input.value.trim() ? html`<li class="palette__empty muted">Nothing found for “${input.value}”</li>` : html`<li class="palette__empty muted">Try “Lasser Glass”, “Henry Thomas” or “Midnight Mass”</li>`);
     list.querySelectorAll('a').forEach((a) => a.addEventListener('click', closePalette));
   };
@@ -69,14 +71,18 @@ export function openPalette(initial = ''): void {
     if (e.key === 'ArrowDown') { e.preventDefault(); active = (active + 1) % Math.max(n, 1); render(); }
     else if (e.key === 'ArrowUp') { e.preventDefault(); active = (active - 1 + Math.max(n, 1)) % Math.max(n, 1); render(); }
     else if (e.key === 'Enter') { const a = list.querySelector<HTMLAnchorElement>('.palette__item.is-active a'); if (a) { closePalette(); location.hash = a.getAttribute('href')!.slice(1); } else if (input.value.trim()) { closePalette(); location.hash = `/search?q=${encodeURIComponent(input.value.trim())}`; } }
-    else if (e.key === 'Escape') closePalette();
+    else if (e.key === 'Escape') { e.stopPropagation(); closePalette(); }
   });
   render();
   input.focus();
   input.select();
 }
 
-export function closePalette(): void { if (overlay) overlay.hidden = true; }
+export function closePalette(): void {
+  if (!overlay || overlay.hidden) return;
+  overlay.hidden = true;
+  if (paletteOpener instanceof HTMLElement) paletteOpener.focus({ preventScroll: true });
+}
 
 export function installPaletteShortcuts(): void {
   document.addEventListener('keydown', (e) => {

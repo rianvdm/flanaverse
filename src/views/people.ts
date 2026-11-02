@@ -139,14 +139,14 @@ export default function render(route: Route, mount: HTMLElement) {
         <div class="people__min">
           <span id="people-min-label">Min works</span>
           <div class="seg" role="group" aria-labelledby="people-min-label">
-            ${Array.from({ length: MAX_WORKS - MIN_WORKS + 1 }, (_, i) => i + MIN_WORKS).map((n) => html`<button class="btn num" type="button" data-min="${n}" aria-pressed="${n === state.min}">${n}</button>`)}
+            ${Array.from({ length: MAX_WORKS - MIN_WORKS + 1 }, (_, i) => i + MIN_WORKS).map((n) => html`<button class="btn num" type="button" data-min="${n}" aria-pressed="${String(n === state.min)}">${n}</button>`)}
           </div>
         </div>
         <label class="people__search">
           <span class="visually-hidden">Filter by name or character</span>
           <input type="search" placeholder="Filter by name or character" autocomplete="off" spellcheck="false" value="${state.q}" data-q>
         </label>
-        <button class="btn people__crew" type="button" aria-pressed="${state.crew}" data-crew>Include crew</button>
+        <button class="btn people__crew" type="button" aria-pressed="${String(state.crew)}" data-crew>Include crew</button>
       </div>
 
       <p class="people__status muted" aria-live="polite" data-status></p>
