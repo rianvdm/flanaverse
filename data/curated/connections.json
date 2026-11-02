@@ -1,1 +1,4139 @@
-[]
+[
+  {
+    "id": "lasser-glass",
+    "title": "The Lasser Glass",
+    "category": "prop",
+    "summary": "The haunted mirror from Oculus has turned up, or been reported, in nearly every Flanagan work since, and Flanagan has confirmed many of the sightings himself.",
+    "description": "The Lasser Glass began as a plastic mirror bought online for Flanagan's 2006 short and became the antagonist of Oculus, rebuilt by designer Bruce Larsen with a frame Flanagan describes as \"writhing humanoid forms.\" He pitched the feature as a \"portable Overlook Hotel,\" and he keeps hiding the mirror in later work to keep its mythology alive for a follow-up that has been stuck since Relativity Media's bankruptcy left the rights murky. Sources disagree on how many physical mirrors exist (one report says two were built, one living at Flanagan's home and one that travels to sets; another says one broke), so treat the count as unsettled.\n\nNot every sighting is equal. Ouija: Origin of Evil, Gerald's Game, Doctor Sleep, Midnight Mass and The Midnight Club are confirmed by Flanagan on the record; Hill House, Bly Manor and the Usher bar appearance are reported by several outlets; the Absentia sighting rests on a single review. Flanagan has said it is not in The Life of Chuck, and no one has reported it in Hush, Before I Wake, or Carrie (a frame-by-frame check of Carrie is still open). The carved dining chairs in Usher resemble the frame but are a different design. One correction to common copy: the Usher chest tattoo is on Rahul Kohli's Leo Usher, not on Owen, his Bly Manor character.",
+    "appearances": [
+      {
+        "work": "oculus-chapter-3",
+        "note": "Origin. A plastic \"Monte Paraiso\" mirror bought online plays the cursed glass in the 2006 short. Confirmed production history (per SlashFilm)."
+      },
+      {
+        "work": "absentia",
+        "note": "Possibly the short-film mirror on the wall of the psychologist's office. Fan theory, from a single review site (Horror Ghouls)."
+      },
+      {
+        "work": "oculus",
+        "note": "The antagonist. A new mirror was built for the feature, designed by Bruce Larsen. Confirmed."
+      },
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "In a basement corner as Doris walks through, around 1:07:00 (per ScreenCrush). Confirmed by Flanagan on Twitter, per ScreenCrush."
+      },
+      {
+        "work": "geralds-game",
+        "note": "The headboard Jessie is cuffed to is built from the bottom edge of the mirror's frame, mounted upside down per one report. Confirmed by Flanagan to Den of Geek and on Twitter, and by Trevor Macy to Rue Morgue."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "On the ground floor behind the statues, around 37:25 (per Collider). Reported by Collider and SlashFilm."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E5",
+        "note": "Visible during Nell's dance. Reported by Cheatsheet only."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "On a wall in the rebuilt Overlook, around 2:00:00 (per Collider). Confirmed by Flanagan to Bloody Disgusting: \"there was no way I was going to allow the Overlook to be rebuilt without having it on the wall somewhere.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E7",
+        "note": "Far back in the attic, behind Dani, at the opening of the episode. Reported by Collider and SlashFilm."
+      },
+      {
+        "work": "midnight-mass",
+        "episode": "S1E3",
+        "note": "Half under a sheet on the rec center stage behind the AA meetings; around 9:00 is a clear view (per ComicBook.com). Confirmed by Flanagan to Entertainment Weekly: \"It's behind them in the profile [shots] on stage.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E6",
+        "note": "In the Brightcliffe basement junk during the ritual, around 46:07 (per TV Insider). Confirmed by Flanagan to TV Insider and TVLine: \"It wasn't quite in the right place to leap out at you, but it's visible.\""
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "In Verna's bar during the 1979 New Year's Eve flashback, between Roderick and Madeline, around 46:00 (per SlashFilm). Reported by SlashFilm, Screen Rant and Creepy Catalog."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E4",
+        "note": "The frame appears as a chest tattoo on Napoleon \"Leo\" Usher (Rahul Kohli). Reported by Collider; a fan post says Midnight Mass doves flank it, which is unverified."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Collider: Mike Flanagan easter eggs",
+        "url": "https://collider.com/mike-flanagan-easter-eggs/"
+      },
+      {
+        "label": "SlashFilm: the Lasser Glass in Usher",
+        "url": "https://www.slashfilm.com/1402882/fall-house-usher-oculus-mirror-lasser-glass-cameo/"
+      },
+      {
+        "label": "Static on the TV: Oculus and the Lasser Glass",
+        "url": "https://staticonthetv.substack.com/p/oculus-and-the-lasser-glass-mike"
+      },
+      {
+        "label": "FlanaganSource on X: no mirror in Life of Chuck",
+        "url": "https://x.com/flanagansource/status/1935823303895073175"
+      }
+    ],
+    "people": [
+      551463,
+      1416505
+    ]
+  },
+  {
+    "id": "midnight-mass-novel",
+    "title": "Maddie Young's novel Midnight Mass",
+    "category": "prop",
+    "summary": "Years before the series existed, a horror novel called Midnight Mass by Hush's heroine sits on shelves in Hush and Gerald's Game.",
+    "description": "In Hush, a friend returns Maddie Young's (Kate Siegel) hardback of her own novel and we see the back cover: \"the 512 souls on sleepy Crocket[t]\" island and a church that brings \"Riley face to face with a terrifying secret.\" The cover also carries a fake blurb credited to producer Trevor Macy. In Gerald's Game the same cover sits on the shelf above the bed, and Jessie grabs it to throw at the stray dog.\n\nFlanagan spent more than a decade developing Midnight Mass as a novel and then a script before Netflix made it in 2021, so the prop is a promise he kept. CBR and Capital both point out a consequence: because Midnight Mass is a book inside Hush and Gerald's Game, the series cannot share their universe.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "A friend returns Maddie's copy; the back cover names Riley, the island and its 512 residents."
+      },
+      {
+        "work": "geralds-game",
+        "note": "The same cover on the shelf above the bed; Jessie throws it at the stray dog."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "The book's premise, Riley Flynn and Crockett Island, becomes the series."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "CBR: the Midnight Mass novel in Hush and Gerald's Game",
+        "url": "https://www.cbr.com/midnight-mass-novel-easter-egg-connects-hush-gerlads-game/"
+      },
+      {
+        "label": "Screen Rant: the Midnight Mass book easter eggs",
+        "url": "https://screenrant.com/midnight-mass-book-easter-eggs-hush-geralds-game-explained/"
+      },
+      {
+        "label": "Capital/PopBuzz: Midnight Mass, Hush and Gerald's Game",
+        "url": "https://www.capitalfm.com/news/tv-film/midnight-mass-hush-connected-geralds-game/"
+      },
+      {
+        "label": "ScreenCrush: Gerald's Game easter eggs",
+        "url": "https://screencrush.com/geralds-game-easter-eggs/"
+      }
+    ],
+    "people": [
+      932076
+    ]
+  },
+  {
+    "id": "hush-erin-dies",
+    "title": "\"Can't kill Erin\"",
+    "category": "callback",
+    "summary": "Maddie's rejected ending in Hush, \"Erin dies,\" reads as a five-year-early setup for Erin Greene's death in Midnight Mass.",
+    "description": "In Hush, Maddie talks herself through endings for her next book: \"Erin dies. Can't kill Erin. That would piss 'em off. Didn't set it up properly.\" A manuscript page shown briefly appears to show Erin being drained by a vampire. Erin Greene, played by Kate Siegel (who played Maddie), does die in the Midnight Mass finale.\n\nThe Hush dialogue is on screen; reading it as deliberate foreshadowing is Screen Rant's inference, and Flanagan has not said so.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "Maddie's inner voice weighs killing Erin; a manuscript page flashes by."
+      },
+      {
+        "work": "midnight-mass",
+        "episode": "S1E7",
+        "note": "Erin Greene dies in the finale."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Hush set up Erin's death",
+        "url": "https://screenrant.com/midnight-mass-erin-death-hush-movie-setup/"
+      }
+    ],
+    "people": [
+      932076
+    ]
+  },
+  {
+    "id": "canker-man-hush-mask",
+    "title": "One mould, two monsters",
+    "category": "prop",
+    "summary": "The smiling white mask in Hush was cast from the mould Bruce Larsen made for the Canker Man's face in Before I Wake.",
+    "description": "Flanagan explained it on his Tumblr: \"The HUSH mask was designed by Bruce Larsen, who also designed the OCULUS mirror, and the Canker Man character from BEFORE I WAKE. The mask in HUSH is actually based on the Canker Man's face from that movie. We used the mold for the creature design that Bruce had made.\" The mask was softened to look more human, and he added that it was not modelled on Kate Siegel's face.\n\nLarsen also built the Gerald's Game headboard from the Lasser Glass frame, which makes him the person behind most of Flanagan's recurring objects.",
+    "appearances": [
+      {
+        "work": "before-i-wake",
+        "note": "The Canker Man's face, sculpted by Bruce Larsen."
+      },
+      {
+        "work": "hush",
+        "note": "The killer's mask, made from the same mould and softened."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Flanagan's Tumblr Q&A on the Canker Man",
+        "url": "https://www.tumblr.com/flanaganfilm/tagged/canker%20man"
+      }
+    ]
+  },
+  {
+    "id": "hush-mask-in-usher",
+    "title": "The Hush mask at Perry's party",
+    "category": "prop",
+    "summary": "At the masquerade in Usher's second episode, Jenny wears the killer's mask from Hush.",
+    "description": "Perry Usher's orgy in \"The Masque of the Red Death\" is a costume party, and one of the guests, Jenny, wears the smiling white mask from Hush. Nearly everyone at the party is dead by the end of the episode. Screen Rant and Creepy Catalog both spotted it; Flanagan has not confirmed it.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "The masked killer's face."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E2",
+        "note": "Jenny wears the mask at Perry's masquerade."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: Usher easter eggs",
+        "url": "https://screenrant.com/fall-house-usher-easter-eggs-references-hidden-details/"
+      },
+      {
+        "label": "Creepy Catalog: Usher hidden details",
+        "url": "https://creepycatalog.com/hidden-details-easter-eggs-the-fall-of-the-house-of-usher-on-netflix/"
+      }
+    ]
+  },
+  {
+    "id": "ouija-board-in-usher",
+    "title": "The Ouija board in the Usher twins' room",
+    "category": "prop",
+    "summary": "The screen-used board and planchette from Ouija: Origin of Evil sit in young Roderick and Madeline's room, and young Madeline is played by the same actor who played Doris.",
+    "description": "In Usher's 1962 flashback, after the twins' mother seems to die and a storm wakes Roderick, the board and planchette from Origin of Evil are in their room. Lulu Wilson, who played the possessed Doris in Ouija and young Shirley in Hill House, plays young Madeline here. Flanagan posted a set photo of himself and Wilson holding the board.",
+    "appearances": [
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "The board and planchette at the center of the Zander family's seances."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "The same board and planchette in the twins' room during the 1962 flashback."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Collider: the Ouija easter egg in Usher",
+        "url": "https://collider.com/fall-of-the-house-of-usher-ouija-origin-of-evil-easter-egg-image/"
+      },
+      {
+        "label": "Screen Rant: Ouija: Origin of Evil in Usher",
+        "url": "https://screenrant.com/fall-house-usher-ouija-origin-evil-mike-flanagan-easter-egg/"
+      },
+      {
+        "label": "GamesRadar: the Ouija easter egg in Usher",
+        "url": "https://www.gamesradar.com/the-fall-of-the-house-of-usher-ouija-origin-of-evil-easter-egg/"
+      },
+      {
+        "label": "ET Online: Flanagan's returning actors in The Midnight Club",
+        "url": "https://www.etonline.com/where-to-spot-all-of-mike-flanagans-returning-actors-in-the-midnight-club-192137"
+      }
+    ],
+    "people": [
+      551463,
+      1883866
+    ]
+  },
+  {
+    "id": "rose-the-hat-top-hat",
+    "title": "Rose the Hat's top hat",
+    "category": "prop",
+    "summary": "Rose the Hat's top hat from Doctor Sleep lives in Flanagan's prop collection and, he says, appears somewhere in The Life of Chuck.",
+    "description": "Flanagan kept Rebecca Ferguson's hat after Doctor Sleep and posted on Instagram that it \"also makes a special, subtle appearance in THE LIFE OF CHUCK.\" He has not said where, and no one has published the scene yet.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "Worn by Rose the Hat (Rebecca Ferguson), leader of the True Knot."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Somewhere in the film, per Flanagan; the scene has not been identified."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: Rose the Hat's hat in The Life of Chuck",
+        "url": "https://screenrant.com/life-chuck-movie-doctor-sleep-easter-egg-rose-hat/"
+      }
+    ],
+    "people": [
+      551463,
+      933238
+    ]
+  },
+  {
+    "id": "red-door",
+    "title": "The red door",
+    "category": "callback",
+    "summary": "Hill House's Red Room door returns in Carrie as the White family's red front door and a red door printed on Principal Grayle's prom shirt.",
+    "description": "The Red Room is Hill House's locked door, a room that takes a different form for each Crain and turns out to be the house's stomach; the reveal comes in the finale. Writer Rebecca Leigh Klingel came up with the idea, and Flanagan named his post-2024 production company Red Room Pictures.\n\nIn Carrie, the White family's front door is red in the police-discovery scene, and Principal Grayle (Matthew Lillard) wears a shirt printed with a red door at prom. Pop Culture Planet and Geek Vibes Nation both noticed; Flanagan has not confirmed the Carrie nods.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "The Red Room door, locked all series; the room's true nature is revealed in the finale."
+      },
+      {
+        "work": "carrie",
+        "note": "The White house's red front door when police arrive, and the red door on Principal Grayle's prom shirt."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      },
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      },
+      {
+        "label": "TheWrap: Bly Manor's hidden ghosts and Flora's dollhouse",
+        "url": "https://thewrap.com/haunting-bly-manor-hidden-ghosts-flora-dollhouse"
+      },
+      {
+        "label": "Mike Flanagan's official bio",
+        "url": "https://mikeflanaganfilm.com/bio"
+      }
+    ],
+    "people": [
+      2149546,
+      26457
+    ]
+  },
+  {
+    "id": "tall-man-bowler-hat",
+    "title": "The Tall Man's bowler hat",
+    "category": "egg",
+    "summary": "Young Luke takes the bowler hat of the floating Tall Man, and the ghost follows him for years.",
+    "description": "The Tall Man drags himself along on a cane and floats above the floor. He is William Hill, Poppy's husband, who bricked himself into a wall. When young Luke picks up his bowler hat, the ghost comes for it. The hat stays in Hill House: no source shows it recurring in any other Flanagan work, despite fan claims.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "The hat and its owner are introduced."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E4",
+        "note": "Luke's story; the Tall Man follows him."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "TV Guide: Hill House explained",
+        "url": "https://www.tvguide.com/news/haunting-hill-house-explained"
+      },
+      {
+        "label": "GamesRadar: Hill House ending explained",
+        "url": "https://gamesradar.com/haunting-of-hill-house-ending"
+      },
+      {
+        "label": "MPA: Hill House costume designer interview",
+        "url": "https://www.motionpictures.org/2018/10/the-haunting-of-hill-house-costume-designer-explains-why-those-ghosts-give-you-nightmares/"
+      }
+    ]
+  },
+  {
+    "id": "floras-dollhouse",
+    "title": "Flora's dollhouse",
+    "category": "egg",
+    "summary": "Flora's replica of Bly, with a doll for every person living and dead, is a map of where the ghosts are.",
+    "description": "Flora makes a doll for everyone at Bly, including the dead, and the faceless ghost boy moves the dolls to match where people are in the house. Flanagan called it \"our Marauder's Map for this season.\" Writer Rebecca Leigh Klingel, who also invented Hill House's Red Room, came up with it. Screen Rant has identified all 14 dolls, which makes the dollhouse a good place to start a rewatch.\n\nFlora's other tell is her catchphrase, \"perfectly splendid,\" which she says when things are anything but. Cheatsheet and Screen Rant read it as a coping mechanism for a child living among the dead (widely reported, not confirmed).",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "The dollhouse appears from the first episode; watch which dolls move between scenes."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TheWrap: Bly Manor's hidden ghosts and Flora's dollhouse",
+        "url": "https://thewrap.com/haunting-bly-manor-hidden-ghosts-flora-dollhouse"
+      },
+      {
+        "label": "Screen Rant: Flora's 14 dolls explained",
+        "url": "https://screenrant.com/haunting-bly-manor-flora-14-dolls-identities-explained/"
+      },
+      {
+        "label": "Screen Rant: the faceless ghost and the dolls",
+        "url": "https://screenrant.com/bly-manor-flora-dolls-dollhouse-faceless-ghost-move/"
+      },
+      {
+        "label": "Cheatsheet: why Flora says 'perfectly splendid'",
+        "url": "https://www.cheatsheet.com/news/the-haunting-of-bly-manor-why-does-flora-wingrave-say-perfectly-splendid.html"
+      }
+    ],
+    "people": [
+      2149546
+    ]
+  },
+  {
+    "id": "model-houses",
+    "title": "Shirley's model house and Flora's dollhouse",
+    "category": "callback",
+    "summary": "Two miniature houses, Shirley's model of the forever house and Flora's dollhouse, link Hill House and Bly Manor by theme only.",
+    "description": "Shirley keeps a model of her parents' planned forever house in her funeral-home office in Hill House, and it is wrecked when Olivia's presence makes itself felt. Flora's dollhouse in Bly is a working map of the ghosts. They are different objects with different jobs, and the link is a writers' and fans' reading, not a recurring prop.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Shirley's model of the forever house in her office."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "Flora's dollhouse, from the first episode."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Cheatsheet: does Flora's dollhouse connect to Hill House?",
+        "url": "https://www.cheatsheet.com/news/the-haunting-of-bly-manor-does-floras-dollhouse-connect-back-to-the-haunting-of-hill-house.html"
+      },
+      {
+        "label": "TheWrap: Bly Manor's hidden ghosts and Flora's dollhouse",
+        "url": "https://thewrap.com/haunting-bly-manor-hidden-ghosts-flora-dollhouse"
+      }
+    ]
+  },
+  {
+    "id": "lion-door-knockers",
+    "title": "Lion-face door hardware",
+    "category": "callback",
+    "summary": "Hill House's lion-face doorknobs may return as the two gold lion knockers on Bly's front door.",
+    "description": "Lion-face knobs appear throughout Hill House, including on the Red Room. In Bly Manor, the front door has two gold lion knockers. TV Guide calls it \"likely\" a nod and stops short of more.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Lion-face doorknobs throughout the house, the Red Room included."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E3",
+        "note": "Two gold lion knockers on the front door."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "TV Guide: Hill House easter eggs in Bly Manor",
+        "url": "https://www.tvguide.com/news/haunting-bly-manor-hill-house-easter-eggs/"
+      }
+    ]
+  },
+  {
+    "id": "mm-ichthys-car",
+    "title": "The fish on Riley's crash car",
+    "category": "egg",
+    "summary": "The car in Riley's drunk-driving crash carries a Christian fish badge.",
+    "description": "The opening of Midnight Mass shows the crash that kills a young woman and sends Riley Flynn to prison. BuzzFeed spotted an ichthys badge on the car, a small sign of the faith questions to come.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "episode": "S1E1",
+        "note": "The crash in the opening minutes."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "BuzzFeed: Midnight Mass easter eggs you missed",
+        "url": "https://www.buzzfeed.com/staceynguyen16/midnight-mass-easter-eggs-you-missed"
+      }
+    ]
+  },
+  {
+    "id": "geralds-game-in-usher",
+    "title": "Gerald's Game in the Usher streaming menu",
+    "category": "callback",
+    "summary": "Lenore and her mother hover over Gerald's Game in a streaming menu, and the parallels run deeper than the title.",
+    "description": "In \"Goldbug,\" Lenore (Kyliegh Curran) and her mother Morrie (Crystal Balint) finish Roger Corman's The Pit and the Pendulum and then hover over Gerald's Game in the menu. Morrie is herself confined to bed by an abusive husband who drugs her with a paralytic, close to Jessie's situation. And Bruce Greenwood and Carla Gugino, Gerald and Jessie, are playing Roderick and Verna in this very show. Netflix's Tudum confirmed it as an official egg.\n\nThe same movie night tips its hat to earlier Poe adaptations: before the menu moment, Morrie and Lenore watch the 1935 Raven with Bela Lugosi and the 1961 Pit and the Pendulum with Vincent Price.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "Jessie, cuffed to the bed by her husband Gerald."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E6",
+        "note": "Lenore and Morrie hover over Gerald's Game after The Pit and the Pendulum."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Gerald's Game easter egg in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg"
+      },
+      {
+        "label": "Screen Rant: Usher easter eggs",
+        "url": "https://screenrant.com/fall-house-usher-easter-eggs-references-hidden-details/"
+      }
+    ],
+    "people": [
+      2118623,
+      206661,
+      17832,
+      21089
+    ]
+  },
+  {
+    "id": "die-hard-poster",
+    "title": "A Die Hard poster at Brightcliffe",
+    "category": "egg",
+    "summary": "A Die Hard poster, for Flanagan's favourite film, hangs on a wall in The Midnight Club for one line.",
+    "description": "Flanagan told Inverse he got a Die Hard poster into the show. It is on screen briefly, and the 1990s setting gives it cover.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "note": "On a wall during one line of dialogue."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Inverse: Midnight Club easter eggs and cameos",
+        "url": "https://www.inverse.com/entertainment/midnight-club-easter-eggs-cameos"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "et-lunchbox",
+    "title": "Luke's E.T. lunchbox",
+    "category": "egg",
+    "summary": "Young Luke carries an E.T. lunchbox, a wink at Henry Thomas, who played Elliott in E.T. and plays young Hugh Crain.",
+    "description": "Henry Thomas was the boy in E.T. in 1982. In Hill House he plays the young father, and his on-screen son carries an E.T. lunchbox. Looper is the only source.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Young Luke's lunchbox in the 1990s timeline."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ],
+    "people": [
+      9976
+    ]
+  },
+  {
+    "id": "hill-house-hidden-ghosts",
+    "title": "Hill House's hidden ghosts",
+    "category": "egg",
+    "summary": "Ghosts stand in the background of almost every Hill House episode, unremarked and often out of focus, and Flanagan says they were part of the pitch from the start.",
+    "description": "Flanagan says hiding ghosts in plain sight was in the original pitch, with \"dozens\" per episode, and ghost extras were on set every day. The design team also \"tried to use design elements that look like human faces everywhere we could,\" in the wallpaper, light fixtures and doorknobs. Writer Jeff Howard says the team knows why each ghost is where it is, even though the show never explains them.\n\nCounts disagree: NME lists 33, IMDb Originals 43, Looper \"over three dozen.\" The per-episode list here follows NME, cross-listed by BuzzFeed, Higgypop and others; individual sightings are widely reported, not confirmed shot by shot, and timestamps vary between encodes. NME lists none for episodes 6 and 8.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "Five, per NME: 0:51 a pale face between the grand-staircase rails; 2:10 a face at a window watching Nell; 33:30 a man in the doorway where Steve and Hugh hide; 35:04 two figures by the stairs; 50:39 a figure behind a kitchen cupboard near Olivia."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E2",
+        "note": "Two, per NME: 4:19 a small figure in the garden bushes watching Shirley; 4:48 a ghost under the dining-room chandelier."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E3",
+        "note": "Ten, per NME: 9:54 a face in a door's glass panel; 16:24 a very tall figure behind a doorway; 18:27 a blonde ghost listening at the dumbwaiter; 28:31 a tall woman's arm behind a glass door; 29:13 a man between the basement steps; 38:23 the chandelier ghost again; 39:41 a bald man in a doorway; 39:52 a long-haired woman behind Olivia; 50:58 a figure behind the red lamp; 51:12 a ghost by a window watching Hugh."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E4",
+        "note": "Four, per NME: 8:23 a large figure in a hallway; 8:38 a blonde ghost under a chandelier; 13:18 a small figure with a hand on cupboard glass; 14:30 two tall ghosts in a doorway right of the stairs."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E5",
+        "note": "Three, per NME: 3:03 a white-faced man behind Olivia; 3:39 a thin girl in a doorway; 22:02 hands under the piano."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E7",
+        "note": "Three, per NME: 38:21 something watching Hugh outside the Red Room; 49:39 a woman behind a wall as Hugh finds a body; 50:16 a hand gripping the wall behind the police."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E9",
+        "note": "Five, per NME: 1:27 a large man in an archway; 8:29 a woman inside a glass kitchen cupboard; 35:51 a small figure to Hugh's right; 35:59 a huge black-eyed man right of the stairs; 39:39 a tall shape with legs, first mistaken for a clock."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "One, per NME: 52:52 a ghost over Steven's shoulder at his childhood home."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "NME: 33 secret ghosts in Hill House",
+        "url": "https://www.nme.com/features/tv-features/33-secret-ghosts-haunting-hill-house-2395122"
+      },
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      },
+      {
+        "label": "Higgypop: hidden ghosts in Hill House",
+        "url": "https://www.higgypop.com/news/hidden-ghosts-haunting-of-hill-house/"
+      },
+      {
+        "label": "IMDb Originals: 43 hidden ghosts",
+        "url": "https://www.imdb.com/title/tt9287308/"
+      }
+    ],
+    "people": [
+      551463,
+      1224355
+    ]
+  },
+  {
+    "id": "bent-neck-lady-reveal",
+    "title": "The Bent-Neck Lady",
+    "category": "egg",
+    "summary": "The ghost that terrorised Nell all her life turns out to be Nell herself, falling back through time after her death in Hill House.",
+    "description": "From childhood, Nell is visited by a woman with a broken, twisted neck. In \"The Bent-Neck Lady\" the show reveals that it is her own ghost: when she hangs herself in the Red Room, her neck snaps and she falls back through her own life, landing in the moments when her younger self woke paralysed in fear. It turns every earlier sighting into a scene of Nell watching herself.\n\nThe episode is full of Shirley Jackson as well. Nerdist reads the staircase deaths and Nell's dance as a nod to Eleanor on the novel's spiral stair, and Cheatsheet places the Lasser Glass in the room during the dance (reported, not confirmed). NME also counts three hidden ghosts in the episode.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E5",
+        "note": "The reveal. Watch Nell's earlier sightings again afterwards."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "Nell's childhood visits from the Bent-Neck Lady are first shown."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Haunting of Hill House",
+        "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House_(TV_series)"
+      },
+      {
+        "label": "Nerdist: Hill House easter eggs and book references",
+        "url": "https://nerdist.com/article/haunting-of-hill-house-12-easter-eggs-book-references/"
+      },
+      {
+        "label": "Cheatsheet: Hill House easter egg",
+        "url": "https://www.cheatsheet.com/news/the-haunting-of-hill-house-easter-egg-you-probably-didnt-notice.html/"
+      }
+    ],
+    "people": [
+      2117434,
+      2131391
+    ],
+    "image": "/img/still/w780/VOSdSM1jdhxR8M33ldL70biAmd.jpg"
+  },
+  {
+    "id": "hill-family-ghosts",
+    "title": "The Hill family",
+    "category": "egg",
+    "summary": "William, Poppy, Hazel and the boy in the wheelchair appear in brief glimpses, the remains of a fuller Hill family history that was cut.",
+    "description": "Flanagan has said: \"We had a whole history of Hill House that we were going to shoot.\" What survives is a handful of appearances by the family that built the house, among them Poppy Hill (Katie Parker), the Tall Man who is William Hill, and the boy in the wheelchair. Recognising them makes the house's own story easier to piece together.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Brief appearances throughout; Poppy is the most prominent."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ],
+    "people": [
+      551462
+    ]
+  },
+  {
+    "id": "two-storms-long-takes",
+    "title": "\"Two Storms\" in long takes",
+    "category": "egg",
+    "summary": "Hill House's sixth episode is staged in a handful of long, continuous takes that cut between a funeral home in the present and a storm night in the past.",
+    "description": "\"Two Storms\" moves the camera through the Crain family's present-day wake and the night of a storm at Hill House years before, with very few visible cuts. The single takes are well documented and became the series' calling card; GameSpot reports that a Midnight Mass sequence was harder still to shoot.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E6",
+        "note": "The whole episode."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "GameSpot: Midnight Mass vs Hill House episode 6",
+        "url": "https://www.gamespot.com/articles/midnight-mass-includes-a-sequence-that-was-more-challenging-to-shoot-than-hill-house-episode-6/1100-6496340/"
+      },
+      {
+        "label": "His for Horror: Oculus, the proto Hill House",
+        "url": "https://hisforhorror.substack.com/p/oculus-the-proto-hill-house"
+      }
+    ],
+    "image": "/img/still/w780/Agozt1AHsrt53LvW6FBHHhHUz6o.jpg"
+  },
+  {
+    "id": "dead-crowd-the-living",
+    "title": "The dead crowd round the living",
+    "category": "callback",
+    "summary": "The closing image of \"Two Storms,\" the dead gathered around the living, is a device Flanagan first used at the end of Oculus.",
+    "description": "Oculus ends with the mirror's victims surrounding the survivors. Hill House's sixth episode closes on the same kind of image. The link is a critic's reading at His for Horror; Flanagan has said separately that Hill House is \"a 10-hour Oculus.\"",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "The ending, as the mirror's dead gather."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E6",
+        "note": "The closing image of the episode."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "His for Horror: Oculus, the proto Hill House",
+        "url": "https://hisforhorror.substack.com/p/oculus-the-proto-hill-house"
+      }
+    ]
+  },
+  {
+    "id": "witching-hour-303",
+    "title": "3:03 a.m.",
+    "category": "egg",
+    "summary": "The Crain siblings wake at 3:03, the time Olivia and Nell died, which Flanagan calls his witching-hour nod.",
+    "description": "Several siblings wake at 3:03 in the morning, the time their mother and Nell died. Flanagan has called it a witching-hour nod. The repeated time ties the timelines together without needing a line of dialogue.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Wake-ups at 3:03 across the series."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "hill-house-sevens",
+    "title": "The number seven",
+    "category": "egg",
+    "summary": "Sevens recur in Hill House: Luke's stones, the twins' beds, Shirley's count of the family, and the final shot.",
+    "description": "Luke taps stones in sets of seven; the twins' beds are seven steps apart; Shirley notes the family is no longer seven; the final shot restores seven by counting spouses. Looper collects the pattern. Unlike the 3:03 wake-ups, no one from the production has spoken about it.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Luke's stones and the twins' beds."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "The final family scene, seven again."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ]
+  },
+  {
+    "id": "red-frosting",
+    "title": "The red frosting",
+    "category": "egg",
+    "summary": "Red frosting on Luke's sobriety cake in the final scene led some, including Oliver Jackson-Cohen, to ask whether the ending is real.",
+    "description": "The last family scene includes a cake with red frosting for Luke's sobriety anniversary. Oliver Jackson-Cohen raised it as a hint that the happy ending might be inside the Red Room. Flanagan has said he did consider a darker ending, with the Red Room window in shot, and cut it: \"It was too cruel.\" That a darker ending existed is confirmed; the frosting as a clue is fan reading.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "Luke's sobriety cake in the final scene."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ],
+    "people": [
+      551020
+    ]
+  },
+  {
+    "id": "a-ghost-is-a-wish",
+    "title": "\"A ghost is a wish\"",
+    "category": "callback",
+    "summary": "Steven's definition of a ghost opens Hill House and returns in the finale, and it is the closest thing to a thesis the show has.",
+    "description": "Steven's narration: \"Ghosts are guilt, ghosts are secrets, ghosts are regrets and failings... but most times, a ghost is a wish.\" He says it in the first episode and comes back to it at the end, by which time the series has shown each meaning in turn.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "Steven's opening narration."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "The line returns at the end."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Dexerto: the one important thing about Hill House's ghosts",
+        "url": "https://dexerto.com/tv-movies/the-haunting-of-hill-house-one-important-thing-ghosts-2968919"
+      },
+      {
+        "label": "The Avocado: Hill House episode 1 recap",
+        "url": "https://the-avocado.org/2018/10/14/the-haunting-of-hill-house-s01e01-steven-sees-a-ghost"
+      }
+    ],
+    "people": [
+      91520
+    ]
+  },
+  {
+    "id": "bly-faceless-dead",
+    "title": "Bly's faceless dead",
+    "category": "egg",
+    "summary": "The longer Bly's ghosts stay, the more they forget, until they lose their faces.",
+    "description": "Bly Manor gives its ghosts a rule: they fade as they forget themselves, and the oldest have no faces left. The Lady in the Lake, the faceless boy who moves Flora's dolls, the doll-faced ghost and the plague doctor all follow it. Flanagan had said Hill House-style hidden ghosts would be \"explained\" in Bly (per Dread Central), and this is the explanation.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "The faceless boy and other ghosts appear from the first episode."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E8",
+        "note": "The rule is laid out in the Lady in the Lake's origin."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: every Bly Manor ghost explained",
+        "url": "https://screenrant.com/haunting-bly-manor-every-ghost-explained/"
+      },
+      {
+        "label": "Dread Central: hidden ghosts will be explained in Bly",
+        "url": "https://www.dreadcentral.com/news/344842/hidden-ghosts-will-be-explained-in-haunting-of-bly-manor/"
+      },
+      {
+        "label": "Screen Rant: the faceless ghost and the dolls",
+        "url": "https://screenrant.com/bly-manor-flora-dolls-dollhouse-faceless-ghost-move/"
+      }
+    ],
+    "people": [
+      932076
+    ],
+    "image": "/img/still/w780/g2URB7v1P7zZbyQZaBnMSfZY6AF.jpg"
+  },
+  {
+    "id": "edmund-in-the-mirrors",
+    "title": "Edmund in the mirrors",
+    "category": "egg",
+    "summary": "Dani's dead fiancé Edmund O'Mara appears in mirrors and reflections from the first episode, his glasses catching the light.",
+    "description": "Before the show tells us what happened to Edmund, Dani keeps seeing him in reflective surfaces. On a rewatch, look for the glint of his glasses. His story is told in \"The Way It Came.\" The idea of a ghost seen only by the woman he loved comes from Henry James's \"Sir Edmund Orme.\"",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "Reflections behind Dani; look for the glint of glasses."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E4",
+        "note": "Dani's backstory and Edmund's death."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: every Bly Manor ghost explained",
+        "url": "https://screenrant.com/haunting-bly-manor-every-ghost-explained/"
+      },
+      {
+        "label": "Screen Rant: every Henry James story in Bly Manor",
+        "url": "https://screenrant.com/haunting-bly-manor-every-henry-james-ghost-story/"
+      }
+    ]
+  },
+  {
+    "id": "midnight-club-jump-scare-record",
+    "title": "A world record for jump scares",
+    "category": "egg",
+    "summary": "The Midnight Club's first episode holds the Guinness World Record for the most scripted jump scares in a single TV episode: 21.",
+    "description": "\"The Final Chapter\" was certified at New York Comic Con on 6 October 2022. Flanagan dislikes jump scares and has said he went for the record partly to placate producers who always ask for more of them. If you want to count along, there are 21.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E1",
+        "note": "The pilot; 21 scripted jump scares."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Guinness World Records: most scripted jump scares",
+        "url": "https://www.guinnessworldrecords.com/world-records/652846-most-scripted-jump-scares-in-a-single-television-episode"
+      },
+      {
+        "label": "Guinness World Records news",
+        "url": "https://www.guinnessworldrecords.com/news/2022/10/netflix-series-the-midnight-club-breaks-jump-scare-record-721234"
+      },
+      {
+        "label": "Netflix Tudum: The Midnight Club's world record",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-guinness-world-record"
+      }
+    ],
+    "people": [
+      551463
+    ],
+    "image": "/img/still/w780/nPFL066BYWTeuUO4MB5VGQuWuWQ.jpg"
+  },
+  {
+    "id": "midnight-club-usher-nods",
+    "title": "Midnight Club's hidden Poe",
+    "category": "egg",
+    "summary": "Flanagan says The Midnight Club hides \"a couple of little nods to Usher,\" and no one has publicly found them.",
+    "description": "The Midnight Club does not hide Hill House-style ghosts in the background. Its hidden layer is the voice cameos, the Lasser Glass, and, in Flanagan's words, \"a couple of little nods to Usher... We had a little Poe.\" The nods exist on his say-so; which scenes they are in remains unknown.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "note": "Unidentified; anywhere in the season."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TV Insider: The Midnight Club easter eggs",
+        "url": "https://www.tvinsider.com/1064188/the-midnight-club-season-1-easter-eggs-clues/"
+      },
+      {
+        "label": "TVLine: Flanagan on the Midnight Club finale",
+        "url": "https://www.tvline.com/interviews/midnight-club-finale-recap-mike-flanagan-season-2-spoilers-1234885272/"
+      },
+      {
+        "label": "Distractify: hidden ghosts in The Midnight Club?",
+        "url": "https://www.distractify.com/p/are-there-hidden-ghosts-in-midnight-club"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "midnight-club-90s-references",
+    "title": "The Midnight Club's 1990s references",
+    "category": "egg",
+    "summary": "Netflix published its own list of the 1990s pop-culture details dressed into Brightcliffe, the Gunslinger book among them.",
+    "description": "Set in 1994, The Midnight Club is stocked with period details, and Netflix's Tudum catalogued them officially. The list includes Kevin's copy of The Dark Tower: The Gunslinger, which also belongs to Flanagan's longer Dark Tower thread.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E3",
+        "note": "Throughout; the Gunslinger book is in Kevin's locker."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: The Midnight Club's 1990s references",
+        "url": "https://www.netflix.com/tudum/articles/the-midnight-club-easter-eggs-1990s-references"
+      }
+    ]
+  },
+  {
+    "id": "usher-eliza-behind-roderick",
+    "title": "Eliza behind Roderick",
+    "category": "egg",
+    "summary": "In the first episode, young Madeline silently signals that their mother Eliza is standing right behind Roderick, and in the present he tells Dupin the same.",
+    "description": "During the flashback search for their mother, Madeline gestures that Eliza is behind Roderick. Decades later, Roderick tells Dupin there is someone behind him, and Dupin refuses to look. Creepy Catalog counts it as a Hill House-style hidden ghost; whether it was designed that way is not on record.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "The flashback search for Eliza, and Roderick's warning to Dupin."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Creepy Catalog: Usher hidden details",
+        "url": "https://creepycatalog.com/hidden-details-easter-eggs-the-fall-of-the-house-of-usher-on-netflix/"
+      },
+      {
+        "label": "TV Fanatic: Usher episode 1 review",
+        "url": "https://tvfanatic.com/2023/10/the-fall-of-the-house-of-usher-season-1-episode-1-review-a-midni/"
+      }
+    ],
+    "people": [
+      49425
+    ]
+  },
+  {
+    "id": "usher-undiscovered-egg",
+    "title": "The Usher egg no one has found",
+    "category": "egg",
+    "summary": "Flanagan says there is an Usher easter egg that none of the published lists have caught.",
+    "description": "At the ATX TV Festival in May 2024 Flanagan said: \"There is something we put in that someday, I want someone to organically see it,\" and \"There's one in particular that none of those articles caught.\" He also said some Poe references fans listed were never intended. As of this writing it remains unidentified.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Unknown. Keep looking."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TVLine: the Usher easter egg fans haven't caught",
+        "url": "https://www.tvline.com/features/mike-flanagan-show-easter-egg-fans-have-not-caught-1235252286/"
+      },
+      {
+        "label": "Screen Rant: Flanagan teases an undiscovered Usher egg",
+        "url": "https://screenrant.com/fall-house-of-usher-easter-egg-undiscovered-mike-flanagan-tease/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "usher-poe-set-dressing",
+    "title": "Laurin Kelsey's Poe set dressing",
+    "category": "egg",
+    "summary": "Usher's production designer confirmed three Poe details built into the sets: a paragraph of \"Masque\" on a bathroom wall, Poe stained glass in Verna's bar, and Poe-year house numbers.",
+    "description": "Laurin Kelsey told Screen Rant that a paragraph of \"The Masque of the Red Death\" is scrawled across the bathroom wall at Perry's party, that the stained glass behind Verna's 1970s bar is built from Poe imagery such as the black cat and a horse, and that house numbers in the show are \"always years associated with Edgar Allan Poe.\"\n\nCreepy Catalog went further through Verna's bar: a raven, a black cat, a ship in a bottle (\"MS. Found in a Bottle\"), the horse from \"Metzengerstein,\" and a small portrait of Poe himself. Beyond the stained glass Kelsey confirmed, those are reported, not confirmed. The Lasser Glass hangs in the same bar.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "Verna's bar and its stained glass in the 1979 flashback."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E2",
+        "note": "The \"Masque\" paragraph on the bathroom wall at Perry's party."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "House numbers throughout the series."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: Usher's production designer on Poe details",
+        "url": "https://screenrant.com/the-fall-of-the-house-of-usher-edgar-allan-poe-easter-eggs-details-production-designer/"
+      },
+      {
+        "label": "Creepy Catalog: Usher hidden details",
+        "url": "https://creepycatalog.com/hidden-details-easter-eggs-the-fall-of-the-house-of-usher-on-netflix/"
+      }
+    ],
+    "people": [
+      2103808
+    ]
+  },
+  {
+    "id": "vernas-fake-id",
+    "title": "Verna's fake ID",
+    "category": "egg",
+    "summary": "Verna's driver's licence reads \"Pamela Clemm, 1849 Reynolds Street,\" after Poe's wife and his last days.",
+    "description": "Virginia Clemm was Poe's wife; Poe died in 1849 and reportedly called out \"Reynolds\" before he died. Creepy Catalog spotted the licence. One outlet only.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E3",
+        "note": "Verna's driver's licence."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Creepy Catalog: Usher hidden details",
+        "url": "https://creepycatalog.com/hidden-details-easter-eggs-the-fall-of-the-house-of-usher-on-netflix/"
+      }
+    ],
+    "people": [
+      17832
+    ]
+  },
+  {
+    "id": "usher-color-coded-heirs",
+    "title": "Color-coded heirs",
+    "category": "egg",
+    "summary": "Each Usher heir has a signature color, which Creepy Catalog reads as the seven colored rooms of \"The Masque of the Red Death.\"",
+    "description": "Perry, Camille, Leo, Victorine, Tamerlane and Frederick each dress in a consistent color. Poe's \"Masque\" moves through seven rooms of different colors toward death. The link is one outlet's reading.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Costumes across the series."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Creepy Catalog: Usher hidden details",
+        "url": "https://creepycatalog.com/hidden-details-easter-eggs-the-fall-of-the-house-of-usher-on-netflix/"
+      }
+    ]
+  },
+  {
+    "id": "usher-a-midnight-dreary",
+    "title": "Usher episode 1: \"A Midnight Dreary\"",
+    "category": "reference",
+    "summary": "The first episode takes its title from the first line of \"The Raven\" and opens with all six Usher heirs already dead.",
+    "description": "\"Once upon a midnight dreary\" opens Poe's \"The Raven,\" and this episode opens the frame story: Roderick summons C. Auguste Dupin to his ruined childhood home to confess. Pink Floyd's \"Another Brick in the Wall\" plays as a nod to \"The Cask of Amontillado,\" and the episode is crowded with Flanagan eggs: the Lasser Glass in Verna's bar, the Ouija board in the twins' room, and Eliza standing behind Roderick.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "Frame story; the Raven title, the Amontillado song, and the 1979 and 1962 flashbacks."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/3sFB4BoYng1ubtHNMdtpoy51WJl.jpg"
+  },
+  {
+    "id": "usher-masque-of-the-red-death",
+    "title": "Usher episode 2: \"The Masque of the Red Death\"",
+    "category": "reference",
+    "summary": "Perry Usher throws a masked party and dies in an acid sprinkler, as Poe's Prospero dies at his.",
+    "description": "Poe's Prince Prospero walls himself and his court inside an abbey while a plague rages, and the Red Death comes to the party anyway. Prospero \"Perry\" Usher's rave plays it straight, ending in acid from the sprinklers. A paragraph of the story is written on the bathroom wall (confirmed by the production designer), and a guest wears the Hush mask.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E2",
+        "note": "Perry's party; the Masque paragraph on the bathroom wall and the Hush mask."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/aJTpP6eqGbopW7pcQrki312XjPo.jpg"
+  },
+  {
+    "id": "usher-murder-in-the-rue-morgue",
+    "title": "Usher episode 3: \"Murder in the Rue Morgue\"",
+    "category": "reference",
+    "summary": "Camille L'Espanaye is mauled by a chimpanzee from Victorine's R.U.E. lab, as Poe's murders turn out to be an ape's work.",
+    "description": "In Poe's story, Dupin solves two killings in the Rue Morgue and finds an orangutan responsible. Usher gives Camille the name of one of Poe's victims and sends her to Victorine's lab, called R.U.E., where a chimpanzee kills her. Verna's fake ID, \"Pamela Clemm,\" appears in this episode too.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E3",
+        "note": "Camille's death in the R.U.E. lab; Verna's fake ID."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/erWjmZnN2qaX0YIbUuS8a8VvPMk.jpg"
+  },
+  {
+    "id": "usher-the-black-cat",
+    "title": "Usher episode 4: \"The Black Cat\"",
+    "category": "reference",
+    "summary": "Leo Usher is haunted by a black cat he cannot get rid of and dies falling from a balcony.",
+    "description": "Poe's narrator kills his cat Pluto, and a second cat with a white mark brings him undone. Napoleon \"Leo\" Usher (Rahul Kohli) goes through his own cat-driven breakdown. His chest tattoo of the Lasser Glass frame is visible in this episode.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E4",
+        "note": "Leo's cat, his fall, and his Lasser Glass tattoo."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/8cyizpc4uaTsvNiLNdhSHLCYzmH.jpg"
+  },
+  {
+    "id": "usher-the-tell-tale-heart",
+    "title": "Usher episode 5: \"The Tell-Tale Heart\"",
+    "category": "reference",
+    "summary": "Victorine's mesh heart device looks like an eye, Poe's \"vulture eye,\" and her guilt drives her to suicide.",
+    "description": "In Poe's story, the narrator kills an old man over his \"vulture eye\" and is undone by the heart he hears beating under the floor. Victorine LaFourcade's experimental heart device is shaped like an eye, and her guilt ends in suicide.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E5",
+        "note": "Victorine's device and her death."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/rcXqf1j0p1ZudFHkUVGdcvtYD3C.jpg"
+  },
+  {
+    "id": "usher-goldbug",
+    "title": "Usher episode 6: \"Goldbug\"",
+    "category": "reference",
+    "summary": "Tamerlane dies among glass shards, and the episode also hides the Gerald's Game menu egg.",
+    "description": "Poe's \"The Gold-Bug\" is a treasure hunt. Usher's version follows Tamerlane to a death in shattered glass. The same episode has Morrie and Lenore watching the 1935 Raven and Corman's Pit and the Pendulum, then hovering over Gerald's Game.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E6",
+        "note": "Tamerlane's death; the movie night with Lenore and Morrie."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/optyoMUj2lVc0cb5aQGxNMNsprY.jpg"
+  },
+  {
+    "id": "usher-the-pit-and-the-pendulum",
+    "title": "Usher episode 7: \"The Pit and the Pendulum\"",
+    "category": "reference",
+    "summary": "Frederick Usher is crushed by a demolition pendulum, a literal take on Poe's swinging blade.",
+    "description": "Poe's prisoner of the Inquisition watches a blade swing lower over him. Frederick, the cruellest of the heirs, ends up under a demolition pendulum.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E7",
+        "note": "Frederick's death under the pendulum."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/a0rQXECALSE65fz1HDHltPNYQZa.jpg"
+  },
+  {
+    "id": "usher-the-raven",
+    "title": "Usher episode 8: \"The Raven\"",
+    "category": "reference",
+    "summary": "The last Usher episode gives Lenore a gentle death, buries Madeline alive, and drops the house into the tarn.",
+    "description": "\"The Raven\" mourns a lost Lenore, and Usher grants its Lenore the only peaceful death in the family. Then it turns to the story it is named for: Madeline is entombed alive, returns to strangle Roderick, and the house collapses into the tarn, as Poe's House of Usher does.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E8",
+        "note": "Lenore's death, Madeline's return, and the fall of the house."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Netflix Tudum: Poe references in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-poe-references"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      },
+      {
+        "label": "THR: Usher's Edgar Allan Poe references",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-fall-of-the-house-of-usher-edgar-allen-poe-reference-1235616609/"
+      }
+    ],
+    "image": "/img/still/w780/jXpGYs4LDHAzg9CWD7uH4lI8csb.jpg"
+  },
+  {
+    "id": "usher-poe-names",
+    "title": "Usher's Poe names",
+    "category": "reference",
+    "summary": "Nearly every name in Usher comes from Poe's stories, poems or life, from Verna (an anagram of raven) to Arthur Pym.",
+    "description": "Verna is an anagram of \"raven.\" Tamerlane is a Poe poem; Victorine LaFourcade comes from \"The Premature Burial\"; Camille L'Espanaye from \"Rue Morgue\"; Napoleon \"Leo\" from \"The Spectacles\"; Prospero \"Perry\" from \"Masque\"; Bill-T Wilson from \"William Wilson\"; Morella and Lenore from the stories and poems of those names; Annabel Lee from the poem Roderick recites as if he wrote it. C. Auguste Dupin is Poe's detective, here standing in for the story's narrator; Arthur Pym is from Poe's only novel; Alessandra Ruiz from Politian; Toby from \"Never Bet the Devil Your Head\" (\"Damn it, Toby!\"); Fortunato Pharmaceuticals from \"The Cask of Amontillado.\" Frederick's source is disputed: Den of Geek says \"Metzengerstein,\" Wikipedia ties the rivalry to Rufus Griswold instead. Creepy Catalog's reading of the drug Ligadone as \"Ligeia\" is fan theory.\n\nReal people show up too: Eliza (Poe's mother), Rufus Griswold (Poe's actual rival, here walled up like Fortunato), William Longfellow and Judge John Neal.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E1",
+        "note": "Verna, Dupin and the Usher family are named in the frame story."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Pym, Toby, Bill-T Wilson and the rest across the season."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Collider: what Usher's character names mean",
+        "url": "https://collider.com/fall-of-the-house-of-usher-character-names-meaning/"
+      },
+      {
+        "label": "Den of Geek: Usher's Poe references explained",
+        "url": "https://www.denofgeek.com/tv/the-fall-of-the-house-of-usher-edgar-allan-poe-references-explained/"
+      }
+    ],
+    "people": [
+      17832,
+      2
+    ]
+  },
+  {
+    "id": "carrie-red-title-slate",
+    "title": "Carrie's title slate turns red",
+    "category": "egg",
+    "summary": "The Carrie title card at the head of each episode shifts from white to blood red over the season.",
+    "description": "Watch the slate across all eight episodes: it starts white and ends red. It is the one title-card trick in Flanagan's work that anyone has documented. Pop Culture Planet and Geek Vibes Nation both noted it.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E1",
+        "note": "The slate starts white."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E8",
+        "note": "By the finale it is blood red."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      },
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      }
+    ]
+  },
+  {
+    "id": "emaline-blue-cup",
+    "title": "Emaline's blue cup",
+    "category": "egg",
+    "summary": "A blue cup at the party is a planted clue to Emaline's astral projection.",
+    "description": "Flanagan told The Playlist that the blue cup is a deliberate clue, per Geek Vibes Nation. Spotting it before the reveal is the reward.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "note": "The party scene; watch the blue cup."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "hush-day-spa",
+    "title": "Hush Day Spa",
+    "category": "callback",
+    "summary": "Carrie walks past a Hush Day Spa on Main Street.",
+    "description": "A shopfront named for Flanagan and Kate Siegel's 2016 thriller. Geek Vibes Nation and Horror Land both caught it.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "The film the sign is named for."
+      },
+      {
+        "work": "carrie",
+        "note": "Carrie passes the spa on Main Street."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      },
+      {
+        "label": "Horror Land: Carrie season 1 guide",
+        "url": "https://horror.land/carrie-season-1-ultimate-guide-mike-flanagan-dark-tower-connections/"
+      }
+    ]
+  },
+  {
+    "id": "ralph-white-moonlight-man",
+    "title": "Ralph White at the foot of the bed",
+    "category": "callback",
+    "summary": "Ralph White's ghost standing at the foot of Carrie's bed recalls the Moonlight Man in Gerald's Game.",
+    "description": "Gerald's Game's Moonlight Man stands silently in the corner of Jessie's room. Carrie's dead father appearing at the foot of her bed is close in staging. Horror Land made the link; it is unconfirmed.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "The Moonlight Man in Jessie's room."
+      },
+      {
+        "work": "carrie",
+        "note": "Ralph White's ghost at the foot of Carrie's bed."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Horror Land: Carrie season 1 guide",
+        "url": "https://horror.land/carrie-season-1-ultimate-guide-mike-flanagan-dark-tower-connections/"
+      }
+    ]
+  },
+  {
+    "id": "a-little-bit-of-shine",
+    "title": "\"A little bit of shine\"",
+    "category": "callback",
+    "summary": "Adelaide tells Margaret White that Carrie has \"a little bit of shine,\" King's word for psychic gifts from The Shining and Doctor Sleep.",
+    "description": "The shine is what Danny Torrance and Abra Stone have in Doctor Sleep. Hearing it in Carrie, from Kate Siegel's Adelaide, ties Flanagan's two King worlds together.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "The shine is Danny's and Abra's gift."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E8",
+        "note": "Adelaide to Margaret."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "TV Insider: Carrie small details and easter eggs",
+        "url": "https://www.tvinsider.com/gallery/carrie-mike-flanagan-prime-video-small-details-easter-eggs-found/"
+      }
+    ],
+    "people": [
+      932076,
+      1331981
+    ]
+  },
+  {
+    "id": "grayle-electrocuted",
+    "title": "Principal Grayle's death",
+    "category": "reference",
+    "summary": "Matthew Lillard's Principal Grayle is electrocuted at prom, which Flanagan says nods to Lillard's death in Scream.",
+    "description": "Flanagan told Page Six (per Geek Vibes Nation) that the death is a wink at Lillard's Stu in Scream.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E7",
+        "note": "Prom."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      }
+    ],
+    "people": [
+      551463,
+      26457
+    ]
+  },
+  {
+    "id": "battlestar-reunion",
+    "title": "A Battlestar Galactica reunion",
+    "category": "callback",
+    "summary": "Carrie casts several Battlestar Galactica actors, with two more at the town hall.",
+    "description": "Tahmoh Penikett, Michael Trucco and Katee Sackhoff are in the cast, and Aaron Douglas and Tricia Helfer appear at the town hall in \"Romantic Literature.\" It is all in the credits; TV Insider noticed the pattern.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "note": "Penikett, Trucco and Sackhoff in the cast."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E7",
+        "note": "Douglas and Helfer at the town hall."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TV Insider: Carrie small details and easter eggs",
+        "url": "https://www.tvinsider.com/gallery/carrie-mike-flanagan-prime-video-small-details-easter-eggs-found/"
+      }
+    ],
+    "people": [
+      77223,
+      83456,
+      51798,
+      77222,
+      74423
+    ]
+  },
+  {
+    "id": "adelaide-stops-margarets-heart",
+    "title": "Adelaide stops Margaret's heart",
+    "category": "reference",
+    "summary": "In the finale, Adelaide kills Margaret White by stopping her heart, a death King gave to Carrie herself.",
+    "description": "In the novel, Carrie stops her mother's heart. The series moves that death to Adelaide, played by Kate Siegel, and has her do it to Samantha Sloyan's Margaret.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E8",
+        "note": "The finale."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "TV Insider: Carrie small details and easter eggs",
+        "url": "https://www.tvinsider.com/gallery/carrie-mike-flanagan-prime-video-small-details-easter-eggs-found/"
+      }
+    ],
+    "people": [
+      932076,
+      1331981
+    ]
+  },
+  {
+    "id": "carrie-haute-and-freddy",
+    "title": "Haute & Freddy and the writers' room",
+    "category": "egg",
+    "summary": "Carrie wears a Haute & Freddy shirt, Flanagan reportedly rewrote the finale around their song \"Shy Girl,\" and his son Rigby sat in the writers' room.",
+    "description": "Wikipedia reports both: Carrie's band shirt in episodes 2 and 3, the finale reshaped around \"Shy Girl,\" and teenagers, including Flanagan's son Rigby, in the writers' room.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E2",
+        "note": "Carrie's Haute & Freddy shirt."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E8",
+        "note": "Built around \"Shy Girl.\""
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      }
+    ],
+    "people": [
+      5042397
+    ]
+  },
+  {
+    "id": "bly-manor-hill-house-lines",
+    "title": "Hill House lines in Bly Manor",
+    "category": "callback",
+    "summary": "Bly Manor has no story link to Hill House, but its writers threaded in at least eleven lines and moments from the first season.",
+    "description": "Flanagan said Bly has \"no dramatic link\" to Hill House. The writers reused its language anyway, often in the mouths of the same actors. TV Guide's list: Flora's \"You're expected\" (Olivia to Nell before the Red Room); a crayon \"Come home\" note (the hidden \"Welcome home, Nell\"); Owen's \"I'm untethered now\" (Hugh's kite and line); Owen and Hannah failing to finish \"our moments are supposed to be like...\" (Nell's rain, snow and confetti); \"I'm having the strangest dream\" (Olivia slipping); Charlotte's \"I can fix it\" (Hugh's); Peter's \"the forever house\" (Olivia's); \"Nothing sad will ever touch you, ever again\" (Olivia's reason for poisoning her children); Peter's mother \"getting well\" (Luke's lies to Nell, which TV Guide admits is \"a bit of a stretch\"); Hannah's unfinished \"the rest is just...\" (Nell's \"the rest is confetti\"); and Dani waking with her hands on Jamie's throat (Olivia waking with a screwdriver at Hugh's).\n\nScreen Rant and Capital list most of the same lines; none are confirmed by the writers.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "Flora to Dani: \"You're expected.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E2",
+        "note": "A crayon note: \"Come home.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E5",
+        "note": "Owen's \"I'm untethered now\"; the unfinished \"our moments are supposed to be like...\"; \"I'm having the strangest dream.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E6",
+        "note": "Charlotte to Henry: \"I can fix it.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E7",
+        "note": "Peter's \"the forever house\"; \"Nothing sad will ever touch you, ever again\"; \"getting well.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E9",
+        "note": "Hannah's \"the rest is just...\"; Dani's hands at Jamie's throat."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "The originals: \"You're expected,\" \"Welcome home, Nell,\" the kite and line, \"I can fix it,\" the forever house, and Olivia's screwdriver at Hugh's throat."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "Nell's \"like rain, or snow, or confetti\" and \"the rest is confetti.\""
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "TV Guide: Hill House easter eggs in Bly Manor",
+        "url": "https://www.tvguide.com/news/haunting-bly-manor-hill-house-easter-eggs/"
+      },
+      {
+        "label": "Screen Rant: Hill House references in Bly Manor",
+        "url": "https://screenrant.com/haunting-bly-manor-easter-eggs-hill-house-references/"
+      },
+      {
+        "label": "Capital: Hill House references in Bly Manor",
+        "url": "https://www.capitalfm.com/news/tv-film/hill-house-references-easter-eggs/"
+      },
+      {
+        "label": "Wikipedia: The Haunting of Bly Manor",
+        "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor"
+      }
+    ],
+    "people": [
+      2117434,
+      551020,
+      9976,
+      17832
+    ]
+  },
+  {
+    "id": "stories-line",
+    "title": "\"That's all any of us are in the end... stories\"",
+    "category": "callback",
+    "summary": "Ilonka's line in the first Midnight Club episode restates Olivia's speech to young Shirley in Hill House and the premise of the whole show.",
+    "description": "In Hill House, Olivia comforts young Shirley over a dead kitten with words about what remains of us. Ilonka's \"stories\" line puts that idea at the center of The Midnight Club, where dying teenagers tell each other stories at midnight. Yahoo made the comparison.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Olivia and young Shirley with the kitten."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E1",
+        "note": "Ilonka's line."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Yahoo: what The Midnight Club hid",
+        "url": "https://www.yahoo.com/entertainment/midnight-club-carefully-hid-hill-221527039.html"
+      }
+    ]
+  },
+  {
+    "id": "greene-surname",
+    "title": "The Greene surname",
+    "category": "callback",
+    "summary": "Samantha Sloyan's neighbour in Hush is Sarah Greene; Kate Siegel's teacher in Midnight Mass is Erin Greene.",
+    "description": "The credits are fact; what it means is not. Siegel played Maddie in Hush, and the Greene name passes from Maddie's neighbour to Siegel's own Midnight Mass character, inside a story that Hush presents as Maddie's novel.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "Sarah Greene (Samantha Sloyan), Maddie's neighbour."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Erin Greene (Kate Siegel)."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Wikipedia: Hush",
+        "url": "https://en.wikipedia.org/wiki/Hush_(2016_feature_film)"
+      },
+      {
+        "label": "TV Insider: Midnight Mass easter eggs",
+        "url": "https://www.tvinsider.com/gallery/midnight-mass-netflix-easter-eggs-mike-flanagan-cameo-carla-gugino-x-files/"
+      }
+    ],
+    "people": [
+      1331981,
+      932076
+    ]
+  },
+  {
+    "id": "riley-name",
+    "title": "Riley, from Absentia to Midnight Mass",
+    "category": "callback",
+    "summary": "Courtney Bell plays Tricia Riley in Absentia; Midnight Mass's lead is Riley Flynn, a name already on the Hush novel prop.",
+    "description": "This one is our own observation from the cast lists. No outlet or Flanagan statement links the two, and Riley is a common name, so treat it as a coincidence until someone says otherwise.",
+    "appearances": [
+      {
+        "work": "absentia",
+        "note": "Tricia Riley (Courtney Bell)."
+      },
+      {
+        "work": "hush",
+        "note": "\"Riley\" on the back cover of Maddie's novel."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Riley Flynn."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Wikipedia: Absentia",
+        "url": "https://en.wikipedia.org/wiki/Absentia_(film)"
+      }
+    ],
+    "people": [
+      572407,
+      70303
+    ]
+  },
+  {
+    "id": "hill-house-character-names",
+    "title": "Hill House's borrowed names",
+    "category": "reference",
+    "summary": "Shirley is named for Shirley Jackson, her surname Harris for Julie Harris, and Steven for Steven Spielberg, not Stephen King.",
+    "description": "Flanagan: \"Shirley was definitely named after Shirley Jackson,\" and \"Shirley's last name, Harris, is for Julie Harris, who played Nell in Wise's film.\" The Markway Inn takes its name from the 1963 film's renaming of Dr. Montague, and Luke's rehab, the Sanderson Center, uses his surname from the book. Nell (Eleanor Vance), Theo, Luke, Hugh Crain, the Dudleys, Abigail and Dr. Montague all come from Jackson's novel.\n\nOne popular reading is wrong: \"Shirley and Steve\" do not stand for Shirley Jackson and Stephen King. Flanagan says Steven is named for Steven Spielberg, because Amblin brought him the project.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "The Crain siblings, the Dudleys, the Markway Inn and the Sanderson Center."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "HuffPost: Mike Flanagan on Hill House",
+        "url": "https://www.huffpost.com/entry/mike-flanagan-interview-haunting-hill-house-netflix_n_5bbfe478e4b01a01d688ea3b"
+      },
+      {
+        "label": "Nerdist: Hill House easter eggs and book references",
+        "url": "https://nerdist.com/article/haunting-of-hill-house-12-easter-eggs-book-references/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "russ-tamblyn-montague",
+    "title": "Russ Tamblyn as Dr. Montague",
+    "category": "reference",
+    "summary": "Russ Tamblyn, who played Luke in the 1963 film The Haunting, plays Dr. Montague, Nell's therapist.",
+    "description": "Robert Wise's 1963 film is the best-known earlier version of Jackson's novel. Casting its Luke as the series' Dr. Montague links the two adaptations.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Dr. Montague, Nell's therapist."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Nerdist: Hill House easter eggs and book references",
+        "url": "https://nerdist.com/article/haunting-of-hill-house-12-easter-eggs-book-references/"
+      }
+    ],
+    "people": [
+      6725
+    ]
+  },
+  {
+    "id": "hill-house-shirley-jackson-text",
+    "title": "Shirley Jackson's words in Hill House",
+    "category": "reference",
+    "summary": "Hill House quotes Jackson's novel from the first episode to the last, ending on whole paragraphs of it.",
+    "description": "Flanagan: \"By the 10th episode, we have characters quoting entire paragraphs from the novel.\" Steven's book opens with Jackson's famous first paragraph, and the finale flips its \"whatever walked there, walked alone\" into \"those who walk there, walk together.\" The finale's title, \"Silence Lay Steadily,\" comes from that same paragraph.\n\nNerdist found many smaller lifts: Mrs. Dudley's near word-for-word warning that no one will hear you, in the night, in the dark; Theo's \"Whose hand was I holding?\"; the red chalk \"Welcome home, Nell\"; young Nell's cup of stars; Olivia's robin and cottage daydream (she nearly named Luke \"Robin\"); \"journeys end in lovers meeting\" on the pocket watch; the pounding and cold spots; the phantom dogs; and \"I am home, I am home; now to climb.\" The specific mapping is Nerdist's; Flanagan confirmed the approach.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "Steven's book quotes the opening paragraph; Mrs. Dudley's speech."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E3",
+        "note": "\"Whose hand was I holding?\" and the greenhouse rock story."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E5",
+        "note": "Nell's dance and the staircase, after Eleanor on the spiral stair."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E6",
+        "note": "The phantom dogs."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "\"Those who walk there, walk together\"; Olivia's robin and cottage; \"I am home, I am home; now to climb.\""
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Nerdist: Hill House easter eggs and book references",
+        "url": "https://nerdist.com/article/haunting-of-hill-house-12-easter-eggs-book-references/"
+      },
+      {
+        "label": "HuffPost: Mike Flanagan on Hill House",
+        "url": "https://www.huffpost.com/entry/mike-flanagan-interview-haunting-hill-house-netflix_n_5bbfe478e4b01a01d688ea3b"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "bly-manor-henry-james",
+    "title": "Henry James in every Bly title",
+    "category": "reference",
+    "summary": "Every Bly Manor episode is named after a Henry James story, and several of them shape the episode they title.",
+    "description": "The main source is The Turn of the Screw (1898), heavily filtered through the 1961 film The Innocents. Some titles are only titles: \"The Great Good Place\" simply marks Dani's arrival. Others carry the story: \"The Jolly Corner\" gives Henry Wingrave a doppelgänger made of his guilt, and \"The Romance of Certain Old Clothes\" is a close adaptation of James's tale of Viola, Perdita and the locked chest, with the lake and the \"gravity well\" added.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E1",
+        "note": "\"The Great Good Place\" (1900). Title only; Dani arrives. Directed by Mike Flanagan."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E2",
+        "note": "\"The Pupil\" (1891). Miles's expulsion and his bond with a tutor figure."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E3",
+        "note": "\"The Two Faces\" (1900). Doubled selves: Peter and Rebecca."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E4",
+        "note": "\"The Way It Came\" (1896). Dani's backstory and Edmund's ghost."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E5",
+        "note": "\"The Altar of the Dead\" (1895). Hannah's death is revealed; memory as a shrine to the dead."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E6",
+        "note": "\"The Jolly Corner\" (1908). The most literal: Henry's doppelgänger embodies his guilt."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E7",
+        "note": "\"The Two Faces,\" part two. Possession and doubles."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E8",
+        "note": "\"The Romance of Certain Old Clothes\" (1868). A close adaptation: Viola, Perdita and the Willoughby chest."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E9",
+        "note": "\"The Beast in the Jungle\" (1903). Dani and Jamie wait for the beast inside her."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Haunting of Bly Manor",
+        "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor"
+      },
+      {
+        "label": "Screen Rant: every Henry James story in Bly Manor",
+        "url": "https://screenrant.com/haunting-bly-manor-every-henry-james-ghost-story/"
+      },
+      {
+        "label": "TV Guide: Bly Manor's Henry James references",
+        "url": "https://www.tvguide.com/news/the-haunting-of-bly-manor-references-henry-james-explained/"
+      },
+      {
+        "label": "Time: Bly Manor and The Turn of the Screw",
+        "url": "https://time.com/5898095/haunting-of-bly-manor-turn-of-the-screw/"
+      }
+    ]
+  },
+  {
+    "id": "bly-other-james-sources",
+    "title": "Sir Edmund Orme and Owen Wingrave",
+    "category": "reference",
+    "summary": "Two James stories that do not title episodes still feed Bly: \"Sir Edmund Orme\" for Dani and Edmund, and \"Owen Wingrave\" for the Wingrave name.",
+    "description": "In \"Sir Edmund Orme\" a ghost is seen only by the woman he loved, which is Dani's situation. \"Owen Wingrave\" is about a soldier ghost and gives Bly's family its surname.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E4",
+        "note": "Edmund's ghost."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "The Wingrave family."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: every Henry James story in Bly Manor",
+        "url": "https://screenrant.com/haunting-bly-manor-every-henry-james-ghost-story/"
+      },
+      {
+        "label": "Screen Rant: every Bly Manor ghost explained",
+        "url": "https://screenrant.com/haunting-bly-manor-every-ghost-explained/"
+      }
+    ]
+  },
+  {
+    "id": "episode-title-schemes",
+    "title": "Episode-title schemes",
+    "category": "reference",
+    "summary": "Each Flanagan series names its episodes from one source: Jackson, James, the Bible, Pike, Poe, and for Carrie, the school timetable.",
+    "description": "Hill House mixes plain titles with Jackson's text, ending on \"Silence Lay Steadily.\" Bly takes Henry James titles. Midnight Mass runs from \"Book I: Genesis\" to \"Book VII: Revelation.\" The Midnight Club uses Christopher Pike titles for most of its stories. Usher uses Poe titles. Carrie uses school subjects, from \"First Period\" to \"AP Physics.\"",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "Ends on Jackson's \"Silence Lay Steadily.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Henry James story titles."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Books of the Bible, Genesis to Revelation."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Christopher Pike titles."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Poe titles and lines."
+      },
+      {
+        "work": "carrie",
+        "note": "School subjects: First Period, Foreign Language, Social Studies, Dramatic Arts, Physical Education, Home Economics, Romantic Literature, AP Physics."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: Midnight Mass",
+        "url": "https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)"
+      },
+      {
+        "label": "Wikipedia: The Fall of the House of Usher",
+        "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      },
+      {
+        "label": "Distractify: hidden ghosts in The Midnight Club?",
+        "url": "https://www.distractify.com/p/are-there-hidden-ghosts-in-midnight-club"
+      }
+    ]
+  },
+  {
+    "id": "dark-tower-markers",
+    "title": "Dark Tower markers",
+    "category": "reference",
+    "summary": "Flanagan holds the Dark Tower rights at Amazon and has planted markers for it in every King adaptation he has made, plus The Midnight Club.",
+    "description": "This is the strongest King thread in Flanagan's work. Gerald says \"All things serve the Beam\" in Gerald's Game. Doctor Sleep goes further: Hallorann's \"Ka is a wheel,\" a Tet Transit bus, a LaMerk Industries lot and Bradley's number 19 jersey. Flanagan said King called in favours at Sony, which held the Dark Tower rights then, to get them into a Warner Bros. film. The Midnight Club puts The Gunslinger in Kevin's locker, The Life of Chuck repeats 19, which Flanagan said \"will mean a lot to fans of The Dark Tower,\" and Carrie has a LaMerk sign that Flanagan flagged himself.\n\nCarrie adds more that outlets have reported but Flanagan has not confirmed: Sue Snell and Tommy Ross both wear 19, Billy Nolan has a Crimson King eye tattoo, and the prom's pig blood comes from a hog farm owned by Sombra.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "Gerald: \"All things serve the Beam.\" Confirmed dialogue."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "\"Ka is a wheel,\" the Tet Transit bus, the LaMerk Industries lot, and Bradley's 19 jersey. Confirmed by Flanagan."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E3",
+        "note": "The Gunslinger in Kevin's locker. Reported by Netflix Tudum and Yahoo."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "A repeated number, 19. Confirmed by Flanagan."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E1",
+        "note": "The LaMerk Industries sign at Ralph White's construction site (confirmed by Flanagan); Sue and Tommy wear 19 (reported by TV Insider)."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E6",
+        "note": "Billy Nolan's Crimson King eye tattoo. Reported by TV Insider and Horror Land."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E7",
+        "note": "The pig blood comes from a Sombra-owned hog farm. Reported by TV Insider."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Den of Geek: Doctor Sleep easter eggs",
+        "url": "https://www.denofgeek.com/movies/doctor-sleep-easter-eggs-references/"
+      },
+      {
+        "label": "CinemaBlend: Flanagan on The Dark Tower and Life of Chuck",
+        "url": "https://www.cinemablend.com/movies/mike-flanagan-references-the-dark-tower-discussing-life-of-chuck-it-makes-my-heart-swell-the-king-beat"
+      },
+      {
+        "label": "ComingSoon: the Dark Tower easter egg in Carrie",
+        "url": "https://www.comingsoon.net/tv/news/2214539-mike-flanagan-hidden-dark-tower-easter-egg-carrie-tv-show"
+      },
+      {
+        "label": "TV Insider: Carrie small details and easter eggs",
+        "url": "https://www.tvinsider.com/gallery/carrie-mike-flanagan-prime-video-small-details-easter-eggs-found/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "carrie-lamerk-sign",
+    "title": "The LaMerk sign in Carrie",
+    "category": "reference",
+    "summary": "A LaMerk Industries sign at Ralph White's construction site is a Dark Tower marker that Flanagan flagged before the show came out.",
+    "description": "Flanagan told Gold Derby: \"Dark Tower fans are going to love the signage at the place where Ralph White works.\" LaMerk Industries is a Dark Tower name, and Flanagan had already put a LaMerk lot into Doctor Sleep.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E1",
+        "note": "The signage at Ralph White's construction site."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "A LaMerk Industries lot."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "ComingSoon: the Dark Tower easter egg in Carrie",
+        "url": "https://www.comingsoon.net/tv/news/2214539-mike-flanagan-hidden-dark-tower-easter-egg-carrie-tv-show"
+      },
+      {
+        "label": "GeekTyrant: Flanagan confirms Carrie's Dark Tower egg",
+        "url": "https://geektyrant.com/news/mike-flanagan-confirms-hidden-dark-tower-easter-egg-in-his-carrie-tv-series"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "geralds-game-dolores-claiborne",
+    "title": "Dolores Claiborne in Gerald's Game",
+    "category": "reference",
+    "summary": "Jessie's childhood abuse happens during the July 1963 eclipse, the same eclipse in which Dolores Claiborne kills her husband.",
+    "description": "King wrote the two novels as companion pieces. The film keeps the eclipse and Jessie's dream of a woman in a red dress at a well, which is Dolores.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "The eclipse flashback and Jessie's dream of the woman at the well."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: Gerald's Game King universe easter eggs",
+        "url": "https://screenrant.com/geralds-game-movie-all-stephen-king-universe-easter-eggs/"
+      },
+      {
+        "label": "ScreenCrush: Gerald's Game easter eggs",
+        "url": "https://screencrush.com/geralds-game-easter-eggs/"
+      }
+    ]
+  },
+  {
+    "id": "geralds-game-cujo",
+    "title": "Cujo in Gerald's Game",
+    "category": "reference",
+    "summary": "The stray dog that feeds on Gerald's body is read as a nod to Cujo.",
+    "description": "A hungry stray wanders into the house while Jessie is cuffed to the bed. Screen Rant and ScreenCrush both connect it to King's rabid St. Bernard. It is also the dog Jessie throws the Midnight Mass novel at.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "The stray dog."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: Gerald's Game King universe easter eggs",
+        "url": "https://screenrant.com/geralds-game-movie-all-stephen-king-universe-easter-eggs/"
+      },
+      {
+        "label": "ScreenCrush: Gerald's Game easter eggs",
+        "url": "https://screencrush.com/geralds-game-easter-eggs/"
+      }
+    ]
+  },
+  {
+    "id": "midnight-mass-king-nods",
+    "title": "Stephen King in Midnight Mass",
+    "category": "reference",
+    "summary": "Midnight Mass is an original story with King all through it: 'Salem's Lot, Revival, The Mist, Carrie and Doctor Sleep.",
+    "description": "Screen Rant's reading: a small-town vampire story ('Salem's Lot), a preacher's miracles with a cost (Revival), Bev Keane as The Mist's Mrs. Carmody, Bev as Margaret White (Samantha Sloyan went on to play Margaret in Carrie), Riley's AA meetings (Doctor Sleep), and the old photo revealing Pruitt's age, which recalls The Shining's final shot.\n\nOne correction: Crockett Island is not a King reference. See the Crockett Island entry.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "note": "Throughout; Bev Keane, Father Paul and Riley's AA meetings."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Stephen King references in Midnight Mass",
+        "url": "https://screenrant.com/midnight-mass-stephen-king-references-easter-egg-homage/"
+      }
+    ],
+    "people": [
+      1331981,
+      184581
+    ]
+  },
+  {
+    "id": "doctor-sleep-shining-callbacks",
+    "title": "The Shining in Doctor Sleep",
+    "category": "reference",
+    "summary": "Doctor Sleep revisits The Shining in detail: blood on the stairs, Lloyd's drink, room 217, and the novel's boiler ending.",
+    "description": "Dan returns to the Overlook and finds blood on the staircase where Wendy hit Jack. Lloyd the bartender, played by Henry Thomas, offers him the same drink that ruined his father. His hospice room is 217, the novel's room number, and the climax uses the novel's boiler ending.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "The Overlook sequence in the final act; room 217 at the hospice."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Den of Geek: Doctor Sleep easter eggs",
+        "url": "https://www.denofgeek.com/movies/doctor-sleep-easter-eggs-references/"
+      },
+      {
+        "label": "GameSpot: Doctor Sleep easter eggs",
+        "url": "https://www.gamespot.com/gallery/doctor-sleep-29-easter-eggs-and-references-to-step/2900-3169/"
+      }
+    ],
+    "people": [
+      9976,
+      3061
+    ]
+  },
+  {
+    "id": "shining-tricycle-sound",
+    "title": "The tricycle in Doctor Sleep",
+    "category": "egg",
+    "summary": "The sound of Danny's tricycle from The Shining is mixed into a driving scene in Doctor Sleep.",
+    "description": "Flanagan confirmed to CinemaBlend that the sound of Danny's tricycle is hidden in the mix of a driving scene, a callback for anyone who remembers the Overlook's corridors.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "A driving scene; listen for the tricycle wheels."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "CinemaBlend: Doctor Sleep director confirms Shining egg",
+        "url": "https://www.cinemablend.com/news/2550887/doctor-sleep-director-confirms-awesome-shining-easter-egg"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "oculus-1408-riff",
+    "title": "Oculus began as a 1408 riff",
+    "category": "reference",
+    "summary": "Flanagan has said Oculus started as a rip-off of King's \"1408\" and pitched it as a \"portable Overlook.\"",
+    "description": "Before Flanagan adapted King, his own breakthrough grew out of King's story about a haunted hotel room. The pitch is why the mirror later ended up on the Overlook's wall in Doctor Sleep.",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "The premise."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "JoBlo: Oculus began as a 1408 riff",
+        "url": "https://www.joblo.com/oculus-1408/"
+      },
+      {
+        "label": "Collider: Mike Flanagan easter eggs",
+        "url": "https://collider.com/mike-flanagan-easter-eggs/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "crockett-island-name",
+    "title": "Crockett Island is not a King nod",
+    "category": "location",
+    "summary": "Flanagan says Crockett Island comes from Tangier Island, Virginia, where Crockett is the commonest surname, and not from 'Salem's Lot's Mr. Crockett.",
+    "description": "Fans assumed the name came from King. Flanagan answered on his blog: it is based on Tangier Island, where Crockett is the most common surname after the first settler, John Crockett. (His blog blocks automated fetches; the content is summarised from search results and should be checked in a browser before quoting.) The name was already on the Midnight Mass novel prop in Hush.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "note": "The island the series is set on."
+      },
+      {
+        "work": "hush",
+        "note": "\"Sleepy Crocket[t]\" island on the novel's back cover."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Flanagan's blog: was Crockett Island named after Mr. Crockett?",
+        "url": "https://flanaganfilm.blog/post/747056005183062016/was-crockett-island-named-after-mr-crockett-from"
+      },
+      {
+        "label": "Screen Rant: the Midnight Mass book easter eggs",
+        "url": "https://screenrant.com/midnight-mass-book-easter-eggs-hush-geralds-game-explained/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-repertory-company",
+    "title": "Flanagan's repertory company",
+    "category": "callback",
+    "summary": "Flanagan casts the same actors again and again, often in roles that comment on their earlier ones.",
+    "description": "Kate Siegel, Samantha Sloyan, Carla Gugino, Henry Thomas, Rahul Kohli, Annabeth Gish, Katie Parker, Robert Longstreet and Alex Essoe are the core, and The Midnight Club's young cast moved into Usher almost as a group. Annabeth Gish went from Mrs. Dudley to Dr. Gunning to Eliza Usher; Robert Longstreet from Mr. Dudley to Joe Collie; Alex Essoe from Wendy Torrance to Charlotte Wingrave to Mildred Gunning. Jacob Tremblay was Cody in Before I Wake, the murdered Little League player in Doctor Sleep and 17-year-old Chuck. Heather Langenkamp, Violet McGraw, Annalise Basso and Michael Trucco recur too.\n\nAll of this is in the credits. The entries for individual actors follow the strongest threads.",
+    "appearances": [
+      {
+        "work": "absentia",
+        "note": "Katie Parker, Courtney Bell, Justin Gordon."
+      },
+      {
+        "work": "oculus",
+        "note": "Kate Siegel, Annalise Basso and Justin Gordon."
+      },
+      {
+        "work": "before-i-wake",
+        "note": "Jacob Tremblay as Cody."
+      },
+      {
+        "work": "hush",
+        "note": "Kate Siegel, Samantha Sloyan, Michael Trucco."
+      },
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "Kate Siegel, Henry Thomas, Lulu Wilson, Annalise Basso."
+      },
+      {
+        "work": "geralds-game",
+        "note": "Carla Gugino, Bruce Greenwood, Henry Thomas, Kate Siegel."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Gugino, Siegel, Sloyan, Thomas, Gish, Parker, Longstreet, Pedretti, Jackson-Cohen, Lulu Wilson, Violet McGraw."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "Henry Thomas, Bruce Greenwood, Alex Essoe, Robert Longstreet, Katie Parker, Jacob Tremblay, Kyliegh Curran."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Pedretti, Jackson-Cohen, Kohli, Siegel, Gugino, Thomas, Essoe, Parker, T'Nia Miller."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Siegel, Sloyan, Kohli, Gilford, Linklater, Gish, Longstreet, Essoe, Thomas, Biedel, Rigney."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Kohli, Sloyan, Gilford, Rigney, Biedel, Parker, Longstreet, Essoe, Thomas, Langenkamp, with voices from Siegel, Gugino and Linklater."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Gugino, Greenwood, Siegel, Sloyan, Kohli, Thomas, Gish, Gilford, Rigney, Biedel, Lulu Wilson, Curran, Hamill, T'Nia Miller, and the Midnight Club trio."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Siegel, Sloyan, Kohli, Hamill, Lillard, Basso, Tremblay, McGraw, Langenkamp; Gugino as a voice."
+      },
+      {
+        "work": "carrie",
+        "note": "Siegel, Sloyan, Kohli, Lillard, Trucco, Hamill; voices from Gugino, Linklater, Basso, Biedel and others."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "ET Online: Flanagan's returning actors in The Midnight Club",
+        "url": "https://www.etonline.com/where-to-spot-all-of-mike-flanagans-returning-actors-in-the-midnight-club-192137"
+      },
+      {
+        "label": "Wikipedia: Kate Siegel",
+        "url": "https://en.wikipedia.org/wiki/Kate_Siegel"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      }
+    ],
+    "people": [
+      932076,
+      1331981,
+      17832,
+      9976,
+      1416505,
+      49425,
+      551462,
+      79416,
+      210454,
+      1277188
+    ]
+  },
+  {
+    "id": "kate-siegel-every-work",
+    "title": "Kate Siegel in almost everything",
+    "category": "callback",
+    "summary": "Kate Siegel, Flanagan's wife and co-writer of Hush, has been in nearly every Flanagan work since Oculus, and she directed an episode of Carrie.",
+    "description": "Her roles: Marisol in Oculus; Maddie in Hush, which she co-wrote; Jenny Browning in Ouija; Sally Burlingame in Gerald's Game; adult Theo in Hill House; Viola, the Lady in the Lake, in Bly Manor; Erin Greene in Midnight Mass; a voice in The Midnight Club; Camille L'Espanaye in Usher; Miss Richards in The Life of Chuck; and Adelaide in Carrie, where she also directed \"Social Studies.\"",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "Marisol."
+      },
+      {
+        "work": "hush",
+        "note": "Maddie Young; co-writer."
+      },
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "Jenny Browning."
+      },
+      {
+        "work": "geralds-game",
+        "note": "Sally Burlingame."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Adult Theo Crain."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E8",
+        "note": "Viola Willoughby, the Lady in the Lake."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Erin Greene."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E7",
+        "note": "A detective's voice on Order and Reprimand."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E3",
+        "note": "Camille L'Espanaye."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Miss Richards."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E3",
+        "note": "Adelaide; she also directed this episode."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: Kate Siegel",
+        "url": "https://en.wikipedia.org/wiki/Kate_Siegel"
+      },
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      }
+    ],
+    "people": [
+      932076
+    ]
+  },
+  {
+    "id": "samantha-sloyan-bev-to-margaret",
+    "title": "Samantha Sloyan, from Bev Keane to Margaret White",
+    "category": "callback",
+    "summary": "Samantha Sloyan played Midnight Mass's zealot Bev Keane and then Carrie's Margaret White, a part Flanagan wrote for her.",
+    "description": "Sloyan's Flanagan roles run from Sarah Greene in Hush through Leigh Crain in Hill House, Bev Keane in Midnight Mass, Shasta in The Midnight Club, Tamerlane Usher and Miss Rohrbacher in The Life of Chuck, to Margaret White in Carrie. Fans had compared Bev to Margaret White long before the casting made it literal.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "Sarah Greene."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Leigh Crain."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Bev Keane."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Shasta."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E6",
+        "note": "Tamerlane Usher."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Miss Rohrbacher."
+      },
+      {
+        "work": "carrie",
+        "note": "Margaret White."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      },
+      {
+        "label": "Screen Rant: Stephen King references in Midnight Mass",
+        "url": "https://screenrant.com/midnight-mass-stephen-king-references-easter-egg-homage/"
+      }
+    ],
+    "people": [
+      1331981
+    ]
+  },
+  {
+    "id": "carla-gugino-roles",
+    "title": "Carla Gugino, on screen and off",
+    "category": "callback",
+    "summary": "Carla Gugino has played leads in Gerald's Game, Hill House and Usher, narrated Bly, and turned up as a voice in four more.",
+    "description": "On screen: Jessie in Gerald's Game, Olivia Crain in Hill House, older Jamie in Bly Manor (she narrates the season), and Verna in Usher. As a voice: the judge in Midnight Mass, the narrator of Order and Reprimand in The Midnight Club, a news and commercial voice in The Life of Chuck, and a voice cameo in Carrie.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "Jessie Burlingame."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Olivia Crain."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Older Jamie, the narrator."
+      },
+      {
+        "work": "midnight-mass",
+        "episode": "S1E1",
+        "note": "The unseen judge."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E7",
+        "note": "Narrator of Order and Reprimand."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Verna."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "News and commercial voice."
+      },
+      {
+        "work": "carrie",
+        "note": "A voice cameo."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "ET Online: Flanagan's returning actors in The Midnight Club",
+        "url": "https://www.etonline.com/where-to-spot-all-of-mike-flanagans-returning-actors-in-the-midnight-club-192137"
+      },
+      {
+        "label": "ComicBook.com: hidden Hill House and Bly Manor cameo in Midnight Mass",
+        "url": "https://comicbook.com/horror/news/midnight-mass-director-confirms-hidden-hill-house-and-bly-manor-cameo/"
+      }
+    ],
+    "people": [
+      17832
+    ]
+  },
+  {
+    "id": "rahul-kohli-roles",
+    "title": "Rahul Kohli's roles",
+    "category": "callback",
+    "summary": "Rahul Kohli has been in every Flanagan series and film since Bly Manor.",
+    "description": "Owen in Bly Manor, Sheriff Hassan in Midnight Mass, Vincent in The Midnight Club, Leo Usher (with the Lasser Glass tattoo) in Usher, Bri in The Life of Chuck, and Seth Peist in Carrie.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Owen Sharma."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Sheriff Hassan."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Vincent."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E4",
+        "note": "Napoleon \"Leo\" Usher."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Bri."
+      },
+      {
+        "work": "carrie",
+        "note": "Seth Peist."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      },
+      {
+        "label": "Wikipedia: The Life of Chuck",
+        "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck"
+      }
+    ],
+    "people": [
+      1416505
+    ]
+  },
+  {
+    "id": "henry-thomas-fathers",
+    "title": "Henry Thomas, eight roles",
+    "category": "callback",
+    "summary": "Henry Thomas has played in eight Flanagan works, most often as a father who fails or is tested.",
+    "description": "Father Tom in Ouija, Tom Mahout (Jessie's abusive father) in Gerald's Game, young Hugh Crain in Hill House, Lloyd the Overlook bartender in Doctor Sleep (who offers Dan the drink that ruined Jack), Henry Wingrave in Bly, Ed Flynn in Midnight Mass, Freedom Jack in The Midnight Club and Frederick Usher in Usher. The roles are in the credits; the father pattern is this site's reading.",
+    "appearances": [
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "Father Tom."
+      },
+      {
+        "work": "geralds-game",
+        "note": "Tom Mahout, Jessie's father."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Young Hugh Crain."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "Lloyd the bartender."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Henry Wingrave."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Ed Flynn."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Freedom Jack."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Frederick Usher."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "ET Online: Flanagan's returning actors in The Midnight Club",
+        "url": "https://www.etonline.com/where-to-spot-all-of-mike-flanagans-returning-actors-in-the-midnight-club-192137"
+      }
+    ],
+    "people": [
+      9976
+    ]
+  },
+  {
+    "id": "gugino-greenwood-reunion",
+    "title": "Gugino and Greenwood, together again",
+    "category": "callback",
+    "summary": "Carla Gugino and Bruce Greenwood played the married couple of Gerald's Game and returned as Verna and Roderick Usher.",
+    "description": "In Gerald's Game Greenwood's Gerald handcuffs Gugino's Jessie to a bed and dies; in Usher his Roderick made a deal with her Verna decades earlier. Greenwood was also Dr. John Dalton in Doctor Sleep. Usher's sixth episode even shows Gerald's Game on a streaming menu.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "Gerald and Jessie."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "Greenwood as Dr. John Dalton."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Roderick and Verna."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Gerald's Game easter egg in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg"
+      },
+      {
+        "label": "Den of Geek: Doctor Sleep easter eggs",
+        "url": "https://www.denofgeek.com/movies/doctor-sleep-easter-eggs-references/"
+      }
+    ],
+    "people": [
+      17832,
+      21089
+    ]
+  },
+  {
+    "id": "kyliegh-curran-abra-to-lenore",
+    "title": "Kyliegh Curran: from Abra to Lenore",
+    "category": "callback",
+    "summary": "Kyliegh Curran played Abra Stone in Doctor Sleep and then Lenore Usher, the one grandchild Verna spares.",
+    "description": "Abra is the most powerful child with the shine in Doctor Sleep. Lenore is the moral center of the Usher family and gets the only gentle death in the show.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "Abra Stone."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E8",
+        "note": "Lenore Usher's peaceful death."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Gerald's Game easter egg in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg"
+      }
+    ],
+    "people": [
+      2118623
+    ]
+  },
+  {
+    "id": "midnight-club-to-usher",
+    "title": "The Midnight Club kids move to Usher",
+    "category": "callback",
+    "summary": "Ruth Codd, Sauriyan Sapkota and Aya Furukawa went from Brightcliffe hospice patients to Usher characters, alongside Zach Gilford, Igby Rigney and Matt Biedel.",
+    "description": "When The Midnight Club was cancelled after one season, much of its cast reappeared in Usher a year later: Codd from Anya to Juno, Sapkota from Amesh to Prospero \"Perry\" Usher, Furukawa from Natsuki to Tina. Zach Gilford (Mark in Midnight Club) played young Roderick; Igby Rigney went from Kevin to Toby; Matt Biedel from Tim to Bill-T Wilson.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "note": "Anya, Amesh, Natsuki, Mark, Kevin and Tim."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Juno, Perry, Tina, young Roderick, Toby and Bill-T Wilson."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "ET Online: Flanagan's returning actors in The Midnight Club",
+        "url": "https://www.etonline.com/where-to-spot-all-of-mike-flanagans-returning-actors-in-the-midnight-club-192137"
+      }
+    ],
+    "people": [
+      3295331,
+      3295334,
+      1275704,
+      70303,
+      2982416,
+      588335
+    ]
+  },
+  {
+    "id": "pedretti-jackson-cohen-hill-to-bly",
+    "title": "Pedretti and Jackson-Cohen, Hill House to Bly",
+    "category": "callback",
+    "summary": "Victoria Pedretti and Oliver Jackson-Cohen were Nell and Luke in Hill House and Dani and Peter Quint in Bly Manor.",
+    "description": "The two youngest Crain siblings become Bly's au pair and its predatory ghost. Many of Bly's reused Hill House lines land on them.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Nell and Luke Crain."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Dani Clayton and Peter Quint."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Flanaverse cast in The Midnight Club",
+        "url": "https://www.netflix.com/tudum/articles/midnight-club-cast-mike-flanagan-flanaverse"
+      },
+      {
+        "label": "TV Guide: Hill House easter eggs in Bly Manor",
+        "url": "https://www.tvguide.com/news/haunting-bly-manor-hill-house-easter-eggs/"
+      }
+    ],
+    "people": [
+      2117434,
+      551020
+    ]
+  },
+  {
+    "id": "flanagan-cameo-young-priest",
+    "title": "Flanagan as the young priest",
+    "category": "cameo",
+    "summary": "Flanagan plays the young priest helping the elderly Monsignor Pruitt in the Jerusalem flashback, his only credited acting role.",
+    "description": "In \"Book III: Proverbs,\" Pruitt's pilgrimage to Jerusalem goes wrong in the desert. Flanagan is the young priest who helps him keep up with the group. He joined SAG for the role and has talked about it on TikTok.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "episode": "S1E3",
+        "note": "The Jerusalem pilgrimage flashback."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      },
+      {
+        "label": "TV Insider: Midnight Mass easter eggs",
+        "url": "https://www.tvinsider.com/gallery/midnight-mass-netflix-easter-eggs-mike-flanagan-cameo-carla-gugino-x-files/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-porch",
+    "title": "Flanagan on a Crockett porch",
+    "category": "cameo",
+    "summary": "Flanagan drinks from a mug on a porch as Warren and his friends bike past.",
+    "description": "Around 8:55 in the first episode (per Screen Rant). Screen Rant and BuzzFeed both identify him; he has not mentioned it.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "episode": "S1E1",
+        "note": "On a porch with a mug, around 8:55 (per Screen Rant)."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      },
+      {
+        "label": "BuzzFeed: Midnight Mass easter eggs you missed",
+        "url": "https://www.buzzfeed.com/staceynguyen16/midnight-mass-easter-eggs-you-missed"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-taxi-driver",
+    "title": "Flanagan as the taxi driver",
+    "category": "cameo",
+    "summary": "Screen Rant says Flanagan is the taxi driver who takes Olivia away from Hill House.",
+    "description": "Around 36:20 in \"Screaming Meemies\" (per Screen Rant), Olivia says she is visiting her sister and leaves by taxi. Screen Rant is the only source, and another search found no corroboration.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E9",
+        "note": "The taxi that drives Olivia away, around 36:20 (per Screen Rant)."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-before-i-wake",
+    "title": "Flanagan as a hospital worker",
+    "category": "cameo",
+    "summary": "Screen Rant says Flanagan plays a hospital worker who lifts a young child, played by his son, to say goodbye.",
+    "description": "Around 1:27:00 (per Screen Rant). Screen Rant is the only source for both the cameo and the child.",
+    "appearances": [
+      {
+        "work": "before-i-wake",
+        "note": "A hospital scene near the end, around 1:27:00 (per Screen Rant)."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-life-of-chuck",
+    "title": "Flanagan as a mourner",
+    "category": "cameo",
+    "summary": "Flanagan is credited as a mourner at Sarah Krantz's funeral in The Life of Chuck.",
+    "description": "A brief, credited appearance, per Wikipedia's cast list.",
+    "appearances": [
+      {
+        "work": "the-life-of-chuck",
+        "note": "Sarah Krantz's funeral."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Life of Chuck",
+        "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-carrie-radio",
+    "title": "Flanagan on the radio",
+    "category": "cameo",
+    "summary": "Flanagan voices a radio broadcast in Carrie's first episode.",
+    "description": "Pop Culture Planet and Geek Vibes Nation both cite the credits.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E1",
+        "note": "A radio broadcast."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      },
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "flanagan-cameo-oculus-chapter-3",
+    "title": "Flanagan in Oculus: Chapter 3",
+    "category": "cameo",
+    "summary": "Flanagan reportedly plays an uncredited ghoul in his 2006 short and voices Tim's father on an answering machine.",
+    "description": "The claim comes from IMDb by way of Screen Rant and is unverified.",
+    "appearances": [
+      {
+        "work": "oculus-chapter-3",
+        "note": "A ghoul, and the voice of Tim's father on the answering machine."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "gugino-judge-voice",
+    "title": "Carla Gugino as the judge",
+    "category": "cameo",
+    "summary": "The unseen judge who sentences Riley to four years in prison is Carla Gugino.",
+    "description": "Fans recognised the voice in \"Book I: Genesis,\" and Flanagan confirmed it on Twitter: \"Yep!\"",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "episode": "S1E1",
+        "note": "Riley's sentencing."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "ComicBook.com: hidden Hill House and Bly Manor cameo in Midnight Mass",
+        "url": "https://comicbook.com/horror/news/midnight-mass-director-confirms-hidden-hill-house-and-bly-manor-cameo/"
+      }
+    ],
+    "people": [
+      17832
+    ]
+  },
+  {
+    "id": "order-and-reprimand-voices",
+    "title": "Order and Reprimand",
+    "category": "cameo",
+    "summary": "Anya's TV cop show is voiced by Carla Gugino, Kate Siegel and Hamish Linklater.",
+    "description": "In \"Anya,\" Anya watches Order and Reprimand. Gugino narrates its intro; Siegel and Linklater voice the detectives. Flanagan: \"If you can find Hamish, I think that's a real Easter egg hunt victory.\" Their presence in the show is confirmed; the placement on Order and Reprimand is widely reported.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E7",
+        "note": "The cop show Anya watches."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TVLine: Flanagan on the Midnight Club finale",
+        "url": "https://www.tvline.com/interviews/midnight-club-finale-recap-mike-flanagan-season-2-spoilers-1234885272/"
+      },
+      {
+        "label": "Yahoo: what The Midnight Club hid",
+        "url": "https://www.yahoo.com/entertainment/midnight-club-carefully-hid-hill-221527039.html"
+      },
+      {
+        "label": "Distractify: hidden ghosts in The Midnight Club?",
+        "url": "https://www.distractify.com/p/are-there-hidden-ghosts-in-midnight-club"
+      }
+    ],
+    "people": [
+      17832,
+      932076,
+      184581
+    ]
+  },
+  {
+    "id": "carrie-voice-cameos",
+    "title": "Voice cameos in Carrie",
+    "category": "cameo",
+    "summary": "Flanagan regulars voice Carrie's phone calls, operators, radio and prom DJ.",
+    "description": "Carla Gugino, Hamish Linklater, Sauriyan Sapkota, Annalise Basso, Matt Biedel and David Dastmalchian are among the voices, and the prom DJ is Elan Gale, a writer on the show. Geek Vibes Nation and Pop Culture Planet both cite the credits.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "note": "Phone calls, radio, operators and the prom DJ across the season."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      },
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      }
+    ],
+    "people": [
+      17832,
+      184581,
+      3295334,
+      1024722,
+      588335,
+      83854,
+      939406
+    ]
+  },
+  {
+    "id": "mark-hamill-damon-nostra",
+    "title": "Mark Hamill as Damon Nostra",
+    "category": "cameo",
+    "summary": "Mark Hamill opens \"Home Economics\" as a washed-up fake psychic, unrecognisable under prosthetics.",
+    "description": "Damon Nostra, real name Greg McMurray, is a has-been TV psychic. Flanagan told People that Hamill's only request was that the cameo stay secret, and that Hamill asked for a nose. It is his third Flanagan role, after the Ushers' fixer Arthur Pym and Chuck's grandfather Albie Krantz.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "episode": "S1E6",
+        "note": "The opening of the episode."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Arthur Pym, the family's lawyer and fixer."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Albie Krantz, Chuck's grandfather."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "TVLine: Mark Hamill's Carrie cameo explained",
+        "url": "https://www.tvline.com/2282183/mark-hamill-carrie-episode-6-cameo-eplained/"
+      },
+      {
+        "label": "JustWatch: Mark Hamill's Carrie cameo",
+        "url": "https://guides.justwatch.com/us/2026-carrie-mark-hamill-cameo-explained"
+      },
+      {
+        "label": "Wikipedia: The Life of Chuck",
+        "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck"
+      }
+    ],
+    "people": [
+      2
+    ]
+  },
+  {
+    "id": "jamie-flanagan",
+    "title": "Jamie Flanagan",
+    "category": "cameo",
+    "summary": "Flanagan's brother Jamie writes for the shows and is said to appear on screen in Hill House and The Midnight Club.",
+    "description": "Jamie (James) Flanagan's writing credits are confirmed: Bly Manor's \"The Pupil\" and Carrie's \"Romantic Literature.\" His on-screen cameos, as a funeral director in Hill House and as Anya's support-group leader in The Midnight Club, come from Yahoo only.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "A funeral director (per Yahoo)."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E2",
+        "note": "Writer of the episode."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E7",
+        "note": "Anya's support-group leader (per Yahoo)."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E7",
+        "note": "Writer of the episode."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Yahoo: what The Midnight Club hid",
+        "url": "https://www.yahoo.com/entertainment/midnight-club-carefully-hid-hill-221527039.html"
+      },
+      {
+        "label": "Wikipedia: The Haunting of Bly Manor",
+        "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      }
+    ],
+    "people": [
+      1910482
+    ]
+  },
+  {
+    "id": "trevor-macy-blurb",
+    "title": "Trevor Macy's fake blurb",
+    "category": "cameo",
+    "summary": "Producer Trevor Macy appears only as a fake critic quote, \"absolutely spine tingling,\" on the Midnight Mass novel prop.",
+    "description": "No on-screen Macy cameo has turned up. His name on the cover of Maddie's novel in Hush is the closest thing, and it rests on a single search summary.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "The cover of Maddie's novel."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Newsweek: Midnight Mass and Flanagan's other work",
+        "url": "https://www.newsweek.com/midnight-mass-mike-flanagan-stephen-king-doctor-sleep-hush-1480659"
+      }
+    ],
+    "people": [
+      60472
+    ]
+  },
+  {
+    "id": "danny-lloyd-cameo",
+    "title": "Danny Lloyd at the ballgame",
+    "category": "cameo",
+    "summary": "Danny Lloyd, the original Danny Torrance from 1980, cheers at a Little League game in Doctor Sleep.",
+    "description": "He is a fan in the stands at the game where the True Knot first spots Bradley Trevor.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "In the stands at the Little League game."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Den of Geek: Doctor Sleep easter eggs",
+        "url": "https://www.denofgeek.com/movies/doctor-sleep-easter-eggs-references/"
+      }
+    ],
+    "people": [
+      10410
+    ]
+  },
+  {
+    "id": "overlook-rebuilt",
+    "title": "The Overlook, rebuilt",
+    "category": "location",
+    "summary": "For Doctor Sleep's final act, the Overlook's interiors were rebuilt near Atlanta from Kubrick's own architectural drawings.",
+    "description": "The Colorado Lounge, the Gold Room and the Room 237 hallway were reconstructed from drawings the Kubrick estate provided, which Flanagan has confirmed. He also made sure the Lasser Glass hung somewhere on the walls.",
+    "appearances": [
+      {
+        "work": "doctor-sleep",
+        "note": "The final act at the Overlook."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Den of Geek: Doctor Sleep easter eggs",
+        "url": "https://www.denofgeek.com/movies/doctor-sleep-easter-eggs-references/"
+      },
+      {
+        "label": "CinemaBlend: Doctor Sleep director confirms Shining egg",
+        "url": "https://www.cinemablend.com/news/2550887/doctor-sleep-director-confirms-awesome-shining-easter-egg"
+      },
+      {
+        "label": "Wikipedia: Doctor Sleep",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "hill-house-bisham-manor",
+    "title": "Hill House: Bisham Manor and an Atlanta stage",
+    "category": "location",
+    "summary": "Hill House's exterior is Bisham Manor in LaGrange, Georgia, heavily altered with CGI; the interiors were built on stages at EUE/Screen Gems in Atlanta.",
+    "description": "Bisham Manor is now called Alta Vista. Hill House is the only Flanagan Netflix series not shot in Vancouver.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "The house's exterior and every interior."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "KFTV: Hill House built on an Atlanta stage",
+        "url": "https://www.kftv.com/news/2018/10/29/hill-house-built-on-atlanta-stage-for-netflix-drama"
+      },
+      {
+        "label": "Atlas of Wonders: Hill House location",
+        "url": "https://atlasofwonders.com/2018/10/haunting-hill-house-location.html"
+      }
+    ]
+  },
+  {
+    "id": "crockett-island-garry-point",
+    "title": "Crockett Island at Garry Point Park",
+    "category": "location",
+    "summary": "Crockett Island's town was built in Garry Point Park, Richmond, British Columbia, because Tangier Island could not host the shoot.",
+    "description": "The production built the island's harbour town, church and houses as a one-off set on the BC coast. No source shows those buildings reused in later shows.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "note": "The whole island."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Screen Rant: Crockett Island filming locations",
+        "url": "https://screenrant.com/crockett-island-midnight-mass-filming-locations-explained/"
+      },
+      {
+        "label": "Newsweek: is Crockett Island real?",
+        "url": "https://www.newsweek.com/midnight-mass-filming-locations-crockett-island-real-netflix-1633286"
+      }
+    ]
+  },
+  {
+    "id": "ladner-bc",
+    "title": "Ladner, British Columbia",
+    "category": "location",
+    "summary": "The town of Ladner in Delta, BC, appears in both The Midnight Club (a church) and Usher (a mansion).",
+    "description": "The Midnight Club used Ladner United Church and worked around Burnaby; Brightcliffe itself was most likely a built set, and the popular claim that it is Hatley Castle does not hold up. Usher used a Ladner mansion. No source shows sets reused between the two.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "note": "Ladner United Church."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "A Ladner mansion."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Elite Daily: where The Midnight Club was filmed",
+        "url": "https://elitedaily.com/lifestyle/where-was-midnight-club-filmed"
+      },
+      {
+        "label": "Hollywood North Buzz: where Usher filmed in Vancouver",
+        "url": "http://hollywoodnorthbuzz.com/2023/10/the-fall-of-the-house-of-usher-on-netflix-where-did-it-film-in-vancouver-2.html"
+      },
+      {
+        "label": "Wikipedia: The Midnight Club",
+        "url": "https://en.wikipedia.org/wiki/The_Midnight_Club"
+      }
+    ]
+  },
+  {
+    "id": "absentia-glendale-tunnel",
+    "title": "Absentia's tunnel",
+    "category": "location",
+    "summary": "Absentia is set in a Glendale neighbourhood, and Flanagan lived across the street from the real tunnel.",
+    "description": "The Kickstarter-funded debut was shot in California around the real tunnel across the street from Flanagan's home. He has also said the film was subconsciously inspired by the 1983 Fraggle Rock episode \"The Terrible Tunnel\" (confirmed via Wikipedia), and its central scare reportedly reworks a dream about an uncle who had died shortly before (widely reported; the quote still needs checking).",
+    "appearances": [
+      {
+        "work": "absentia",
+        "note": "The tunnel."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: Absentia",
+        "url": "https://en.wikipedia.org/wiki/Absentia_(film)"
+      },
+      {
+        "label": "IndieWire: Hill House is a 10-hour Oculus",
+        "url": "https://www.indiewire.com/news/events/mike-flanagan-says-haunting-of-hill-house-is-just-10-hour-oculus-1235029678/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "hill-house-ten-hour-oculus",
+    "title": "Hill House is \"a 10-hour Oculus\"",
+    "category": "callback",
+    "summary": "Flanagan has said Hill House is Oculus stretched to ten hours: two braided timelines and a family split by childhood trauma.",
+    "description": "Oculus follows a brother and sister returning to the mirror that destroyed their family, cutting between their childhood and the present. Hill House does the same with five siblings instead of two.",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "Two timelines, two siblings, one haunted object."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Two timelines, five siblings, one haunted house."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "IndieWire: Hill House is a 10-hour Oculus",
+        "url": "https://www.indiewire.com/news/events/mike-flanagan-says-haunting-of-hill-house-is-just-10-hour-oculus-1235029678/"
+      },
+      {
+        "label": "Yahoo: Flanagan admits Hill House is Oculus",
+        "url": "https://www.yahoo.com/entertainment/mike-flanagan-finally-admits-haunting-200000105.html"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "theme-grief",
+    "title": "Grief and the people left behind",
+    "category": "theme",
+    "summary": "Grief drives nearly every Flanagan story, from a wife declaring her husband dead in absentia to five siblings stuck at different stages of mourning.",
+    "description": "Flanagan told EW that grief's universality shaped the Hill House writers' room. The theme is there from his first feature and runs through the Netflix years.",
+    "appearances": [
+      {
+        "work": "absentia",
+        "note": "A wife finally has her missing husband declared dead, and he comes back."
+      },
+      {
+        "work": "before-i-wake",
+        "note": "Foster parents still mourning their dead son."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Each Crain sibling is stuck at a different stage of grief."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "A love story told by the one left behind."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ]
+  },
+  {
+    "id": "theme-addiction-recovery",
+    "title": "Addiction and recovery",
+    "category": "theme",
+    "summary": "Flanagan got sober while making Doctor Sleep and calls Midnight Mass's Riley \"my most thinly veiled avatar for myself.\"",
+    "description": "Addiction and recovery run from Dan Torrance's AA meetings to Luke Crain's heroin, Riley Flynn's drunk-driving crash, Joe Collie's drinking, and Usher's opioid fortune, modelled on the Sacklers. Flanagan has written about his own addiction on his blog.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Luke's heroin addiction and his sobriety cake in the finale."
+      },
+      {
+        "work": "doctor-sleep",
+        "note": "Dan's recovery and AA meetings."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Riley's AA meetings with Father Paul; Joe Collie."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "The Ligadone opioid empire."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Collider: Flanagan on Doctor Sleep and alcoholism",
+        "url": "https://collider.com/doctor-sleep-alcoholism-mike-flanagan-comments/"
+      },
+      {
+        "label": "Dread Central: Flanagan on Doctor Sleep and sobriety",
+        "url": "https://www.dreadcentral.com/editorials/465626/a-sleepless-weekend-mike-flanagan-on-doctor-sleep-and-his-path-to-sobriety/"
+      },
+      {
+        "label": "Flanagan's blog on addiction",
+        "url": "https://flanaganfilm.blog/post/722300928619921408/you-have-spoken-about-dealing-with-addiction-in"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "theme-faith",
+    "title": "Faith, zealotry and the church",
+    "category": "theme",
+    "summary": "Flanagan, a former altar boy on Governors Island, calls Midnight Mass his most personal project, and the church keeps returning in his work.",
+    "description": "Midnight Mass is the center, but faith and its abuses run wider: Ouija's Father Tom, Usher's pious Eliza, and Carrie's Margaret White, played by the same actor as Bev Keane.",
+    "appearances": [
+      {
+        "work": "ouija-origin-of-evil",
+        "note": "Father Tom."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Father Paul, Bev Keane and St. Patrick's church."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Eliza Usher's piety."
+      },
+      {
+        "work": "carrie",
+        "note": "Margaret White's fundamentalism."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "SlashFilm: Midnight Mass is Flanagan's most personal project",
+        "url": "https://www.slashfilm.com/613478/mike-flanagan-calls-midnight-mass-his-most-personal-project-yet/"
+      },
+      {
+        "label": "Collider: Flanagan and Macy on Midnight Mass",
+        "url": "https://collider.com/midnight-mass-mike-flanagan-trevor-macy-interview/"
+      }
+    ],
+    "people": [
+      551463,
+      1331981
+    ]
+  },
+  {
+    "id": "theme-monologue",
+    "title": "The monologue as confession",
+    "category": "theme",
+    "summary": "Most Flanagan works build to a long speech, often about death, and he defends them against \"constant pushback\" from executives.",
+    "description": "Flanagan says he never sets out to write a monologue; with Midnight Mass \"there were monologues because I had a lot to say,\" which he calls the line between \"storytelling and confession.\" The best-known include Nell's confetti speech, Erin's and Riley's speeches about dying, Jamie's speech about memory, Ilonka's \"stories,\" and Roderick's confession to Dupin, which frames all of Usher.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E10",
+        "note": "Nell's \"confetti\" speech."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E9",
+        "note": "Jamie on ghosts and memory."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Riley's and Erin's speeches about what happens when we die."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E1",
+        "note": "Ilonka's \"stories.\""
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Roderick's confession to Dupin frames every episode."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "The Whitman \"I contain multitudes\" thread."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "SlashFilm: why Flanagan gets pushback on monologues",
+        "url": "https://www.slashfilm.com/1069100/why-mike-flanagan-gets-constant-pushback-for-his-signature-monologues/"
+      },
+      {
+        "label": "Telltale TV: Flanagan at ATX 2024",
+        "url": "https://telltaletv.com/2024/06/mike-flanagan-talks-the-importance-of-monologue-helming-the-the-exorcist-remake-and-more-atx-tv-festival/"
+      },
+      {
+        "label": "Collider: Flanagan's horror monologues",
+        "url": "https://collider.com/mike-flanagan-horror-monologues/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "theme-broken-families",
+    "title": "Families that break their children",
+    "category": "theme",
+    "summary": "TV Tropes lists the dysfunctional family as a Flanagan constant, and the damage usually falls on the children.",
+    "description": "From the Russells in Oculus to the Ushers, families pass harm down. Parents fail, abuse or simply cannot protect, and the children spend the rest of the story dealing with it.",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "Kaylie and Tim survive their parents' destruction by the mirror."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "The Crains, split by one night at Hill House."
+      },
+      {
+        "work": "geralds-game",
+        "note": "Jessie's abusive father."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "A dynasty that destroys its heirs."
+      },
+      {
+        "work": "carrie",
+        "note": "Margaret and Carrie."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "TV Tropes: Mike Flanagan",
+        "url": "https://tvtropes.org/pmwiki/pmwiki.php/Creator/MikeFlanagan"
+      }
+    ]
+  },
+  {
+    "id": "theme-dead-as-company",
+    "title": "The dead as company",
+    "category": "theme",
+    "summary": "Flanagan's dead start as a threat crowding round the living and end, more often, as comfort.",
+    "description": "Oculus and Hill House's \"Two Storms\" close on the dead gathered around the living. By Hill House's finale they are a comfort (\"the rest is confetti\"). The Midnight Club's dying kids keep each other company, and The Life of Chuck ends on a whole life worth having lived. This grouping is the site's own reading of the research.",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "The dead gather at the end."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "From the \"Two Storms\" crowd to Nell's comfort in the finale."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Dying teenagers keep each other company."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "A life celebrated as the universe ends."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "His for Horror: Oculus, the proto Hill House",
+        "url": "https://hisforhorror.substack.com/p/oculus-the-proto-hill-house"
+      },
+      {
+        "label": "Looper: Hill House details you missed",
+        "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/"
+      }
+    ]
+  },
+  {
+    "id": "theme-ghosts-as-memory",
+    "title": "Ghosts as memory",
+    "category": "theme",
+    "summary": "From Hill House's \"a ghost is a wish\" to Bly's fading, faceless dead, Flanagan's ghosts are what the living cannot let go of.",
+    "description": "Steven defines ghosts as guilt, secrets and wishes. In Bly Manor the dead lose their faces as they forget who they were, and Dani ends as a presence in Jamie's memory. The Life of Chuck's \"I contain multitudes\" carries the same idea with no ghost at all. The grouping is the site's reading.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E1",
+        "note": "Steven's \"a ghost is a wish.\""
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "episode": "S1E9",
+        "note": "The faceless dead, and Jamie's memory of Dani."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "\"I contain multitudes.\""
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Dexerto: the one important thing about Hill House's ghosts",
+        "url": "https://dexerto.com/tv-movies/the-haunting-of-hill-house-one-important-thing-ghosts-2968919"
+      },
+      {
+        "label": "Screen Rant: every Bly Manor ghost explained",
+        "url": "https://screenrant.com/haunting-bly-manor-every-ghost-explained/"
+      }
+    ]
+  },
+  {
+    "id": "theme-mortality",
+    "title": "Mortality faced head-on",
+    "category": "theme",
+    "summary": "Flanagan has said confronting his own fear of death drove Midnight Mass, and The Midnight Club and The Life of Chuck look at death without flinching.",
+    "description": "A hospice for teenagers, an island debating what comes after, and a universe ending alongside one man's life.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "note": "Erin's and Riley's speeches on dying."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "A hospice for teenagers."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "A universe ending with one man."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "CinemaBlend: Flanagan used Midnight Mass to confront his darkest fear",
+        "url": "https://www.cinemablend.com/television/2574223/midnight-mass-mike-flanagan-used-netflix-confront-darkest-fear"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "theme-women-trapped",
+    "title": "Women trapped by men",
+    "category": "theme",
+    "summary": "Jessie in Gerald's Game, Morrie in Usher, Rebecca under Peter Quint in Bly, and Carrie under her mother and her classmates.",
+    "description": "Usher's sixth episode makes the link explicit by putting Gerald's Game on Morrie's TV while she lies drugged in bed. The grouping across works is the site's reading.",
+    "appearances": [
+      {
+        "work": "geralds-game",
+        "note": "Jessie, cuffed to the bed."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Rebecca Jessel and Peter Quint."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E6",
+        "note": "Morrie, drugged and bed-bound."
+      },
+      {
+        "work": "carrie",
+        "note": "Carrie under Margaret and Chris's crowd."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Netflix Tudum: the Gerald's Game easter egg in Usher",
+        "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg"
+      }
+    ]
+  },
+  {
+    "id": "theme-time-out-of-order",
+    "title": "Time out of order",
+    "category": "theme",
+    "summary": "Flanagan likes to braid timelines: Oculus and Hill House cut between past and present, Bly loops through memory, and The Life of Chuck runs backwards.",
+    "description": "CBR traces the habit from Oculus to Hill House. The Bent-Neck Lady reveal is its most famous payoff, and The Life of Chuck tells its three acts in reverse.",
+    "appearances": [
+      {
+        "work": "oculus",
+        "note": "Past and present cut together."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "episode": "S1E5",
+        "note": "Two timelines, and Nell falling back through her own life."
+      },
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Memory loops in the dream-walking episodes."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "Three acts in reverse order."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "CBR: Flanagan and time in Hill House",
+        "url": "https://www.cbr.com/mike-flanagan-haunting-of-hill-house-horror-tv-time-travel/"
+      },
+      {
+        "label": "IndieWire: Hill House is a 10-hour Oculus",
+        "url": "https://www.indiewire.com/news/events/mike-flanagan-says-haunting-of-hill-house-is-just-10-hour-oculus-1235029678/"
+      }
+    ]
+  },
+  {
+    "id": "books-on-the-shelves",
+    "title": "Books on the shelves",
+    "category": "prop",
+    "summary": "Flanagan's sets are stocked with telling books: Pike and King in Midnight Mass, The Gunslinger in The Midnight Club, Jackson in Hill House, The Exorcist in Carrie.",
+    "description": "Books are the cheapest way to plant a reference, and Flanagan's set dressers use them often. The best documented are Ed Flynn reading Stephen King's Revival in Midnight Mass, a novel about a preacher's costly miracles that Flanagan was once attached to adapt (reported by Screen Rant and BuzzFeed), and Kevin pulling The Dark Tower: The Gunslinger from his locker in The Midnight Club (on Netflix's own list of the show's eggs).\n\nThe others rest on a single outlet each. Riley's childhood shelf holds a Christopher Pike book, a year before Flanagan adapted Pike, and King paperbacks including 'Salem's Lot, beside Se7en and Dana Scully posters. Leeza reads Always and Forever, Lara Jean, from the Netflix franchise whose sequels were directed by Flanagan's cinematographer Michael Fimognari. Nell reads a Shirley Jackson book. And in Carrie a student has The Exorcist open in the library, as Flanagan's own Exorcist film was in the works.",
+    "appearances": [
+      {
+        "work": "midnight-mass",
+        "episode": "S1E1",
+        "note": "Ed Flynn reads Revival (reported). Riley's shelf: a Pike book, 'Salem's Lot and other King paperbacks (fan theory). Leeza reads Always and Forever, Lara Jean (fan theory)."
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E3",
+        "note": "Kevin pulls The Gunslinger from his locker. Reported by Netflix Tudum and Yahoo."
+      },
+      {
+        "work": "the-haunting-of-hill-house",
+        "note": "Nell reads a Shirley Jackson book. Fan theory (Looper)."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E2",
+        "note": "A student reads The Exorcist in the library, around 31:12 (per SlashFilm). Fan theory."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Screen Rant: Stephen King references in Midnight Mass",
+        "url": "https://screenrant.com/midnight-mass-stephen-king-references-easter-egg-homage/"
+      },
+      {
+        "label": "BuzzFeed: Midnight Mass easter eggs you missed",
+        "url": "https://www.buzzfeed.com/staceynguyen16/midnight-mass-easter-eggs-you-missed"
+      },
+      {
+        "label": "Netflix Tudum: The Midnight Club's 1990s references",
+        "url": "https://www.netflix.com/tudum/articles/the-midnight-club-easter-eggs-1990s-references"
+      },
+      {
+        "label": "SlashFilm: the Exorcist easter egg in Carrie",
+        "url": "https://www.slashfilm.com/2290016/carrie-easter-egg-mike-flanagan-movie-the-exorcist-martyrs/"
+      }
+    ],
+    "people": [
+      9976,
+      63099
+    ]
+  },
+  {
+    "id": "christine",
+    "title": "Christine",
+    "category": "reference",
+    "summary": "Flanagan confirmed a Christine egg in The Life of Chuck, and a burning red car in Carrie may be another.",
+    "description": "When The Life of Chuck came out, Flanagan said it contains \"a LOT of Stephen King easter eggs,\" including a Christine one. He did not say which scene. In Carrie's \"Physical Education,\" Carrie sets a beat-up red car on fire at the junkyard, which Pop Culture Planet reads as Christine; that one is fan theory.",
+    "appearances": [
+      {
+        "work": "the-life-of-chuck",
+        "note": "Somewhere in the film, per Flanagan; the scene has not been published. Confirmed."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E5",
+        "note": "Carrie burns a red car at the junkyard. Fan theory (Pop Culture Planet)."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "FlanaganSource on X: King easter eggs in Life of Chuck",
+        "url": "https://x.com/flanagansource/status/1935080208417034722"
+      },
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "christopher-pike-in-midnight-club",
+    "title": "Christopher Pike in The Midnight Club",
+    "category": "reference",
+    "summary": "The Midnight Club adapts Pike's novel and borrows his other books for the stories told at midnight, and their titles name most episodes.",
+    "description": "The stories the Brightcliffe kids tell each other come from Pike's books: The Wicked Heart, Gimme a Kiss, See You Later, Witch, Road to Nowhere and The Eternal Enemy. Yahoo also suggests that Kevin is named for Pike, whose real name is Kevin Christopher McFadden; that one is fan theory.",
+    "appearances": [
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E3",
+        "note": "\"The Wicked Heart.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E4",
+        "note": "\"Gimme a Kiss.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E5",
+        "note": "\"See You Later.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E6",
+        "note": "\"Witch.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E8",
+        "note": "\"Road to Nowhere.\""
+      },
+      {
+        "work": "the-midnight-club",
+        "episode": "S1E9",
+        "note": "\"The Eternal Enemy.\""
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Distractify: hidden ghosts in The Midnight Club?",
+        "url": "https://www.distractify.com/p/are-there-hidden-ghosts-in-midnight-club"
+      },
+      {
+        "label": "Wikipedia: The Midnight Club",
+        "url": "https://en.wikipedia.org/wiki/The_Midnight_Club"
+      },
+      {
+        "label": "Yahoo: what The Midnight Club hid",
+        "url": "https://www.yahoo.com/entertainment/midnight-club-carefully-hid-hill-221527039.html"
+      }
+    ],
+    "people": [
+      2982416
+    ]
+  },
+  {
+    "id": "carrie-horror-nods",
+    "title": "Carrie's nods to earlier Carries and horror",
+    "category": "reference",
+    "summary": "Carrie is dressed with nods to the 1976 film, to King, and to horror at large, from characters named for De Palma's cast to an S-Mart.",
+    "description": "Reported by more than one outlet: Nancy Piper, Officer Irving and Officer Katt are named for Piper Laurie, Amy Irving and William Katt of the 1976 film; a marquee after prom advertises a De Palma retrospective; Margaret works at S-Mart, from the Evil Dead films; and Bryan Fuller (who wrote the 2002 Carrie) and Don Mancini (who cast Summer H. Howell in Curse of Chucky) stand in the prom crowd.\n\nSingle-outlet fan theories: the gym banners skip 1974 and 1976, the years of the novel and the De Palma film; Sue's sister Tabby may be named for Tabitha King; a Robinson mailbox may point to the Hodges books and displaced figurines to Misery; and a They Live alien mask sits on a teacher's desk.",
+    "appearances": [
+      {
+        "work": "carrie",
+        "note": "Piper, Irving and Katt in the supporting cast; the S-Mart; the gym banners; the Snell household."
+      },
+      {
+        "work": "carrie",
+        "episode": "S1E7",
+        "note": "Fuller and Mancini in the prom crowd."
+      },
+      {
+        "work": "carrie",
+        "note": "The De Palma marquee after prom."
+      }
+    ],
+    "confidence": "reported",
+    "sources": [
+      {
+        "label": "Geek Vibes Nation: Carrie season 1 easter eggs",
+        "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/"
+      },
+      {
+        "label": "TV Insider: Carrie small details and easter eggs",
+        "url": "https://www.tvinsider.com/gallery/carrie-mike-flanagan-prime-video-small-details-easter-eggs-found/"
+      },
+      {
+        "label": "Pop Culture Planet: Carrie easter eggs",
+        "url": "https://www.popcultureplanet.com/articles/zw51mwdjt5eg0zhk95asd7w3axerrj"
+      }
+    ],
+    "people": [
+      1524215,
+      1331981
+    ]
+  },
+  {
+    "id": "flanagan-cameos-usher",
+    "title": "Flanagan in Usher",
+    "category": "cameo",
+    "summary": "Screen Rant places Flanagan in two Usher episodes: among Bill-T Wilson's livestream winners and at the 1979 New Year's Eve party.",
+    "description": "Around 43:30 in \"The Black Cat\" he fist-bumps with the contest winners watching Bill-T's stream, and from around 14:26 in \"The Raven\" he is at the 1979 party, first as an extra and later in a bishop costume (timestamps per Screen Rant). Screen Rant is the only source for both.",
+    "appearances": [
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E4",
+        "note": "Among the livestream contest winners, around 43:30 (per Screen Rant)."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "episode": "S1E8",
+        "note": "The New Year's Eve party, from around 14:26, later in a bishop costume (per Screen Rant)."
+      }
+    ],
+    "confidence": "fan-theory",
+    "sources": [
+      {
+        "label": "Screen Rant: Mike Flanagan's cameos",
+        "url": "https://screenrant.com/mike-flanagan-horror-movie-tv-show-cameos/"
+      }
+    ],
+    "people": [
+      551463
+    ]
+  },
+  {
+    "id": "alabama",
+    "title": "Alabama: Hush and The Life of Chuck",
+    "category": "location",
+    "summary": "Hush and The Life of Chuck were both shot in Alabama, eight years apart.",
+    "description": "Hush was blocked out in Flanagan and Kate Siegel's own house, then rewritten when no matching location could be found, and shot in Alabama. The Life of Chuck was shot there in October and November 2023 under a SAG-AFTRA interim agreement during the strike.",
+    "appearances": [
+      {
+        "work": "hush",
+        "note": "Maddie's house."
+      },
+      {
+        "work": "the-life-of-chuck",
+        "note": "The whole film, Oct to Nov 2023."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: Hush",
+        "url": "https://en.wikipedia.org/wiki/Hush_(2016_feature_film)"
+      },
+      {
+        "label": "Wikipedia: The Life of Chuck",
+        "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck"
+      }
+    ],
+    "people": [
+      551463,
+      932076
+    ]
+  },
+  {
+    "id": "vancouver",
+    "title": "Vancouver and Bridge Studios",
+    "category": "location",
+    "summary": "From Bly Manor on, Flanagan's series have been made around Vancouver, with Bly and Usher both at Bridge Studios in Burnaby.",
+    "description": "Bly was shot at Bridge Studios from September 2019 to February 2020. Midnight Mass built its island at Garry Point Park in Richmond, The Midnight Club worked around Burnaby, and Usher returned to Bridge Studios with location work at Holy Rosary Cathedral. Carrie was shot in Vancouver from June to October 2025, with Eric Hamber Secondary as Ewen High and Cloverdale as Chamberlain. Hill House, shot in Georgia, is the only Flanagan Netflix series made elsewhere. No source confirms sets reused between shows.",
+    "appearances": [
+      {
+        "work": "the-haunting-of-bly-manor",
+        "note": "Bridge Studios, Sept 2019 to Feb 2020."
+      },
+      {
+        "work": "midnight-mass",
+        "note": "Garry Point Park, Richmond."
+      },
+      {
+        "work": "the-midnight-club",
+        "note": "Burnaby and Ladner."
+      },
+      {
+        "work": "the-fall-of-the-house-of-usher",
+        "note": "Bridge Studios, a Ladner mansion and Holy Rosary Cathedral."
+      },
+      {
+        "work": "carrie",
+        "note": "Eric Hamber Secondary as Ewen High; Cloverdale as Chamberlain."
+      }
+    ],
+    "confidence": "confirmed",
+    "sources": [
+      {
+        "label": "Wikipedia: The Haunting of Bly Manor",
+        "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor"
+      },
+      {
+        "label": "Hollywood North Buzz: where Usher filmed in Vancouver",
+        "url": "http://hollywoodnorthbuzz.com/2023/10/the-fall-of-the-house-of-usher-on-netflix-where-did-it-film-in-vancouver-2.html"
+      },
+      {
+        "label": "Wikipedia: Carrie (miniseries)",
+        "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)"
+      },
+      {
+        "label": "Elite Daily: where The Midnight Club was filmed",
+        "url": "https://elitedaily.com/lifestyle/where-was-midnight-club-filmed"
+      }
+    ]
+  }
+]
