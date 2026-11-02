@@ -8,8 +8,9 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
-    "fetch": "node scripts/fetch-tmdb.mjs",
-    "check": "tsc --noEmit"
+    "fetch": "node scripts/fetch-tmdb.mjs && node scripts/layout.mjs",
+    "check": "tsc --noEmit",
+    "layout": "node scripts/layout.mjs"
   },
   "devDependencies": {
     "@fontsource-variable/cormorant-garamond": "^5.3.0",

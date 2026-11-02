@@ -497,10 +497,11 @@
   "year": 2013,
   "tier": "core",
   "kind": "feature",
+  "releaseDate": "2013-09-08",
+  "releaseNote": "TIFF premiere; US theatrical release 2014-04-11",
   "tmdbTitle": "Oculus",
   "overview": "A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.",
   "tagline": "You see what it wants you to see.",
-  "releaseDate": "2014-04-03",
   "runtime": 104,
   "genres": [
    "Horror"

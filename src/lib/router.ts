@@ -39,7 +39,7 @@ export function parseHash(hash = location.hash): { path: string; query: URLSearc
 }
 
 export function href(path: string, query?: Record<string, string | number | undefined>): string {
-  const qs = query ? new URLSearchParams(Object.entries(query).filter(([, v]) => v != null && v !== '').map(([k, v]) => [k, String(v)])).toString() : '';
+  const qs = query ? new URLSearchParams(Object.entries(query).filter(([, v]) => v != null && v !== '').map(([k, v]) => [k, String(v)])).toString().replace(/%3A/g, ':') : '';
   return '#' + path + (qs ? '?' + qs : '');
 }
 

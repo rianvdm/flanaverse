@@ -52,7 +52,9 @@
     },
     "year": 2013,
     "tier": "core",
-    "kind": "feature"
+    "kind": "feature",
+    "releaseDate": "2013-09-08",
+    "releaseNote": "TIFF premiere; US theatrical release 2014-04-11"
   },
   {
     "slug": "before-i-wake",

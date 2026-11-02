@@ -37,7 +37,7 @@ export interface Model {
   personSlug: Map<number, string>;
   personBySlug: Map<string, Person>;
   actors: Person[];                           // people with at least one acting credit, by appearance count desc
-  repertory: Person[];                        // actors in 2+ works
+  repertory: Person[];                        // actors in 2+ core works
   edges: Edge[];
   connections: Connection[];
   connectionById: Map<string, Connection>;
@@ -95,6 +95,7 @@ export function buildModel(): Model {
   const works = (worksJson as Work[]).slice().sort((a, b) => a.releaseDate.localeCompare(b.releaseDate));
   const people = new Map<number, Person>(Object.values(peopleJson as Record<string, Person>).map((p) => [p.id, p]));
   const personSlug = buildPersonSlugs(people);
+  const coreSlugs = new Set(works.filter((w) => w.tier === 'core').map((w) => w.slug));
   const actors = [...people.values()]
     .filter((p) => p.appearances.some(isActing))
     .sort((a, b) => b.appearances.filter(isActing).length - a.appearances.filter(isActing).length || a.name.localeCompare(b.name));
@@ -115,7 +116,7 @@ export function buildModel(): Model {
     personSlug,
     personBySlug: new Map([...personSlug].map(([id, slug]) => [slug, people.get(id)!])),
     actors,
-    repertory: actors.filter((p) => p.appearances.filter(isActing).length >= 2),
+    repertory: actors.filter((p) => p.appearances.filter((a) => isActing(a) && coreSlugs.has(a.work)).length >= 2),
     edges: buildEdges(works, people),
     connections,
     connectionById: new Map(connections.map((c) => [c.id, c])),

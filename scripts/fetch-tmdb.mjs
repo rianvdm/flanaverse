@@ -130,7 +130,7 @@ async function buildMovie(work) {
     tmdbTitle: m.title,
     overview: m.overview,
     tagline: m.tagline || null,
-    releaseDate: m.release_date,
+    releaseDate: work.releaseDate ?? m.release_date,   // curated override (festival premiere vs TMDB's US release)
     runtime: m.runtime,
     genres: m.genres.map((g) => g.name),
     certification: cert,
@@ -197,7 +197,7 @@ async function buildTv(work) {
     tmdbTitle: t.name,
     overview: t.overview,
     tagline: t.tagline || null,
-    releaseDate: t.first_air_date,
+    releaseDate: work.releaseDate ?? t.first_air_date,
     runtime: t.episode_run_time?.[0] ?? null,
     episodeCount: t.number_of_episodes,
     genres: t.genres.map((g) => g.name),

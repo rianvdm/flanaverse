@@ -1,0 +1,162 @@
+/* #/: masthead + the Timeline Map. */
+
+.home { padding: var(--s-4) var(--gutter) var(--s-7); }
+
+/* ---------- Masthead: compact; the map is the point ---------- */
+.home-mast {
+  display: grid; gap: var(--s-4);
+  grid-template-columns: minmax(0, 1fr);
+  padding: var(--s-4) 0 var(--s-5);
+}
+.home-mast .bleed__img { inset: calc(var(--s-4) * -1) calc(var(--gutter) * -1) 0; }
+.home-mast__title { font-size: clamp(var(--text-3xl), 6vw, var(--text-4xl)); font-weight: 500; }
+.home-mast__sub { margin: var(--s-2) 0 var(--s-3); max-width: 46ch; color: var(--ash); font-size: var(--text-lg); line-height: 1.4; }
+.home-mast__row { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2) var(--s-4); }
+.home-mast__counts { margin: 0; font-size: var(--text-sm); color: var(--ash); letter-spacing: 0.02em; }
+.home-mast__search { color: var(--ash); }
+.home-mast__search kbd { font-family: var(--font-ui); font-size: var(--text-xs); padding: 0 5px; border: 1px solid var(--hairline); border-radius: var(--r-sm); color: var(--dust); }
+.home-mast__lens { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.5; }
+
+.home-cards { display: grid; gap: var(--s-2); grid-template-columns: minmax(0, 1fr); align-content: end; }
+.home-card {
+  display: grid; gap: 2px;
+  padding: var(--s-2) var(--s-3);
+  border: 1px solid var(--hairline); border-radius: var(--r-sm);
+  background: var(--ink-80);
+  color: var(--bone);
+  font-family: var(--font-ui);
+  transition: border-color var(--dur) var(--ease), background var(--dur) var(--ease);
+}
+.home-card:hover { border-color: var(--brass); background: var(--night); color: var(--bone); }
+.home-card__title { display: inline-flex; align-items: center; gap: var(--s-2); font-size: var(--text-sm); font-weight: 500; }
+.home-card__text { font-size: var(--text-xs); color: var(--ash); }
+
+@media (min-width: 768px) {
+  .home-mast { grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: var(--s-6); }
+  .home-cards { grid-template-columns: repeat(3, minmax(0, 13rem)); }
+}
+
+/* ---------- Map chrome ---------- */
+.home-map__bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s-2) var(--s-4); margin-bottom: var(--s-2); }
+.home-map__hint { margin: 0; font-size: var(--text-xs); color: var(--ash); }
+.home-map__tools { display: flex; gap: var(--s-2); }
+.home-map__tools .btn { font-size: var(--text-xs); padding: var(--s-1) var(--s-3); }
+.home-map__objects .glyph { width: 10px; height: 10px; }
+
+.home-map__frame {
+  position: relative; isolation: isolate; overflow: hidden;
+  height: 70vh; min-height: 420px;
+  border-top: 1px solid var(--hairline); border-bottom: 1px solid var(--hairline);
+  background: var(--ink);
+}
+.map { display: block; width: 100%; height: 100%; cursor: grab; touch-action: none; user-select: none; -webkit-user-select: none; }
+.map:active { cursor: grabbing; }
+
+/* Candle-light pool: a soft glow following the pointer (fine pointers, motion allowed) */
+.home-map__candle {
+  position: absolute; inset: 0; pointer-events: none; opacity: 0;
+  background: radial-gradient(circle 260px at var(--mx, 50%) var(--my, 50%), color-mix(in srgb, var(--candle) 6%, transparent), transparent 70%);
+  transition: opacity 400ms var(--ease);
+}
+.home-map__frame.has-candle:hover .home-map__candle { opacity: 1; }
+
+.home-map__tip {
+  position: absolute; left: 0; top: 0; z-index: 2; max-width: 260px;
+  display: grid; gap: 2px;
+  padding: var(--s-2) var(--s-3);
+  background: var(--night); border: 1px solid var(--hairline); border-radius: var(--r-sm);
+  font-size: var(--text-xs); color: var(--ash); pointer-events: none;
+}
+.home-map__tip strong { color: var(--bone); font-weight: 500; font-size: var(--text-sm); }
+.home-map__tip-kind { display: inline-flex; align-items: center; gap: 4px; text-transform: uppercase; letter-spacing: 0.1em; font-size: 10px; }
+
+/* ---------- SVG: eras, axis, edges ---------- */
+.map { --ls: 1; }
+.map-era { fill: var(--bone); }
+.map-era--a { opacity: 0.025; }
+.map-era--b { opacity: 0; }
+.map-era__name {
+  font-family: var(--font-ui); font-stretch: 85%;
+  font-size: calc(10px * var(--ls)); letter-spacing: 0.14em; text-transform: uppercase;
+  fill: var(--dust); dominant-baseline: hanging;
+}
+.map-axis { stroke: var(--hairline); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-tick { stroke: var(--hairline); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-year { font-family: var(--font-ui); font-size: calc(9px * var(--ls)); fill: var(--dust); font-variant-numeric: tabular-nums; }
+
+.map-edge { stroke: var(--brass); stroke-opacity: 0.16; stroke-width: 0.75; vector-effect: non-scaling-stroke; transition: stroke-opacity var(--dur) var(--ease); }
+.map.has-focus .map-edge { stroke-opacity: 0.03; }
+.map.has-focus .map-edge.is-lit { stroke: var(--candle); stroke-opacity: 0.55; stroke-width: 1; }
+
+.map-threadline { fill: none; stroke: var(--candle); stroke-width: 2; stroke-linecap: round; vector-effect: non-scaling-stroke; opacity: 0.9; }
+
+.map-stem line { stroke: var(--brass-40); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-stem circle { fill: var(--brass); }
+
+/* ---------- Nodes ---------- */
+.map-node { cursor: pointer; transition: opacity var(--dur) var(--ease); outline: none; }
+.map.has-focus .map-node:not(.is-lit),
+.map.has-focus .map-stem:not(.is-lit),
+.map.has-focus .map-label:not(.is-lit) { opacity: 0.15; }
+
+.map-poster__bg { fill: var(--vault); }
+.map-node--work .map-ring { fill: none; stroke: var(--brass-40); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.map-node--work:hover .map-ring, .map-node--work.is-lit .map-ring { stroke: var(--brass); }
+.map-node--work.is-selected .map-ring, .map-node--work:focus-visible .map-ring { stroke: var(--candle); stroke-width: 2; }
+
+.map-person__bg { fill: var(--vault); }
+.map-node--person image { filter: grayscale(0.35); }
+.map-node--person.is-lit image, .map-node--person:hover image { filter: none; }
+.map-node--person .map-ring { fill: none; stroke: var(--bone-10); stroke-width: 1.5; vector-effect: non-scaling-stroke; }
+.map-node--person:hover .map-ring, .map-node--person.is-lit .map-ring { stroke: var(--bone); }
+.map-node--person.is-selected .map-ring, .map-node--person:focus-visible .map-ring { stroke: var(--candle); stroke-width: 2; }
+.map-initials { font-family: var(--font-display); fill: var(--ash); }
+
+.map-marker path { stroke: var(--ink); stroke-width: 0.6; }
+.map-marker--prop path { fill: var(--verdigris); }
+.map-marker--egg path { fill: var(--sanguine); }
+.map-marker__hit { fill: transparent; }
+.map-marker:focus-visible path, .map-marker:hover path { stroke: var(--candle); stroke-width: 1; }
+
+/* ---------- Labels ---------- */
+.map-label {
+  font-family: var(--font-ui); font-stretch: 85%;
+  font-size: calc(11px * var(--ls));
+  fill: var(--ash);
+  paint-order: stroke; stroke: var(--ink); stroke-width: calc(3px * var(--ls)); stroke-linejoin: round;
+  text-anchor: middle; pointer-events: none;
+  transition: opacity var(--dur) var(--ease);
+}
+.map-label--work { fill: var(--bone); font-weight: 500; }
+.map-label.is-lit { fill: var(--candle); }
+/* Hover-only labels appear when lit; any actor label without a clear spot stays hidden (see placeLabels). */
+.map-label--hover, .map-label.is-crowded { visibility: hidden; }
+.map-label--hover.is-lit:not(.is-crowded) { visibility: visible; }
+
+/* ---------- List view (keyboard and screen-reader fallback) ---------- */
+.home-list { margin-top: var(--s-3); font-size: var(--text-sm); }
+.home-list summary { cursor: pointer; color: var(--ash); font-size: var(--text-xs); width: max-content; max-width: 100%; }
+.home-list summary:hover { color: var(--candle); }
+.home-list__cols { display: grid; gap: var(--s-5); margin-top: var(--s-4); grid-template-columns: minmax(0, 1fr); }
+.home-list h2 { margin-bottom: var(--s-2); }
+.home-list li { padding: 2px 0; }
+@media (min-width: 768px) { .home-list__cols { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); } .home-list__cols section + section ul { columns: 2; } }
+
+/* ---------- Peek body bits rendered by this view ---------- */
+.home-roles { display: grid; gap: var(--s-2); margin-top: var(--s-2); font-family: var(--font-ui); }
+.home-roles li { line-height: 1.4; }
+.home-roles__who { color: var(--bone); }
+
+/* ---------- Small screens ---------- */
+@media (max-width: 767.98px) {
+  .home { padding-top: var(--s-2); }
+  .home-mast { padding-bottom: var(--s-3); }
+  .home-mast { gap: var(--s-3); }
+  .home-mast__sub { font-size: var(--text-md); margin-bottom: var(--s-2); }
+  .home-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .home-card { padding: var(--s-2); justify-items: center; }
+  .home-card__title { font-size: var(--text-xs); gap: var(--s-1); white-space: nowrap; }
+  .home-card__text { display: none; }
+  .home-map__frame { height: 62vh; min-height: 340px; margin: 0 calc(var(--gutter) * -1); border-left: 0; border-right: 0; }
+  .home-map__hint { flex-basis: 100%; }
+}
