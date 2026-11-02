@@ -1,0 +1,76 @@
+/* Connection finder (#/connect/:a/:b): two pickers and a chain of
+   headshot → poster → headshot, joined by thin brass connectors. */
+.cn-head { margin-bottom: var(--s-5); }
+.cn-head h1 { margin-top: var(--s-1); }
+
+.cn-form { align-items: flex-end; gap: var(--s-3); margin-bottom: var(--s-6); }
+.cn-picker { flex-direction: column; align-items: stretch !important; gap: var(--s-1) !important; flex: 1 1 240px; max-width: 340px; }
+.cn-picker select { width: 100%; padding: var(--s-2) var(--s-3); font-size: var(--text-md); color: var(--bone); }
+.cn-picker select:hover { border-color: var(--brass-40); }
+.cn-picker select:focus-visible { outline: 2px solid var(--candle); outline-offset: 1px; }
+.cn-swap, .cn-surprise { height: 40px; }
+.cn-swap span[aria-hidden] { font-size: var(--text-lg); line-height: 1; }
+
+.cn-verdict { font-size: var(--text-lg); max-width: 68ch; margin-bottom: var(--s-5); }
+.cn-verdict strong { font-weight: 600; color: var(--bone); }
+.cn-verdict--near { color: var(--ash); }
+.cn-verdict--no { color: var(--ash); padding: var(--s-3) var(--s-4); border: 1px dashed var(--hairline); border-radius: var(--r-sm); display: inline-block; }
+
+/* The chain */
+.cn-chain { display: flex; align-items: center; gap: var(--s-6); padding: var(--s-4) 0 var(--s-5); }
+.cn-step { position: relative; flex: none; display: flex; justify-content: center; }
+.cn-step + .cn-step::before {
+  content: ''; position: absolute; top: 50%; right: 100%; width: var(--s-6); height: 0;
+  border-top: 1px solid var(--brass-40);
+}
+.cn-step--works:has(.cn-works--many) { flex: 1 1 auto; min-width: 0; }
+
+.cn-node { display: flex; flex-direction: column; align-items: center; gap: var(--s-2); width: 120px; text-align: center; color: var(--bone); }
+.cn-node__name { font-family: var(--font-ui); font-size: var(--text-sm); line-height: 1.25; }
+.cn-node:hover .cn-node__name { color: var(--candle); }
+.cn-node__meta { font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); }
+
+.cn-works { display: flex; justify-content: center; }
+.cn-works--many { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: var(--s-5) var(--s-4); width: 100%; padding: var(--s-4); border: 1px solid var(--hairline); border-radius: var(--r-sm); background: var(--night); }
+
+.cn-work { display: flex; flex-direction: column; align-items: center; gap: var(--s-2); width: 160px; text-align: center; }
+.cn-works--many .cn-work { width: auto; }
+.cn-work__poster { display: flex; flex-direction: column; align-items: center; gap: 2px; color: var(--bone); font-family: var(--font-ui); }
+.cn-work__poster img, .cn-work__empty { width: 84px; height: 126px; object-fit: cover; border: 1px solid var(--brass-40); background: var(--vault); margin-bottom: var(--s-1); transition: border-color var(--dur) var(--ease); }
+.cn-work__empty { display: flex; align-items: center; justify-content: center; padding: var(--s-2); font-size: var(--text-xs); color: var(--ash); }
+.cn-work__poster:hover img { border-color: var(--candle); }
+.cn-work__title { font-size: var(--text-sm); line-height: 1.25; }
+.cn-work__poster:hover .cn-work__title { color: var(--candle); }
+.cn-work__year { font-size: var(--text-xs); color: var(--dust); }
+.cn-work__roles { display: flex; flex-direction: column; gap: 2px; font-family: var(--font-ui); font-size: var(--text-xs); line-height: 1.35; color: var(--ash); }
+
+/* Work ↔ work */
+.cn-pair { display: flex; align-items: flex-start; justify-content: flex-start; gap: var(--s-4); margin-bottom: var(--s-5); }
+.cn-pair__link { position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center; align-self: flex-start; height: 126px; min-width: 120px; font-family: var(--font-ui); font-size: var(--text-xs); color: var(--ash); }
+.cn-pair__link::before { content: ''; position: absolute; left: 0; right: 0; top: 50%; border-top: 1px solid var(--brass-40); z-index: -1; }
+.cn-pair__link .num { font-family: var(--font-display); font-size: var(--text-3xl); line-height: 1; color: var(--candle); background: var(--ink); padding: 0 var(--s-2); }
+.cn-pair__link span:last-child { background: var(--ink); padding: 0 var(--s-2); }
+.cn-pair { isolation: isolate; }
+
+.cn-more { margin-top: var(--s-5); }
+.cn-more__head { font-family: var(--font-ui); font-size: var(--text-xs); font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ash); margin-bottom: var(--s-3); line-height: 1.4; }
+
+.cn-empty p { margin-bottom: var(--s-3); }
+.cn-suggest { display: flex; flex-wrap: wrap; gap: var(--s-2); font-family: var(--font-ui); font-size: var(--text-sm); }
+.cn-suggest a { display: inline-block; padding: var(--s-2) var(--s-3); border: 1px solid var(--hairline); border-radius: var(--r-sm); background: var(--night); }
+.cn-suggest a:hover { border-color: var(--brass); }
+
+/* Phones and narrow panes: the chain runs top to bottom */
+@media (max-width: 699.98px) {
+  .cn-picker { max-width: none; flex-basis: 100%; }
+  .cn-swap__label { display: none; }
+  .cn-form .cn-swap { order: 0; }
+  .cn-chain { flex-direction: column; gap: var(--s-5); }
+  .cn-step + .cn-step::before { top: auto; bottom: 100%; right: auto; left: 50%; width: 0; height: var(--s-5); border-top: 0; border-left: 1px solid var(--brass-40); }
+  .cn-step--works:has(.cn-works--many) { width: 100%; }
+  .cn-works--many { grid-template-columns: repeat(2, 1fr); padding: var(--s-3); gap: var(--s-4) var(--s-3); }
+  .cn-pair { gap: var(--s-2); }
+  .cn-pair .cn-work { width: 110px; }
+  .cn-pair__link { min-width: 0; flex: 1; }
+  .cn-verdict { font-size: var(--text-md); }
+}
