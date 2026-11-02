@@ -1,0 +1,18 @@
+{
+  // Assets-only Worker: no `main`, so Cloudflare serves `dist/` directly and no
+  // Worker code runs. Same pattern as whatevenis.elezea.com.
+  "name": "flanaverse",
+  "account_id": "db8ef1f4b492e4727e7fab0e12907871",
+  "compatibility_date": "2026-11-02",
+  // Custom domain on the elezea.com zone. The first deploy creates the DNS
+  // record and certificate. workers.dev stays on as a WAF-free check host.
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "flanaverse.elezea.com", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

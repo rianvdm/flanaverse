@@ -11,6 +11,15 @@ npm run dev          # http://localhost:5173
 
 For a static build: `npm run build && npm run preview`. Everything is static; no server beyond Vite's.
 
+## Deploy
+
+The site is published at https://flanaverse.elezea.com as an assets-only Cloudflare Worker (`wrangler.jsonc`, Elezea account, custom domain on the elezea.com zone). The workers.dev host stays on as a check URL because the zone's WAF blocks non-browser clients on custom domains.
+
+```sh
+npm run deploy       # build, then wrangler deploy
+npm run og           # re-render public/og.png from og/og.html (needs npm run dev on :5173)
+```
+
 ## Refresh the data
 
 Film data and images come from [TMDB](https://www.themoviedb.org/). TMDB's licence is non-commercial and asks that cached data be refreshed within six months.
