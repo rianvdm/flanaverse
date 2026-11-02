@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "stephen-king",
+    "name": "Stephen King",
+    "blurb": "Stephen King is the author Flanagan returns to most, and his loudest backer: King called the rough cut of Gerald's Game, a book long thought unfilmable, “hypnotic, horrifying and terrific.” Doctor Sleep then reconciled King's novel with Kubrick's The Shining, The Life of Chuck kept a novella's backward structure intact, and Carrie brought King on as an executive producer. Flanagan holds the TV rights to The Dark Tower, says King is “very happy” with the season 1 scripts, and plants Dark Tower markers in every King project. A new film of The Mist is in development at Warner Bros.",
+    "works": [
+      { "work": "geralds-game", "title": "Gerald's Game (1992 novel)", "note": "A close adaptation that keeps the 1963 eclipse backstory and the Moonlight Man reveal." },
+      { "work": "doctor-sleep", "title": "Doctor Sleep (2013 novel), with The Shining", "note": "Reconciles the novel with Kubrick's film and gives Dan the boiler ending King wrote for Jack." },
+      { "work": "the-life-of-chuck", "title": "“The Life of Chuck,” novella in If It Bleeds (2020)", "note": "Keeps the novella's reverse three-act structure." },
+      { "work": "carrie", "title": "Carrie (1974 novel)", "note": "The fourth screen version, modernised, with the novel's document style used to hint at other telekinetic women." }
+    ]
+  },
+  {
+    "id": "edgar-allan-poe",
+    "name": "Edgar Allan Poe",
+    "blurb": "Flanagan's Poe is a mash-up more than an adaptation. The Fall of the House of Usher uses Poe's story as its frame and builds each episode around another tale, with every episode titled after a Poe work or line, starting with “A Midnight Dreary” from the first line of “The Raven.” Character names come from across Poe's writing, from Dupin and Arthur Pym to Verna, an anagram of “raven,” plus real figures from his life such as his rival Rufus Griswold and his mother, Eliza. Even the house numbers on set are Poe years.",
+    "works": [
+      { "work": "the-fall-of-the-house-of-usher", "title": "“The Fall of the House of Usher,” with “The Masque of the Red Death,” “The Murders in the Rue Morgue,” “The Black Cat,” “The Tell-Tale Heart,” “The Gold-Bug,” “The Pit and the Pendulum” and “The Raven”", "note": "One tale per episode, each shaping the death of an Usher heir." }
+    ]
+  },
+  {
+    "id": "shirley-jackson",
+    "name": "Shirley Jackson",
+    "blurb": "Flanagan kept Shirley Jackson's names and her best sentences, and replaced almost everything else. His Haunting of Hill House turns her four investigators into the Crain family, split across two timelines, yet by the tenth episode characters are quoting entire paragraphs of the novel, and the finale turns Jackson's “whatever walked there, walked alone” into “those who walk there, walk together.” Shirley Crain is named after Jackson herself, and the last episode takes its title, “Silence Lay Steadily,” from the novel's opening paragraph.",
+    "works": [
+      { "work": "the-haunting-of-hill-house", "title": "The Haunting of Hill House (1959 novel)", "note": "Very loose: names, lines and the famous opening come from the novel; the family drama is Flanagan's." }
+    ]
+  },
+  {
+    "id": "henry-james",
+    "name": "Henry James",
+    "blurb": "The Haunting of Bly Manor starts from The Turn of the Screw, James's 1898 novella about a governess, two orphaned children and the ghosts of a valet and a former governess, filtered through the 1961 film The Innocents. Flanagan's writers then folded in a shelf of other James ghost stories: every episode takes a James title, “The Romance of Certain Old Clothes” supplies Viola's story almost directly, “The Jolly Corner” gives Henry Wingrave a guilty double, and “Sir Edmund Orme” and “Owen Wingrave” lend Dani's dead fiancé and the family name.",
+    "works": [
+      { "work": "the-haunting-of-bly-manor", "title": "The Turn of the Screw (1898), with “The Romance of Certain Old Clothes,” “The Jolly Corner,” “The Altar of the Dead,” “The Beast in the Jungle,” “The Way It Came,” “The Great Good Place,” “The Pupil,” “The Two Faces,” “Sir Edmund Orme” and “Owen Wingrave”", "note": "Loose: the governess, children and ghosts come from the novella; the Lady in the Lake and the love story are new." }
+    ]
+  },
+  {
+    "id": "christopher-pike",
+    "name": "Christopher Pike",
+    "blurb": "Christopher Pike's young-adult horror novels are the raw material for The Midnight Club, and Flanagan treated the whole bibliography as a library. The 1994 novel The Midnight Club gives the series its hospice frame, while the stories the teenagers tell adapt other Pike books; Flanagan put the total at 28. Episode titles such as “The Wicked Heart,” “Gimme a Kiss” and “Road to Nowhere” are Pike titles, and Pike was an executive producer. A second season would have adapted Remember Me, and a Flanagan film of Pike's The Season of Passage, announced in 2021, has gone quiet.",
+    "works": [
+      { "work": "the-midnight-club", "title": "The Midnight Club (1994), plus The Wicked Heart, Gimme a Kiss, See You Later, Witch, Road to Nowhere, The Eternal Enemy and other Pike novels", "note": "The novel supplies the frame; the nightly stories adapt other Pike books." }
+    ]
+  }
+]

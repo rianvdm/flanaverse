@@ -1,1 +1,550 @@
-[]
+[
+  {
+    "id": 551463,
+    "profile": "Mike Flanagan made three student features before Absentia, a $70,000 Kickstarter film, started his career in 2011. Oculus brought him to producer Trevor Macy, Hill House made him a showrunner, and he has since built the Netflix and Amazon series around a company of actors and crew he hires again and again. He edits much of his own work, turns up in small cameos, including the young priest in Midnight Mass and a mourner in The Life of Chuck, and in 2024 founded Red Room Pictures, a name that recalls Hill House's Red Room.",
+    "funFact": "On the repertory: “One of the reasons I work with the same actors again and again and again is because I don't have to be scared of them.”",
+    "sources": [
+      { "label": "Wikipedia: Mike Flanagan", "url": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)" },
+      { "label": "Creepy Catalog", "url": "https://creepycatalog.com/mike-flanagan-says-he-casts-the-same-actors-over-and-over-for-an-extremely-relatable-reason/" }
+    ]
+  },
+  {
+    "id": 932076,
+    "profile": "Kate Siegel met Flanagan at an audition for a film that never got made; he asked for one more take, “just for you,” and she says her acting changed forever that day. He cast her as Marisol Chavez, the mirror's victim in Oculus, married her in 2016 and co-wrote Hush with her, and she has been in nearly everything since: Theo Crain in Hill House, Viola Willoughby in Bly Manor, Erin Greene in Midnight Mass, Camille L'Espanaye in Usher and Adelaide in Carrie. She has moved behind the camera too, directing the Flanagan-written “Stowaway” segment of V/H/S/Beyond and the third episode of Carrie.",
+    "firstWorkedWith": "oculus",
+    "funFact": "Their daughter Theodora is named after Siegel's Hill House character, Theo Crain.",
+    "sources": [
+      { "label": "Collider", "url": "https://collider.com/midnight-mass-mike-flanagan-kate-siegel-interview/" },
+      { "label": "Wikipedia: Kate Siegel", "url": "https://en.wikipedia.org/wiki/Kate_Siegel" },
+      { "label": "Yahoo", "url": "https://ca.news.yahoo.com/horror-mavens-muse-kate-siegel-154010852.html" }
+    ]
+  },
+  {
+    "id": 17832,
+    "profile": "Carla Gugino arrived handcuffed to a bed: her first Flanagan role was Jessie Burlingame, alone on screen for most of Gerald's Game. She went on to play Olivia Crain in Hill House, the Storyteller who turns out to be the older Jamie in Bly Manor, the unseen judge in Midnight Mass and Verna in Usher, a character who takes a different form in every episode. She says he keeps bringing her parts “that terrify me,” and that she feels “really taken care of in the edit.”",
+    "firstWorkedWith": "geralds-game",
+    "funFact": "Consequence named her its 2023 TV Performer of the Year for Verna.",
+    "sources": [
+      { "label": "AwardsDaily", "url": "https://www.awardsdaily.com/2024/06/03/the-fall-of-the-house-of-usher-star-carla-gugino-thrives-on-flanagan-collaboration-roles-that-scare-her-as-an-actor" },
+      { "label": "Consequence", "url": "https://consequence.net/2023/12/carla-gugino-tv-performer-of-the-year/2" },
+      { "label": "Wikipedia: Bly Manor", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor" }
+    ]
+  },
+  {
+    "id": 9976,
+    "profile": "The boy from E.T. has been a Flanagan regular since Ouija: Origin of Evil, where he played Father Tom. Since then Henry Thomas has been Jessie's father in Gerald's Game, young Hugh Crain in Hill House, the Overlook bartender wearing Jack Torrance's face in Doctor Sleep, Henry Wingrave in Bly Manor, Ed Flynn in Midnight Mass and Frederick Usher in Usher, a long run of fathers who fail or are tested. He credits his horror second act “entirely” to Flanagan and says the work has “a repertory feel.”",
+    "firstWorkedWith": "ouija-origin-of-evil",
+    "funFact": "When a new script lands, he says, the cast fancast each other: “Oh, he's gonna hire Trucco for that one.”",
+    "sources": [
+      { "label": "SlashFilm", "url": "https://www.slashfilm.com/910307/henry-thomas-on-crawlspace-e-t-at-40-his-collaborations-with-mike-flanagan-more-interview" },
+      { "label": "Popverse", "url": "https://www.thepopverse.com/tv-movies-mike-flanagan-haunting-of-hill-house-midnight-mass-doctor-sleep-cast-henry-thomas-rose-city-comic-con-2025" }
+    ]
+  },
+  {
+    "id": 1416505,
+    "profile": "Flanagan announced Rahul Kohli on Twitter in 2019 as “the remarkably charming RAHUL KOHLI,” cast as Owen Sharma, the cook in Bly Manor. During that shoot Flanagan pitched him Midnight Mass in person and offered him Sheriff Hassan. Kohli has since played Vincent in one of The Midnight Club's stories, Napoleon “Leo” Usher in Usher, Bri in The Life of Chuck and Seth Peist in Carrie, and he is in The Exorcist: Martyrs.",
+    "firstWorkedWith": "the-haunting-of-bly-manor",
+    "funFact": "Flanagan has called him “one of my favorite actors (and favorite people).”",
+    "sources": [
+      { "label": "TV Guide", "url": "https://www.tvguide.com/news/izombie-rahul-kohli-the-haunting-of-bly-manor-netflix" },
+      { "label": "Inverse", "url": "https://inverse.com/entertainment/rahul-kohli-midnight-mass-sheriff" },
+      { "label": "Fangoria", "url": "https://www.fangoria.com/the-familiar-faces-of-fright-in-mike-flanagans-horror-universe/" }
+    ]
+  },
+  {
+    "id": 1331981,
+    "profile": "Samantha Sloyan's first Flanagan role was Sarah Greene, the friend killed early in Hush. She became Leigh Crain in Hill House, the zealot Bev Keane in Midnight Mass, Shasta in The Midnight Club, Tamerlane Usher in Usher and Miss Rohrbacher in The Life of Chuck. Flanagan wrote Margaret White in Carrie for her, and at Beyond Fest 2026 called it the best work he had ever seen from her.",
+    "firstWorkedWith": "hush",
+    "funFact": "She worried Margaret would repeat Bev Keane; Flanagan's answer was that Margaret's love for Carrie would set them apart.",
+    "sources": [
+      { "label": "Wikipedia: Samantha Sloyan", "url": "https://en.wikipedia.org/wiki/Samantha_Sloyan" },
+      { "label": "TVLine", "url": "https://www.tvline.com/2278942/margaret-white-carrie-actress-samantha-sloyan/" }
+    ]
+  },
+  {
+    "id": 70303,
+    "profile": "The Friday Night Lights actor joined the company at the top, as Riley Flynn, the paroled drunk driver at the center of Midnight Mass. Zach Gilford then played Mark, the nurse at Brightcliffe in The Midnight Club, and the 1979 Roderick Usher in Usher, the younger self of Bruce Greenwood's character. Flanagan has called Riley his “most thinly veiled avatar,” so Gilford has, in a sense, played Flanagan.",
+    "firstWorkedWith": "midnight-mass",
+    "funFact": "His then-wife Kiele Sanchez was a staff writer on Usher and co-wrote its finale, “The Raven.”",
+    "sources": [
+      { "label": "Wikipedia: Midnight Mass", "url": "https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)" },
+      { "label": "Wikipedia: Zach Gilford", "url": "https://en.wikipedia.org/wiki/Zach_Gilford" }
+    ]
+  },
+  {
+    "id": 49425,
+    "profile": "Annabeth Gish's first Flanagan film was Before I Wake, as Natalie. She returned as the housekeeper Mrs. Dudley in Hill House, Dr. Sarah Gunning in Midnight Mass and Roderick's mother, Eliza, in Usher. Doing Midnight Mass press, she pointed out that it was her third project with him and called him “a really magnificent writer.”",
+    "firstWorkedWith": "before-i-wake",
+    "sources": [
+      { "label": "ComicBook.com", "url": "https://comicbook.com/news/midnight-mass-annabeth-gish-kristin-lehman-mike-flanagan" },
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/49425-annabeth-gish" }
+    ]
+  },
+  {
+    "id": 148112,
+    "profile": "Kristin Lehman came into the company with Midnight Mass, as Annie Flynn, Riley's mother. Before signing on she looked into “who his repertory company is,” and afterward said “you just know when you've found your tribe.” She returned for a single scene in Carrie, credited as a regretful parent.",
+    "firstWorkedWith": "midnight-mass",
+    "sources": [
+      { "label": "ComicBook.com", "url": "https://comicbook.com/news/midnight-mass-annabeth-gish-kristin-lehman-mike-flanagan" },
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/148112-kristin-lehman" }
+    ]
+  },
+  {
+    "id": 109325,
+    "profile": "T'Nia Miller was the first of Bly Manor's new faces to be announced, cast as Hannah Grose, the housekeeper at the center of “The Altar of the Dead.” She returned in Usher as Victorine LaFourcade, the surgeon daughter whose experimental heart device drives “The Tell-Tale Heart.”",
+    "firstWorkedWith": "the-haunting-of-bly-manor",
+    "sources": [
+      { "label": "Bloody Disgusting", "url": "https://bloody-disgusting.com/tv/3581446/actress-tnia-miller-new-faces-join-mike-flanagans-haunting-bly-manor/" },
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" }
+    ]
+  },
+  {
+    "id": 21089,
+    "profile": "Bruce Greenwood played the title role in Gerald's Game, the husband whose death leaves Jessie chained to the bed, then Dr. John Dalton in Doctor Sleep. He also haunts Hill House, uncredited, as a ghost in Olivia and Hugh's room in episode 5, a nod to his Gerald's Game co-star, Carla Gugino. When Frank Langella was fired from Usher mid-shoot, Flanagan brought in “my dear friend, the brilliant Bruce Greenwood,” and almost all of Roderick Usher's scenes were reshot.",
+    "firstWorkedWith": "geralds-game",
+    "funFact": "Kate Siegel on his arrival at Usher: “palpable relief from everybody... It's amazing what he did.”",
+    "sources": [
+      { "label": "PopCulture.com", "url": "https://popculture.com/2018/10/27/the-haunting-of-hill-house-surprising-easter-egg-fans-missed-bruce-greenwood/" },
+      { "label": "AV Club", "url": "https://www.avclub.com/bruce-greenwood-replace-frank-langella-usher-flanagan-n-1848861359" },
+      { "label": "Yahoo", "url": "https://www.yahoo.com/news/fall-house-usher-star-recasting-183100530.html" }
+    ]
+  },
+  {
+    "id": 29382,
+    "profile": "Carl Lumbly took over Scatman Crothers's Dick Hallorann in Doctor Sleep, cast to evoke the original rather than imitate it. He returned as C. Auguste Dupin, the prosecutor who hears Roderick's confession in Usher, then as Sam Yarbrough in The Life of Chuck, and he is in The Exorcist: Martyrs.",
+    "firstWorkedWith": "doctor-sleep",
+    "funFact": "Usher splits Dupin across two actors: Malcolm Goodwin in 1979 and Lumbly in the present.",
+    "sources": [
+      { "label": "Wikipedia: Doctor Sleep", "url": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)" },
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" }
+    ]
+  },
+  {
+    "id": 184581,
+    "profile": "Hamish Linklater plays a dual role in Midnight Mass: Father Paul Hill and the elderly Monsignor Pruitt he used to be. He auditioned with the first three scripts plus nine pages of monologues, and took Raúl Juliá in Romero as his model. He has since been a hidden voice in The Midnight Club and a voice in The Life of Chuck, and he is in The Exorcist: Martyrs.",
+    "firstWorkedWith": "midnight-mass",
+    "funFact": "On his Midnight Club voice cameo, Flanagan said: “If you can find Hamish, I think that's a real Easter egg hunt victory.”",
+    "sources": [
+      { "label": "Wikipedia: Midnight Mass", "url": "https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)" },
+      { "label": "TVLine", "url": "https://www.tvline.com/interviews/midnight-club-finale-recap-mike-flanagan-season-2-spoilers-1234885272/" }
+    ]
+  },
+  {
+    "id": 83456,
+    "profile": "Michael Trucco's first Flanagan role was John, the neighbor killed early in Hush. He became a fixture after that: Wade Scarborough in Midnight Mass, Frederick in one of The Midnight Club's stories, Rufus Griswold in Usher, Dylan's dad in The Life of Chuck and John Hargensen in Carrie.",
+    "firstWorkedWith": "hush",
+    "funFact": "Henry Thomas's line about the cast's fancasting game is about him: “Oh, he's gonna hire Trucco for that one.”",
+    "sources": [
+      { "label": "Popverse", "url": "https://www.thepopverse.com/tv-movies-mike-flanagan-haunting-of-hill-house-midnight-mass-doctor-sleep-cast-henry-thomas-rose-city-comic-con-2025" },
+      { "label": "Screen Rant", "url": "https://screenrant.com/carrie-tv-show-cast-mike-flanagan-returning-actors/" },
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" }
+    ]
+  },
+  {
+    "id": 79416,
+    "profile": "Robert Longstreet entered the Flanaverse as Mr. Dudley, the Hill House caretaker, and played Barry the Chunk of the True Knot in Doctor Sleep a year later. Midnight Mass cast Longstreet as Joe Collie, the island drunk, and the run continued with the janitor in The Midnight Club, William Longfellow in Usher and a part in The Exorcist: Martyrs.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "funFact": "Mr. Dudley's on-screen wife, the housekeeper, is played by Annabeth Gish, another Flanagan regular.",
+    "sources": [
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/79416-robert-longstreet" },
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" }
+    ]
+  },
+  {
+    "id": 588335,
+    "profile": "Matt Biedel arrived with Midnight Mass as Sturge, one of the islanders. Biedel has worked on nearly every Flanagan project since: Tim in The Midnight Club, William “Bill-T” Wilson in Usher, Doctor Winston in The Life of Chuck, a voice role in Carrie and a part in The Exorcist: Martyrs.",
+    "firstWorkedWith": "midnight-mass",
+    "funFact": "Biedel was reportedly attached, with Zach Gilford and Samantha Sloyan, to Flanagan's stalled Christopher Pike film The Season of Passage.",
+    "sources": [
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/588335-matt-biedel" },
+      { "label": "Flickering Myth", "url": "https://www.flickeringmyth.com/2021/04/mike-flanagan-to-direct-mars-set-horror-the-season-of-passage-for-universal" }
+    ]
+  },
+  {
+    "id": 551462,
+    "profile": "Katie Parker has been with Flanagan longer than any other actor: she played Callie, the lead's sister, in Absentia, the $70,000 Kickstarter feature that started it all. She followed it with a phone-store clerk in Oculus, Poppy Hill in Hill House, Silent Sarey in Doctor Sleep, Perdita Willoughby in Bly Manor, Aceso in The Midnight Club and Annabel Lee in Usher. Some credits list her as Catherine Parker.",
+    "firstWorkedWith": "absentia",
+    "funFact": "She has played the sister of a Flanagan lead twice, fourteen years apart: Callie in Absentia and Perdita, Viola's sister, in Bly Manor.",
+    "sources": [
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/551462-katie-parker" },
+      { "label": "Wikipedia: Absentia", "url": "https://en.wikipedia.org/wiki/Absentia_(film)" }
+    ]
+  },
+  {
+    "id": 1883866,
+    "profile": "Lulu Wilson was Doris Zander, the possessed younger daughter in Ouija: Origin of Evil, then young Shirley Crain in Hill House, where her adult counterpart was Elizabeth Reaser, her Ouija mother. She came back for the opening of Usher as teenage Madeline, a shoot she describes as being covered in water, blood and dirt, “a distressed goose.”",
+    "firstWorkedWith": "ouija-origin-of-evil",
+    "funFact": "The Ouija board and planchette sit in the twins' room in that Usher flashback, and Flanagan posted a set photo of the two of them holding the board.",
+    "sources": [
+      { "label": "SlashFilm", "url": "https://slashfilm.com/1299897/lulu-wilson-distressed-goose-mike-flanagans-fall-of-the-house-of-usher" },
+      { "label": "Collider", "url": "https://collider.com/fall-of-the-house-of-usher-ouija-origin-of-evil-easter-egg-image/" }
+    ]
+  },
+  {
+    "id": 2,
+    "profile": "Mark Hamill came to Usher as a self-described “Flanafan” of Hill House, Bly Manor and Midnight Mass, and played Arthur Pym, the Ushers' fixer; his wife, Marilou, who doesn't watch horror, talked him into it after he read the scripts. He followed it with Albie Krantz, Chuck's grandfather, in The Life of Chuck, and a secret prosthetic cameo as the fake psychic Damon Nostra in Carrie.",
+    "firstWorkedWith": "the-fall-of-the-house-of-usher",
+    "funFact": "For Carrie, his only requests were to keep the cameo secret and to get a nose.",
+    "sources": [
+      { "label": "SlashFilm", "url": "https://www.slashfilm.com/1424950/the-fall-of-the-house-of-usher-mark-hamill-mike-flanagan-fan" },
+      { "label": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/mark-hamill-the-fall-of-the-house-of-usher-interview" },
+      { "label": "TVLine", "url": "https://www.tvline.com/2282183/mark-hamill-carrie-episode-6-cameo-eplained/" }
+    ]
+  },
+  {
+    "id": 3295334,
+    "profile": "Sauriyan Sapkota played Amesh, one of the hospice teens, in The Midnight Club, and moved straight into Usher as Prospero “Perry” Usher, whose masked party opens the run of deaths. Sapkota also appears as Ram in The Life of Chuck and voices a student caller in Carrie.",
+    "firstWorkedWith": "the-midnight-club",
+    "funFact": "Sapkota is one of the Midnight Club teens promoted into Usher, alongside Ruth Codd and Aya Furukawa.",
+    "sources": [
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" },
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" }
+    ]
+  },
+  {
+    "id": 3295331,
+    "profile": "Ruth Codd was a barber and makeup artist with no acting experience when The Midnight Club's casting team found her on TikTok, where she posted about makeup and disability. Like her character, Anya, she is a below-the-knee amputee, and Flanagan said “Ruth crushes” Anya's episode. She returned as Juno, Roderick's young second wife, in Usher, and as Maeve in Carrie.",
+    "firstWorkedWith": "the-midnight-club",
+    "funFact": "Her breakout episode, “Anya,” was written by Jamie Flanagan.",
+    "sources": [
+      { "label": "Looper", "url": "https://www.looper.com/1417427/the-fall-of-the-house-of-usher-who-plays-juno-ruth-codd-how-discovered" },
+      { "label": "TVLine", "url": "https://tvline.com/2022/10/08/midnight-club-episode-7-recap-mike-flanagan-interview-anya-dies/" }
+    ]
+  },
+  {
+    "id": 2982416,
+    "profile": "Igby Rigney played Warren Flynn, Riley's altar-boy brother, who escapes the burning island at the end of Midnight Mass. That led to Kevin, Ilonka's love interest, in The Midnight Club, and Toby, a recurring part, in Usher.",
+    "firstWorkedWith": "midnight-mass",
+    "funFact": "Some fans read Kevin's name as a nod to Christopher Pike, whose real name is Kevin Christopher McFadden; that link is unconfirmed.",
+    "sources": [
+      { "label": "Wikipedia: Midnight Mass", "url": "https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)" },
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" }
+    ]
+  },
+  {
+    "id": 210454,
+    "profile": "Alex Essoe took on Shelley Duvall's Wendy Torrance for Doctor Sleep's Shining flashbacks. She went on to play Charlotte Wingrave in Bly Manor, Mildred Gunning in Midnight Mass, Poppy Corn in one of The Midnight Club's stories and a court witness in Usher.",
+    "firstWorkedWith": "doctor-sleep",
+    "funFact": "Her Mildred de-ages through five makeup phases; Trevor Macy: “She has five phases, everybody else has three, for obvious reasons.”",
+    "sources": [
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/210454-alex-essoe" },
+      { "label": "TheWrap", "url": "https://thewrap.com/midnight-mass-mildred-de-aging-makeup-digital-effects-mike-flanagan" }
+    ]
+  },
+  {
+    "id": 53755,
+    "profile": "Elizabeth Reaser played Alice Zander, the widowed fake medium in Ouija: Origin of Evil, then the adult Shirley Crain in Hill House. Her younger self in Hill House was Lulu Wilson, who had played her daughter in Ouija.",
+    "firstWorkedWith": "ouija-origin-of-evil",
+    "funFact": "On Ouija's practical effects: “It makes it harder sometimes because you're working with magnets and candles and Ouija boards.”",
+    "sources": [
+      { "label": "Wikipedia: Ouija: Origin of Evil", "url": "https://en.wikipedia.org/wiki/Ouija:_Origin_of_Evil" },
+      { "label": "Fangoria", "url": "https://www.fangoria.com/the-familiar-faces-of-fright-in-mike-flanagans-horror-universe/" }
+    ]
+  },
+  {
+    "id": 551020,
+    "profile": "Oliver Jackson-Cohen played Luke Crain, the twin fighting heroin addiction, in Hill House, and came back in Bly Manor as Peter Quint, the valet whose ghost uses Miles's body. Along with Victoria Pedretti, Jackson-Cohen is one of the two Hill House siblings who returned in new roles for Bly; neither has worked with Flanagan since.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "funFact": "Jackson-Cohen raised the red frosting on Luke's sobriety cake as a hint that Hill House's ending might not be real; Flanagan has said he considered a darker ending and cut it as “too cruel.”",
+    "sources": [
+      { "label": "Wikipedia: Bly Manor", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor" },
+      { "label": "Looper", "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/" }
+    ]
+  },
+  {
+    "id": 2117434,
+    "profile": "Victoria Pedretti played Nell Crain in Hill House, and the show's central twist belongs to her: the Bent-Neck Lady who haunts young Nell is Nell herself, so Pedretti effectively plays her own ghost. Bly Manor made Pedretti its lead as Dani Clayton, the au pair who takes the Lady in the Lake into herself to save Flora.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "funFact": "Bly Manor's love story is narrated by Carla Gugino, who played Nell's mother in Hill House.",
+    "sources": [
+      { "label": "Wikipedia: Hill House", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House_(TV_series)" },
+      { "label": "Wikipedia: Bly Manor", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor" }
+    ]
+  },
+  {
+    "id": 206661,
+    "profile": "Crystal Balint played Dolly Scarborough, Wade's wife, in Midnight Mass, opposite Michael Trucco. She was Maggie in The Midnight Club, Morella Usher, Frederick's wife, in Usher, and Nancy Piper in Carrie.",
+    "firstWorkedWith": "midnight-mass",
+    "funFact": "Her character in Usher's “Goldbug” watches Corman's The Pit and the Pendulum with her daughter and then hovers over Gerald's Game on a streaming menu.",
+    "sources": [
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" },
+      { "label": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg" }
+    ]
+  },
+  {
+    "id": 1024722,
+    "profile": "Annalise Basso has grown up across the Flanaverse: young Kaylie in Oculus, the teenage older sister Lina in Ouija: Origin of Evil, and Janice Halliday in The Life of Chuck. Basso also voices a student caller in Carrie.",
+    "firstWorkedWith": "oculus",
+    "funFact": "Karen Gillan, who played the grown-up Kaylie in Oculus, is in The Life of Chuck too.",
+    "sources": [
+      { "label": "Wikipedia: Annalise Basso", "url": "https://en.wikipedia.org/wiki/Annalise_Basso" }
+    ]
+  },
+  {
+    "id": 60472,
+    "profile": "Trevor Macy co-founded Intrepid Pictures in 2004 and produced Oculus, the start of a partnership that covers almost every Flanagan film and series since. The two signed Netflix's overall series deal together in 2019 and moved their TV deal to Amazon in 2022. When Flanagan launched Red Room Pictures in 2024, Macy stayed at Intrepid and kept producing with him, through The Life of Chuck and Carrie.",
+    "firstWorkedWith": "oculus",
+    "funFact": "A fake critic's blurb on the cover of Maddie Young's Midnight Mass novel prop in Hush is attributed to Macy.",
+    "sources": [
+      { "label": "Wikipedia: Intrepid Pictures", "url": "https://en.wikipedia.org/wiki/Intrepid_Pictures" },
+      { "label": "Netflix", "url": "https://about.netflix.com/news/netflix-makes-overall-series-deal-with-mike-flanagan-and-trevor-macy" }
+    ]
+  },
+  {
+    "id": 63099,
+    "profile": "Michael Fimognari has shot nearly every Flanagan film and series since Oculus, from Gerald's Game and Doctor Sleep to Hill House, Midnight Mass, Usher, Carrie and The Exorcist: Martyrs; Flanagan says he has “been my director of photography for my whole career.” He directs too: two episodes of The Midnight Club and half of Usher, where he is also an executive producer.",
+    "firstWorkedWith": "oculus",
+    "funFact": "Flanagan names Fimognari and first AD Morgan Beggs as crew he trusts “with my life.”",
+    "sources": [
+      { "label": "Wikipedia: Michael Fimognari", "url": "https://en.wikipedia.org/wiki/Michael_Fimognari" },
+      { "label": "SlashFilm", "url": "https://www.slashfilm.com/1068657/what-mike-flanagan-loves-about-collaborative-storytelling" }
+    ]
+  },
+  {
+    "id": 1910482,
+    "profile": "Jamie Flanagan, Mike's younger sibling, acted for about a decade in Equity theater and spent roughly six years as a cardiac sonographer, writing spec scripts on the side; two of them got them a staff job in the Bly Manor writers' room. They have since written “The Pupil” for Bly, four episodes of Midnight Mass, “Anya” for The Midnight Club, “The Pit and the Pendulum” for Usher and an episode of Carrie. On screen, credited as James, they played Jamie Lambert in Absentia, a funeral director in Hill House and Diesel Doug in Doctor Sleep.",
+    "firstWorkedWith": "absentia",
+    "funFact": "The two Flanagan siblings were set to co-write The Season of Passage, Universal's planned film of Christopher Pike's Mars-set novel.",
+    "sources": [
+      { "label": "New 32 Productions interview", "url": "https://www.new32productions.com/jamie-flanagan/" },
+      { "label": "Wikipedia: Mike Flanagan", "url": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)" }
+    ]
+  },
+  {
+    "id": 989610,
+    "profile": "Andrew Grush is one half of The Newton Brothers, with Taylor Stewart, the duo who have scored every Flanagan work since Oculus. They shared Before I Wake with Danny Elfman and replaced the first film's composer on Ouija: Origin of Evil, and their music runs through every Netflix series, The Life of Chuck, Carrie and The Exorcist: Martyrs. TMDB also credits Grush on screen, as the organist in Midnight Mass and as Mac in The Life of Chuck.",
+    "firstWorkedWith": "oculus",
+    "sources": [
+      { "label": "Wikipedia: Doctor Sleep", "url": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)" },
+      { "label": "Wikipedia: Ouija: Origin of Evil", "url": "https://en.wikipedia.org/wiki/Ouija:_Origin_of_Evil" }
+    ]
+  },
+  {
+    "id": 1770856,
+    "profile": "Taylor Stewart is the other half of The Newton Brothers, with Andrew Grush, and has scored every Flanagan work since Oculus, from the early features through Hill House, Midnight Mass, Usher, The Life of Chuck and Carrie. The duo shared the Before I Wake score with Danny Elfman and took over Ouija: Origin of Evil from the first film's composer.",
+    "firstWorkedWith": "oculus",
+    "sources": [
+      { "label": "Wikipedia: Before I Wake", "url": "https://en.wikipedia.org/wiki/Before_I_Wake_(2016_film)" },
+      { "label": "Wikipedia: Ouija: Origin of Evil", "url": "https://en.wikipedia.org/wiki/Ouija:_Origin_of_Evil" }
+    ]
+  },
+  {
+    "id": 1224355,
+    "profile": "Jeff Howard co-wrote Oculus with Flanagan and stayed on as his most frequent screenwriting partner through the studio years: Before I Wake, Ouija: Origin of Evil and Gerald's Game. Howard co-wrote Hill House's long-take episode “Two Storms,” then wrote on and executive produced Midnight Mass.",
+    "firstWorkedWith": "oculus",
+    "funFact": "Howard says the Hill House team knows why every hidden ghost is where it is, even if the show never explains it.",
+    "sources": [
+      { "label": "Wikipedia: Gerald's Game", "url": "https://en.wikipedia.org/wiki/Gerald%27s_Game_(film)" },
+      { "label": "Looper", "url": "https://www.looper.com/138439/the-haunting-of-hill-house-hidden-details-you-missed/" }
+    ]
+  },
+  {
+    "id": 4943840,
+    "profile": "Cody Flanagan, son of Mike Flanagan and Kate Siegel, plays the youngest of the four Chucks, seven-year-old Chuck Krantz, in The Life of Chuck. TMDB also credits him as Jeremy in one episode of Carrie.",
+    "firstWorkedWith": "the-life-of-chuck",
+    "funFact": "The other Chucks are Benjamin Pajak at 11, Jacob Tremblay at 17 and Tom Hiddleston as an adult.",
+    "sources": [
+      { "label": "Wikipedia: The Life of Chuck", "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck" }
+    ]
+  },
+  {
+    "id": 6534182,
+    "profile": "Theo Flanagan, daughter of Mike Flanagan and Kate Siegel, plays the young Margaret White in Carrie, the girlhood of the role her father wrote for Samantha Sloyan. Her mother voices Adelaide in the same series and directed its third episode.",
+    "firstWorkedWith": "carrie",
+    "funFact": "She is named after Theo Crain, Kate Siegel's character in Hill House.",
+    "sources": [
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" },
+      { "label": "Wikipedia: Kate Siegel", "url": "https://en.wikipedia.org/wiki/Kate_Siegel" }
+    ]
+  },
+  {
+    "id": 5042397,
+    "profile": "Rigby, Flanagan's son with Courtney Bell, was one of the teenagers Flanagan brought into the Carrie writers' room, for a series whose bullying plays out partly on Instagram. TMDB also credits him on screen as Trent in one episode.",
+    "firstWorkedWith": "carrie",
+    "sources": [
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" }
+    ]
+  },
+  {
+    "id": 572407,
+    "profile": "Courtney Bell led Absentia as Tricia, the wife about to declare her missing husband dead, opposite Katie Parker as her sister. She returned as an auctioneer in Oculus and as Andrea in Before I Wake. She and Flanagan were in a relationship before he married Kate Siegel, and their son, Rigby, later sat in the Carrie writers' room.",
+    "firstWorkedWith": "absentia",
+    "sources": [
+      { "label": "TMDB", "url": "https://www.themoviedb.org/person/572407-courtney-bell" },
+      { "label": "Wikipedia: Mike Flanagan", "url": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)" }
+    ]
+  },
+  {
+    "id": 1277188,
+    "profile": "Jacob Tremblay played Cody, the boy whose dreams come true, in Before I Wake, then Bradley Trevor, the doomed baseball boy, in Doctor Sleep. He came back older as the 17-year-old Chuck in The Life of Chuck.",
+    "firstWorkedWith": "before-i-wake",
+    "funFact": "Flanagan reportedly threw him an on-set birthday celebration during Doctor Sleep, the second time he had done so.",
+    "sources": [
+      { "label": "CinemaBlend", "url": "https://blend.cinemablend.com/news/2549761/jacob-tremblays-doctor-sleep-scene-birthday-cake-fake-ob-tremblay-and-more-bizarre-behind-the-scenes-stories" },
+      { "label": "Wikipedia: The Life of Chuck", "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck" }
+    ]
+  },
+  {
+    "id": 543261,
+    "profile": "Karen Gillan played Kaylie Russell, the sister who builds the trap for the Lasser Glass, in Oculus. A decade later Gillan returned for The Life of Chuck as Felicia Gordon. Of the reunion: “It felt the same! We were back in Alabama like we'd never left.”",
+    "firstWorkedWith": "oculus",
+    "sources": [
+      { "label": "Yahoo/Collider", "url": "https://uk.news.yahoo.com/marvel-star-karen-gillan-says-210926356.html" },
+      { "label": "Wikipedia: Mike Flanagan", "url": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)" }
+    ]
+  },
+  {
+    "id": 5141,
+    "profile": "The Nightmare on Elm Street star played Dr. Georgina Stanton, who runs the Brightcliffe hospice in The Midnight Club, a casting Flanagan announced himself on Twitter. Heather Langenkamp returned as Vera Stanley in The Life of Chuck.",
+    "firstWorkedWith": "the-midnight-club",
+    "sources": [
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" },
+      { "label": "Wikipedia: The Life of Chuck", "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck" }
+    ]
+  },
+  {
+    "id": 17005,
+    "profile": "The creature actor Doug Jones appears in the very first Flanagan feature, as Walter Lambert in Absentia. Jones returned under prosthetics as the ghoul Marcus in Ouija: Origin of Evil, five years later.",
+    "firstWorkedWith": "absentia",
+    "sources": [
+      { "label": "Wikipedia: Absentia", "url": "https://en.wikipedia.org/wiki/Absentia_(film)" },
+      { "label": "Wikipedia: Ouija: Origin of Evil", "url": "https://en.wikipedia.org/wiki/Ouija:_Origin_of_Evil" }
+    ]
+  },
+  {
+    "id": 2118623,
+    "profile": "Kyliegh Curran played Abra Stone, the girl with the strongest shine, in Doctor Sleep. Curran returned in Usher as Lenore, Roderick's granddaughter and the one heir Verna spares a violent death.",
+    "firstWorkedWith": "doctor-sleep",
+    "funFact": "Lenore is the one who scrolls past Gerald's Game on the streaming menu in Usher's “Goldbug.”",
+    "sources": [
+      { "label": "Netflix Tudum", "url": "https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-mike-flanagan-easter-egg" },
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" }
+    ]
+  },
+  {
+    "id": 2131391,
+    "profile": "Violet McGraw played young Nell, the child haunted by the Bent-Neck Lady, in Hill House. McGraw went on to play Violet in Doctor Sleep and Iris in The Life of Chuck, one of several Flanagan child actors who kept getting called back as they grew up.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "sources": [
+      { "label": "Wikipedia: Hill House", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House_(TV_series)" },
+      { "label": "Wikipedia: Doctor Sleep", "url": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)" }
+    ]
+  },
+  {
+    "id": 9631,
+    "profile": "Carel Struycken played the Moonlight Man, the tall figure in the corner of Jessie's room in Gerald's Game. Struycken returned as Grandpa Flick of the True Knot in Doctor Sleep, linking Flanagan's first two King films.",
+    "firstWorkedWith": "geralds-game",
+    "sources": [
+      { "label": "Wikipedia: Gerald's Game", "url": "https://en.wikipedia.org/wiki/Gerald%27s_Game_(film)" },
+      { "label": "Wikipedia: Doctor Sleep", "url": "https://en.wikipedia.org/wiki/Doctor_Sleep_(2019_film)" }
+    ]
+  },
+  {
+    "id": 26457,
+    "profile": "Matthew Lillard played Gus in The Life of Chuck and Principal Grayle in Carrie, whose electrocution at the prom Flanagan says nods to Lillard's death in Scream. Lillard also leads Rot, the body-horror film Flanagan is producing through Red Room Pictures.",
+    "firstWorkedWith": "the-life-of-chuck",
+    "funFact": "Principal Grayle's prom shirt shows a red door, which fans read as a Hill House nod.",
+    "sources": [
+      { "label": "Geek Vibes Nation", "url": "https://geekvibesnation.com/carrie-season-1-easter-eggs/" },
+      { "label": "Fangoria", "url": "https://www.fangoria.com/rot-matthew-lillard-amber-midthunder/" }
+    ]
+  },
+  {
+    "id": 51798,
+    "profile": "Katee Sackhoff played Marie Russell, the mother, in Oculus. More than a decade later Sackhoff returned as Amanda West in Carrie, part of a cast that reunites several Battlestar Galactica actors.",
+    "firstWorkedWith": "oculus",
+    "sources": [
+      { "label": "Screen Rant", "url": "https://screenrant.com/carrie-tv-show-cast-mike-flanagan-returning-actors/" },
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" }
+    ]
+  },
+  {
+    "id": 1275704,
+    "profile": "Aya Furukawa played Natsuki, one of the hospice teens, in The Midnight Club. Furukawa returned in a smaller recurring part as Tina in Usher, one of the Midnight Club cast who moved straight into Flanagan's next series.",
+    "firstWorkedWith": "the-midnight-club",
+    "sources": [
+      { "label": "Wikipedia: Usher", "url": "https://en.wikipedia.org/wiki/The_Fall_of_the_House_of_Usher_(miniseries)" }
+    ]
+  },
+  {
+    "id": 3217856,
+    "profile": "Annarah Cymone played Leeza Scarborough, the paralysed girl whose miracle sets Crockett Island talking and who escapes the burning island with Warren at the end of Midnight Mass. Cymone then played Sandra in The Midnight Club, and is also credited as Annarah Shephard.",
+    "firstWorkedWith": "midnight-mass",
+    "sources": [
+      { "label": "Wikipedia: Midnight Mass", "url": "https://en.wikipedia.org/wiki/Midnight_Mass_(miniseries)" },
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" }
+    ]
+  },
+  {
+    "id": 939406,
+    "profile": "Elan Gale writes for the company and shows up in it: a cameo in Hill House, writing credits on Midnight Mass, two episodes of The Midnight Club and Carrie's “Physical Education,” and the prom DJ in Carrie. TMDB also lists Gale as an executive producer and a radio voice on The Life of Chuck.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "sources": [
+      { "label": "TV Guide", "url": "https://www.tvguide.com/news/haunting-hill-house-elan-gale-cameo" },
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" }
+    ]
+  },
+  {
+    "id": 1822278,
+    "profile": "Leah Fong produced and wrote on Bly Manor, including “The Romance of Certain Old Clothes,” the episode that tells Viola's story. Fong then co-created The Midnight Club with Flanagan, writing episodes 1, 2 and 10 and executive producing.",
+    "firstWorkedWith": "the-haunting-of-bly-manor",
+    "sources": [
+      { "label": "Wikipedia: Bly Manor", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor" },
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" }
+    ]
+  },
+  {
+    "id": 2149546,
+    "profile": "Rebecca Leigh Klingel invented two of the Flanaverse's best devices: the Red Room in Hill House and Flora's dollhouse in Bly Manor. Klingel wrote Hill House's “Witness Marks,” Bly's “The Jolly Corner,” Usher's “Goldbug” and an episode of Carrie, which Klingel also produced.",
+    "firstWorkedWith": "the-haunting-of-hill-house",
+    "sources": [
+      { "label": "TheWrap", "url": "https://thewrap.com/haunting-bly-manor-hidden-ghosts-flora-dollhouse" },
+      { "label": "Wikipedia: Hill House", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Hill_House_(TV_series)" }
+    ]
+  },
+  {
+    "id": 231199,
+    "profile": "Axelle Carolyn directed Bly Manor's “The Romance of Certain Old Clothes,” two episodes of The Midnight Club including “Anya,” and Carrie's fourth episode, making Carolyn the only outside director to return across three Flanagan series. TMDB also credits a voice role in The Life of Chuck.",
+    "firstWorkedWith": "the-haunting-of-bly-manor",
+    "sources": [
+      { "label": "Wikipedia: Bly Manor", "url": "https://en.wikipedia.org/wiki/The_Haunting_of_Bly_Manor" },
+      { "label": "Wikipedia: Carrie", "url": "https://en.wikipedia.org/wiki/Carrie_(TV_series)" }
+    ]
+  },
+  {
+    "id": 1466442,
+    "profile": "Morgan Beggs was first assistant director on Bly Manor and Midnight Mass, the job that keeps a shoot running, and stepped up to direct “Midnight,” the finale of The Midnight Club. Flanagan names him with Michael Fimognari as the crew he trusts “with my life.”",
+    "firstWorkedWith": "the-haunting-of-bly-manor",
+    "sources": [
+      { "label": "Wikipedia: Mike Flanagan", "url": "https://en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)" },
+      { "label": "Wikipedia: The Midnight Club", "url": "https://en.wikipedia.org/wiki/The_Midnight_Club" }
+    ]
+  },
+  {
+    "id": 216570,
+    "profile": "Scott Graham is the first Flanagan lead of all: Brody Campbell in the student feature Ghosts of Hamilton Street, then Tim Russel, the man testing the mirror, in the short Oculus: Chapter 3. Graham went on to small parts in Absentia, as Dr. Elliott, and in the feature Oculus.",
+    "firstWorkedWith": "ghosts-of-hamilton-street",
+    "sources": [
+      { "label": "Wikipedia: Oculus", "url": "https://en.wikipedia.org/wiki/Oculus_(film)" },
+      { "label": "TMDB", "url": "https://www.themoviedb.org/movie/430253" }
+    ]
+  },
+  {
+    "id": 3356007,
+    "profile": "Benjamin Pajak plays Chuck at 11 in the childhood act of The Life of Chuck. Pajak is back for The Exorcist: Martyrs, among a long list of returning regulars.",
+    "firstWorkedWith": "the-life-of-chuck",
+    "sources": [
+      { "label": "Wikipedia: The Life of Chuck", "url": "https://en.wikipedia.org/wiki/The_Life_of_Chuck" },
+      { "label": "Wikipedia: The Exorcist: Martyrs", "url": "https://en.wikipedia.org/wiki/The_Exorcist:_Martyrs" }
+    ]
+  },
+  {
+    "id": 17487,
+    "profile": "John Gallagher Jr. played the masked man with the crossbow in Hush, a role built around a villain who would rather play with his victim than kill her. A decade later Gallagher returns in The Exorcist: Martyrs.",
+    "firstWorkedWith": "hush",
+    "sources": [
+      { "label": "Wikipedia: Hush", "url": "https://en.wikipedia.org/wiki/Hush_(2016_feature_film)" },
+      { "label": "Wikipedia: The Exorcist: Martyrs", "url": "https://en.wikipedia.org/wiki/The_Exorcist:_Martyrs" }
+    ]
+  }
+]
