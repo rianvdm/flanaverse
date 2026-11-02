@@ -51,7 +51,7 @@ export function connectionChip(c: Connection): Raw {
 }
 
 export function authorChip(id: string, name: string): Raw {
-  return html`<a class="chip chip--author" href="#/sources#${id}">${glyph('author')}<span>${name}</span></a>`;
+  return html`<a class="chip chip--author" href="#/sources?author=${id}">${glyph('author')}<span>${name}</span></a>`;
 }
 
 /** Circular headshot with a bone ring; sizes: 'sm' 40px, 'md' 64px, 'lg' 120px, 'xl' 200px. */

@@ -23,7 +23,7 @@ export function buildSearchIndex(): MiniSearch<SearchDoc> {
       return { id: `person:${p.id}`, kind: 'person', title: p.name, sub: n ? `${n} work${n === 1 ? '' : 's'}` : (p.knownForDepartment ?? ''), text: roles, href: personHref(p.id), image: p.profile, weight: 1 + Math.min(p.appearances.length, 6) * 0.3 };
     }),
     ...model.connections.map<SearchDoc>((c) => ({ id: `conn:${c.id}`, kind: kindOf(c.category), title: c.title, sub: c.category, text: `${c.summary} ${c.appearances.map((a) => a.note).join(' ')}`, href: connectionHref(c.id), image: c.image ?? null, weight: 2 })),
-    ...model.authors.map<SearchDoc>((a) => ({ id: `author:${a.id}`, kind: 'author', title: a.name, sub: 'Source author', text: a.blurb, href: `#/sources#${a.id}`, image: null, weight: 2 })),
+    ...model.authors.map<SearchDoc>((a) => ({ id: `author:${a.id}`, kind: 'author', title: a.name, sub: 'Source author', text: a.blurb, href: `#/sources?author=${a.id}`, image: null, weight: 2 })),
   ];
   index = new MiniSearch<SearchDoc>({ fields: ['title', 'sub', 'text'], storeFields: ['kind', 'title', 'sub', 'href', 'image', 'weight'], searchOptions: { boost: { title: 4, sub: 1.5 }, prefix: true, fuzzy: 0.2 } });
   index.addAll(docs);

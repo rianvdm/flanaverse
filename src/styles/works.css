@@ -1,0 +1,42 @@
+/* #/works: the poster wall. */
+.wall__head { max-width: 68ch; margin-bottom: var(--s-6); }
+.wall__head h1 { margin: var(--s-2) 0 var(--s-3); }
+.wall__intro { color: var(--ash); font-size: var(--text-lg); margin-bottom: var(--s-5); }
+.wall__filters { margin: 0; }
+
+.wall__era { margin-top: var(--s-7); }
+.wall__era:first-child { margin-top: 0; }
+.wall__era-head {
+  display: grid; grid-template-columns: 1fr; gap: var(--s-1);
+  padding-top: var(--s-4); margin-bottom: var(--s-5);
+  border-top: 1px solid var(--hairline);
+}
+.wall__era-head .kicker { margin: 0; color: var(--brass); }
+.wall__blurb { margin: 0; color: var(--ash); font-style: italic; max-width: 60ch; }
+
+@media (min-width: 900px) {
+  .wall__era-head { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: end; column-gap: var(--s-6); }
+  .wall__era-head .kicker { grid-column: 1 / -1; }
+  .wall__era-head .wall__blurb { justify-self: end; text-align: right; }
+}
+
+.wall__grid .poster__extra { color: var(--ash); }
+
+/* The non-core tiers: quieter, smaller posters, side by side on wide screens */
+.wall__tails {
+  margin-top: var(--s-8); padding-top: var(--s-6);
+  border-top: 1px solid var(--hairline);
+  display: grid; gap: var(--s-7);
+}
+.wall__tail-head { margin-bottom: var(--s-4); }
+.wall__tail-head h2 { font-size: var(--text-2xl); margin-bottom: var(--s-1); }
+.wall__tail-head .wall__blurb { font-size: var(--text-sm); }
+.wall__tail .wall__grid { grid-template-columns: repeat(auto-fill, minmax(112px, 1fr)); }
+.wall__tail .poster img { opacity: 0.85; }
+.wall__tail .poster:hover img { opacity: 1; }
+@media (min-width: 768px) {
+  .wall__tails { display: flex; flex-wrap: wrap; gap: var(--s-7) var(--s-6); }
+  /* --n = posters in the section; each section is as wide as its posters, never narrower than its heading needs */
+  .wall__tail { flex: 0 1 max(300px, calc(var(--n) * 132px + (var(--n) - 1) * var(--s-4))); }
+  .wall__tail .wall__grid { grid-template-columns: repeat(auto-fill, 132px); column-gap: var(--s-4); }
+}
