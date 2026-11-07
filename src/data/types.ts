@@ -83,7 +83,10 @@ export interface Person {
   profileLarge: string | null;
 }
 
-/** Shapes of the hand-curated data (data/curated/*.json). */
+/**
+ * Shapes of the hand-curated data (data/curated/*.json).
+ * scripts/validate.mjs mirrors these at runtime; change both together.
+ */
 
 export type ConnectionCategory =
   | 'prop'        // a physical object that recurs (the Lasser Glass)
