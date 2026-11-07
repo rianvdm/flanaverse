@@ -10,10 +10,11 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "npm run check && vite build",
     "preview": "vite preview",
     "fetch": "node scripts/fetch-tmdb.mjs && node scripts/layout.mjs",
-    "check": "tsc --noEmit",
+    "check": "tsc --noEmit && npm run validate",
+    "validate": "node scripts/validate.mjs",
     "layout": "node scripts/layout.mjs",
     "deploy": "npm run build && wrangler deploy",
     "og": "node scripts/build-og.mjs"

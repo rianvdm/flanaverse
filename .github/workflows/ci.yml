@@ -1,0 +1,30 @@
+# Type-checks, validates the curated data (scripts/validate.mjs) and builds the
+# site on every pull request and every push to main. It never deploys: the
+# maintainer runs npm run deploy by hand.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # npm run build runs tsc, then scripts/validate.mjs, then vite build.
+      - run: npm run build

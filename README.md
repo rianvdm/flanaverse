@@ -18,8 +18,9 @@ The generated TMDB data and images are committed, so you don't need a TMDB API k
 | Command | What it does |
 |---|---|
 | `npm run dev` | Dev server on port 5173 |
-| `npm run check` | Type-check only |
-| `npm run build` | Type-check, then build to `dist/` |
+| `npm run validate` | Check the curated data: shapes, labels, and that every work, person, episode and image it mentions exists |
+| `npm run check` | Type-check, then validate |
+| `npm run build` | Type-check, validate, then build to `dist/` |
 | `npm run preview` | Serve the built `dist/` |
 
 ## Contributing
@@ -44,8 +45,8 @@ Code fixes and new views are welcome too. For anything bigger than a bug fix, op
 
 Before you open a PR:
 
-1. Run `npm run build` and make sure it passes. It type-checks the code but not the curated JSON, so also open the pages your change touches in `npm run dev` and check they render.
-2. Check those pages in a narrow window as well as a wide one.
+1. Run `npm run build` and make sure it passes. CI runs the same build on every PR, and a PR can't merge until it passes.
+2. Open the pages your change touches in `npm run dev`, in a narrow window as well as a wide one.
 3. Keep the PR to one change. A batch of easter eggs is one change; an easter egg plus a CSS refactor is two.
 
 If you use an AI coding agent, point it at [AGENTS.md](AGENTS.md).
@@ -65,6 +66,7 @@ If you use an AI coding agent, point it at [AGENTS.md](AGENTS.md).
 | `src/components/` | Shared chips, peek panel, "appears in" strip, search palette and trail |
 | `scripts/fetch-tmdb.mjs` | TMDB pipeline |
 | `scripts/layout.mjs` | Build-time force layout for the home map |
+| `scripts/validate.mjs` | Curated data checks, run by `npm run check`, `npm run build` and CI |
 
 ## Refreshing TMDB data
 
