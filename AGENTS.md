@@ -13,13 +13,14 @@ Do not add a UI framework, a CSS framework, a state library or a server.
 ```sh
 npm install
 npm run dev          # http://localhost:5173
-npm run check        # tsc --noEmit
-npm run build        # tsc --noEmit && vite build
+npm run validate     # check curated data (scripts/validate.mjs)
+npm run check        # tsc --noEmit, then validate
+npm run build        # check, then vite build
 npm run layout       # recompute src/data/generated/layout.json
 npm run fetch        # TMDB pipeline + layout; needs TMDB_API_KEY in env or .env
 ```
 
-There is no test suite and no linter. `npm run build` is the gate: run it before you call a change done.
+There is no test suite and no linter. `npm run build` is the gate: run it before you call a change done. CI (`.github/workflows/ci.yml`) runs the same build on every PR and push to `main`, and PRs can't merge until it passes.
 
 Never run `npm run deploy` or `wrangler deploy`. Only the maintainer deploys.
 
@@ -56,15 +57,15 @@ These come from `docs/SPEC.md` and apply to every change:
 
 **Never hand-edit** `src/data/generated/works.json`, `src/data/generated/people.json` or anything in `public/img/`. They are TMDB output from `scripts/fetch-tmdb.mjs`. To change them, change `data/works.json` or the script and rerun `npm run fetch` (which needs a TMDB key). If you don't have a key, change `data/works.json` only and say in the PR that a fetch is needed.
 
-**Curated content** lives in `data/curated/*.json`, and its shapes are in `src/data/types.ts`. The model imports the JSON with `as` casts, so **`npm run build` does not catch bad data**: a misspelled category, a work slug that doesn't exist, or a missing field will all build cleanly and then break or vanish at runtime. Check these by hand:
+**Curated content** lives in `data/curated/*.json`, and its shapes are in `src/data/types.ts`. The model imports the JSON with `as` casts, so tsc never checks it. `scripts/validate.mjs` does: it rejects unknown or missing keys, categories and confidence labels outside the allowed set, duplicate or non-kebab-case ids, work slugs not in `data/works.json`, TMDB person ids not in `src/data/generated/people.json`, `S1E3` refs to episodes that don't exist, non-http(s) source URLs and missing images. Read its errors and fix the data; don't loosen the validator to make a change pass.
 
-- `category` is one of `prop`, `egg`, `callback`, `reference`, `cameo`, `location`, `theme`.
-- `confidence` is one of `confirmed`, `reported`, `fan-theory`, and it matches the evidence (definitions in `README.md`). Never upgrade a label without a source that supports the higher level.
-- Connection `id`s are unique kebab-case.
-- Every `work` value is a slug that exists in `data/works.json`.
-- Every person id (`people`, `PersonMeta.id`) is a TMDB person id present in `src/data/generated/people.json`.
-- Episode references use `S1E3` form and follow Wikipedia's episode tables.
-- Every new or changed connection has at least one entry in `sources` with a working URL.
+If you change a curated type in `src/data/types.ts`, change the matching shape in `scripts/validate.mjs` in the same commit.
+
+The validator can't judge the content. Check these yourself:
+
+- `confidence` matches the evidence (definitions in `README.md`). Never upgrade a label without a source that supports the higher level.
+- Each source URL loads and says what the entry claims.
+- Episode numbers follow Wikipedia's episode tables.
 
 After editing curated data, open the affected pages in `npm run dev` (`#/connection/<id>`, `#/work/<slug>`, `#/themes`) and confirm the entry renders.
 
