@@ -3,3 +3,4 @@ dist/
 data/cache/
 .env
 .DS_Store
+.wrangler/

@@ -10,7 +10,7 @@
  * cache (or pass --refresh) to refetch.
  *
  * Usage:  TMDB_API_KEY=... node scripts/fetch-tmdb.mjs [--refresh] [--no-images]
- * The key is also read from ../product-ai/.env if not set in the environment.
+ * The key is also read from .env in the repo root (gitignored) if not set in the environment.
  */
 import { readFile, writeFile, mkdir, access } from 'node:fs/promises';
 import { createWriteStream } from 'node:fs';
@@ -43,11 +43,11 @@ const CONCURRENCY = 6;
 async function loadKey() {
   if (process.env.TMDB_API_KEY) return process.env.TMDB_API_KEY;
   try {
-    const env = await readFile(path.resolve(ROOT, '..', 'product-ai', '.env'), 'utf8');
+    const env = await readFile(path.join(ROOT, '.env'), 'utf8');
     const m = env.match(/^TMDB_API_KEY=["']?([^"'\n]+)/m);
     if (m) return m[1];
   } catch {}
-  throw new Error('TMDB_API_KEY not set and not found in ../product-ai/.env');
+  throw new Error('TMDB_API_KEY not set in the environment or in .env');
 }
 const KEY = await loadKey();
 
