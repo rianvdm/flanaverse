@@ -7,6 +7,7 @@ import { register, registerNotFound, start, onRoute, beforeRender } from './lib/
 import { installPaletteShortcuts, openPalette } from './components/palette';
 import { mountTrail, renderTrail } from './components/trail';
 import { closePeek } from './components/peek';
+import { CORRECTION_URL, CONTRIBUTING_URL } from './lib/links';
 import './styles/base.css';
 import './styles/shell.css';
 
@@ -35,7 +36,8 @@ export function mountApp(root: HTMLElement): void {
     <div class="trail" id="trail" hidden></div>
     <main id="main" class="shell-main" tabindex="-1"></main>
     <footer class="shell-footer">
-      <p>An unofficial fan map of Mike Flanagan's work. Film data and images from <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a>; this product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB. <a href="#/about">About & credits</a></p>
+      <p>An unofficial fan map of Mike Flanagan's work. Film data and images from <a href="https://www.themoviedb.org/" rel="noopener">TMDB</a>; this product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.</p>
+      <p class="shell-footer__links"><a href="#/about">About & credits</a> <a href="${CORRECTION_URL}" target="_blank" rel="noopener">Suggest a correction</a> <a href="${CONTRIBUTING_URL}" target="_blank" rel="noopener">Contribute on GitHub</a></p>
     </footer>`);
 
   root.querySelector('.shell-search')!.addEventListener('click', () => openPalette());

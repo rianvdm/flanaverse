@@ -25,7 +25,9 @@ The generated TMDB data and images are committed, so you don't need a TMDB API k
 
 ## Contributing
 
-Pull requests are welcome. The most useful ones are content fixes:
+Pull requests are welcome. If you've spotted a mistake but don't want to touch the code, [suggest a correction](https://github.com/rianvdm/flanaverse/issues/new?template=correction.yml) instead: say where on the site it is and link a source, and I'll make the change.
+
+The most useful pull requests are content fixes:
 
 - **Corrections.** A wrong episode number, a misattributed quote, a prop that turns out to be a different prop. Point to the source that shows it.
 - **New connections.** A prop, easter egg, callback, cameo, location or theme that the site is missing. Add it to `data/curated/connections.json` with at least one source.

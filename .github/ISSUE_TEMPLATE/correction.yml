@@ -1,0 +1,46 @@
+# Linked from the site footer and the About page (src/lib/links.ts). Field ids
+# double as query parameters, so a link can prefill them, e.g. &entry=lasser-glass.
+name: Suggest a correction
+description: Something on the site is wrong, missing or under-sourced.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the map accurate. You don't need to know any code: describe the problem and link a source, and I'll make the change.
+
+        Spoilers are fine here. The site doesn't hide them either.
+  - type: input
+    id: entry
+    attributes:
+      label: Where on the site?
+      description: Paste the page URL, or name the work, person or connection.
+      placeholder: https://flanaverse.elezea.com/#/connection/lasser-glass
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of change?
+      options:
+        - Something is wrong
+        - Something is missing
+        - A better source, or a confidence label should change
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong, and what should it say?
+      description: An episode number, a misattributed quote, a prop that turns out to be a different prop, a connection the site doesn't have yet.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link a reader can follow, such as an interview, a post from the cast or crew, an article, or an episode and timestamp. Confidence labels depend on who said it, so on-the-record sources from the production count most.
+    validations:
+      required: true
