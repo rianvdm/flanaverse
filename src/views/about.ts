@@ -1,7 +1,8 @@
 /**
  * #/about: what the site is, how it was built, the TMDB notice and logo
  * (required by the TMDB API terms), data freshness, confidence labels,
- * research sources, keyboard shortcuts and the fan-project disclaimer.
+ * research sources, how to send corrections, keyboard shortcuts and the
+ * fan-project disclaimer.
  */
 import type { Route } from '../lib/router';
 import { html, mountHtml, type Raw } from '../lib/html';
@@ -9,6 +10,7 @@ import { model, workHref } from '../data/model';
 import type { Confidence } from '../data/types';
 import { glyph } from '../components/chips';
 import { confidenceBadge, CONFIDENCE_HINT } from './connections';
+import { CORRECTION_URL, CONTRIBUTING_URL, REPO_URL } from '../lib/links';
 import '../styles/about.css';
 
 /** Required TMDB notice; keep this wording exact. */
@@ -45,7 +47,7 @@ export default function render(_route: Route, mount: HTMLElement) {
     <header class="about-head">
       <p class="kicker">About &amp; credits</p>
       <h1>A fan map of Mike Flanagan's work</h1>
-      <p class="about-lede">Flanaverse follows the actors who keep returning across Flanagan's films and series, the props and easter eggs that tie the works together, and the authors he adapts. It runs locally, on one machine, for the fun of it.</p>
+      <p class="about-lede">Flanaverse follows the actors who keep returning across Flanagan's films and series, the props and easter eggs that tie the works together, and the authors he adapts. It's a fan project, made for the fun of it.</p>
       <dl class="about-stats">
         ${stat(model.coreWorks.length, 'Core works')}
         ${stat(model.repertory.length, 'Actors in 2+ works')}
@@ -59,7 +61,7 @@ export default function render(_route: Route, mount: HTMLElement) {
         <section class="about-sec" aria-labelledby="about-built">
           <h2 id="about-built">How it was built</h2>
           <p>Cast, crew, episodes, posters and stills come from the <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a> API, fetched by a script and cached on disk. Everything else (the props, eggs, callbacks, themes, author notes and actor profiles) is hand-curated from published sources, and every entry lists the sources it rests on.</p>
-          <p>The site was built in November 2026 with Vite, TypeScript and D3, with no framework. It is static: there is no server and no tracking, and it is meant to be run locally with <code>npm run dev</code>.</p>
+          <p>The site was built in November 2026 with Vite, TypeScript and D3, with no framework. It is static: there is no server and no tracking. The code and the curated data are <a href="${REPO_URL}" target="_blank" rel="noopener">open on GitHub</a>.</p>
           <p class="about-fresh">Data fetched from TMDB in November 2026. The newest dated title in it is <a href="${workHref(newest.slug)}">${newest.title}</a>, ${newest.releaseDate > today ? 'due' : 'released'} ${fmtDate(newest.releaseDate)}. TMDB asks that cached data be refreshed within six months, so the next refresh is due by May 2027.</p>
         </section>
 
@@ -70,6 +72,12 @@ export default function render(_route: Route, mount: HTMLElement) {
             ${CONFIDENCE_ORDER.map((c) => html`<div><dt>${confidenceBadge(c)}</dt><dd>${CONFIDENCE_HINT[c]}.</dd></div>`)}
           </dl>
           <p class="muted">Where sources disagree, the entry says so in its description. The research notes keep a list of open questions still to check frame by frame.</p>
+        </section>
+
+        <section class="about-sec" aria-labelledby="about-fix">
+          <h2 id="about-fix">Spotted a mistake?</h2>
+          <p>A wrong episode number, a misattributed quote, a prop that turns out to be a different prop, or a connection the map is missing: <a href="${CORRECTION_URL}" target="_blank" rel="noopener">suggest a correction</a> on GitHub. You don't need to know any code. Say where on the site the problem is and link a source that shows it, because the labels above depend on who said it.</p>
+          <p>If you'd rather make the change yourself, the <a href="${CONTRIBUTING_URL}" target="_blank" rel="noopener">contributing guide</a> explains how the data is laid out and how to open a pull request.</p>
         </section>
 
         <section class="about-sec" aria-labelledby="about-research">

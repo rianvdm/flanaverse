@@ -29,4 +29,5 @@ body.has-peek .shell-main { padding-right: 0; }
 .shell-footer { padding: var(--s-6) var(--gutter); border-top: 1px solid var(--hairline); font-family: var(--font-ui); font-size: var(--text-xs); color: var(--dust); }
 .shell-footer p { max-width: 80ch; margin: 0; }
 .shell-footer a { color: var(--ash); }
+.shell-footer .shell-footer__links { display: flex; flex-wrap: wrap; gap: var(--s-2) var(--s-5); margin-top: var(--s-3); }
 .shell-footer a:hover { color: var(--candle); }
